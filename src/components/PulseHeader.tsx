@@ -11,12 +11,30 @@ export interface Kpis {
   topArea: string
 }
 
-function KpiTile({ label, value, sub }: { label: string; value: string; sub?: string }) {
+export function formatRunDate(generated: string): string {
+  const d = new Date(`${generated}T12:00:00`)
+  if (!Number.isNaN(d.getTime()) && /^\d{4}-\d{2}-\d{2}/.test(generated)) {
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+  }
+  return generated
+}
+
+function KpiMini({
+  label,
+  value,
+  share,
+}: {
+  label: string
+  value: string
+  share?: string
+}) {
   return (
-    <div className="kpi-tile">
-      <span className="eyebrow">{label}</span>
-      <span className="kpi-value">{value}</span>
-      {sub && <span className="kpi-sub">{sub}</span>}
+    <div className="kpi-mini">
+      <span className="kpi-mini-label">{label}</span>
+      <span className="kpi-mini-value">
+        {value}
+        {share && <span className="kpi-mini-share">{share}</span>}
+      </span>
     </div>
   )
 }
@@ -31,42 +49,38 @@ export default function PulseHeader({
   onMethodology: () => void
 }) {
   return (
-    <header className="pulse-header">
-      <div className="header-top">
-        <div>
-          <p className="wordmark">HOMEBASE</p>
-          <div className="meridian-line" aria-hidden="true" />
-          <p className="header-sub">Houston home command center · Meridian Dark</p>
-          <p className="run-stamp">
-            Updated {generated} · {kpis.count} homes scored · Prices as listed
-          </p>
+    <>
+      <header className="home-header">
+        <div className="home-header-left">
+          <p className="wordmark wordmark-sm">HOMEBASE</p>
+          <span className="run-stamp-inline">
+            {formatRunDate(generated)} run · {kpis.count} homes
+          </span>
         </div>
-        <button className="btn-ghost" onClick={onMethodology}>
-          How scoring works
+        <button className="icon-btn" onClick={onMethodology} aria-label="How scoring works">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <circle cx="12" cy="12" r="9" stroke="currentColor" strokeWidth="2" />
+            <path d="M12 11v5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
+            <circle cx="12" cy="8" r="1.4" fill="currentColor" />
+          </svg>
         </button>
-      </div>
-      <div className="kpi-grid">
-        <KpiTile label="Homes tracked" value={String(kpis.count)} />
-        <KpiTile label="Median price" value={kpis.medianPrice == null ? '—' : money(kpis.medianPrice)} />
-        <KpiTile
+        <span className="meridian-line header-meridian" aria-hidden="true" />
+      </header>
+      <div className="kpi-strip" aria-label="Run summary">
+        <KpiMini label="Homes tracked" value={String(kpis.count)} />
+        <KpiMini label="Median price" value={kpis.medianPrice == null ? '—' : money(kpis.medianPrice)} />
+        <KpiMini
           label="Median $/sqft"
           value={kpis.medianPpsf == null ? '—' : `$${Math.round(kpis.medianPpsf)}`}
         />
-        <KpiTile
-          label="Median days on market"
-          value={kpis.medianDom == null ? '—' : String(Math.round(kpis.medianDom))}
-        />
-        <KpiTile
-          label="Under the $301K anchor"
+        <KpiMini label="Median DOM" value={kpis.medianDom == null ? '—' : String(Math.round(kpis.medianDom))} />
+        <KpiMini
+          label="Under $301K anchor"
           value={String(kpis.underAnchor)}
-          sub={`${kpis.underAnchorPct.toFixed(0)}% of homes`}
+          share={`${kpis.underAnchorPct.toFixed(0)}%`}
         />
-        <KpiTile
-          label="Top deal score"
-          value={kpis.topScore == null ? '—' : kpis.topScore.toFixed(1)}
-          sub={kpis.topArea}
-        />
+        <KpiMini label="Top deal score" value={kpis.topScore == null ? '—' : kpis.topScore.toFixed(1)} />
       </div>
-    </header>
+    </>
   )
 }
