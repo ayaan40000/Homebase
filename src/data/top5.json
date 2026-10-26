@@ -1,0 +1,117 @@
+{
+ "generated": "2026-10-25",
+ "method": "Ranked by Composite Home Score desc; tie-break lower price, then lower DOM (null DOM last); 'flip'-flagged listings excluded (none in current data).",
+ "top5": [
+  {
+   "rank": 1,
+   "address": "4602 Highland Crest Dr, Richmond 77469",
+   "area": "Richmond",
+   "subdivision": "Highland Meadows Sec 2",
+   "price": 250000,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2769,
+   "year": 2022,
+   "dom": 66,
+   "ppsf": 90,
+   "url": "https://www.har.com/homedetail/4602-highland-crest-dr-richmond-tx-77469/16081597",
+   "composite_home_score": 67.7,
+   "deal_score": 70.2,
+   "est_monthly_piti_usd": 1745.41,
+   "front_end_ratio_pct": 20.94,
+   "flags": [
+    "stale",
+    "price-cut"
+   ],
+   "reason": "Composite 67.7 (Deal 70.2): cheapest $/sqft in the set at $90, $250,000 band floor, price-cut + DOM 66 leverage \u2014 but flagged 'Under Contract \u2014 verify status' in the source, so confirm availability first.",
+   "status_caution": "Under Contract \u2014 verify status (source highlight)"
+  },
+  {
+   "rank": 2,
+   "address": "21554 Barrett Knolls Dr, Richmond 77406",
+   "area": "Richmond",
+   "subdivision": "Long Meadow Farms",
+   "price": 250000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1935,
+   "year": 2011,
+   "dom": 13,
+   "ppsf": 129,
+   "url": "https://www.har.com/homedetail/21554-barrett-knolls-dr-richmond-tx-77406/8911548",
+   "composite_home_score": 67.6,
+   "deal_score": 69.9,
+   "est_monthly_piti_usd": 1745.41,
+   "front_end_ratio_pct": 20.94,
+   "flags": [],
+   "reason": "Composite 67.6 (Deal 69.9): $129/sqft; $250,000 near the band floor; built 2011."
+  },
+  {
+   "rank": 3,
+   "address": "7611 Marbella Mtn, Richmond 77469",
+   "area": "Richmond",
+   "subdivision": "Esperanza",
+   "price": 256990,
+   "beds": 4,
+   "baths": 3.5,
+   "sqft": 2233,
+   "year": 2026,
+   "dom": null,
+   "ppsf": 115,
+   "url": "https://www.har.com/homedetail/7611-marbella-mtn-richmond-tx-77469/17657856",
+   "composite_home_score": 67.3,
+   "deal_score": 69.4,
+   "est_monthly_piti_usd": 1806.76,
+   "front_end_ratio_pct": 21.68,
+   "flags": [
+    "price-cut"
+   ],
+   "reason": "Composite 67.3 (Deal 69.4): $115/sqft; price-cut flag; new construction; built 2026."
+  },
+  {
+   "rank": 4,
+   "address": "5219 Santa Cruz Bay, Richmond 77469",
+   "area": "Richmond",
+   "subdivision": "Esperanza, Needville Area",
+   "price": 268990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 2233,
+   "year": 2026,
+   "dom": null,
+   "ppsf": 120,
+   "url": "https://www.har.com/homedetail/5219-santa-cruz-bay-richmond-tx-77469/17687857",
+   "composite_home_score": 67.3,
+   "deal_score": 69.4,
+   "est_monthly_piti_usd": 1912.09,
+   "front_end_ratio_pct": 22.95,
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "reason": "Composite 67.3 (Deal 69.4): $120/sqft; price-cut flag; new construction; built 2026."
+  },
+  {
+   "rank": 5,
+   "address": "4918 Alder Bend Ln, Richmond 77469",
+   "area": "Richmond",
+   "subdivision": "Sunrise Meadow",
+   "price": 270000,
+   "beds": 5,
+   "baths": 2.5,
+   "sqft": 2679,
+   "year": 2012,
+   "dom": null,
+   "ppsf": 101,
+   "url": "https://www.har.com/homedetail/4918-alder-bend-ln-richmond-tx-77469/2516440",
+   "composite_home_score": 67.3,
+   "deal_score": 69.4,
+   "est_monthly_piti_usd": 1920.96,
+   "front_end_ratio_pct": 23.05,
+   "flags": [
+    "price-cut"
+   ],
+   "reason": "Composite 67.3 (Deal 69.4): $101/sqft; price-cut flag; built 2012."
+  }
+ ]
+}
