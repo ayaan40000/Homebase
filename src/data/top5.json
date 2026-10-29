@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25",
+ "generated": "2026-10-28",
  "method": "Ranked by Composite Home Score desc; tie-break lower price, then lower DOM (null DOM last); 'flip'-flagged listings excluded (none in current data).",
  "top5": [
   {
@@ -23,31 +23,11 @@
     "stale",
     "price-cut"
    ],
-   "reason": "Composite 67.7 (Deal 70.2): cheapest $/sqft in the set at $90, $250,000 band floor, price-cut + DOM 66 leverage \u2014 but flagged 'Under Contract \u2014 verify status' in the source, so confirm availability first.",
-   "status_caution": "Under Contract \u2014 verify status (source highlight)"
+   "reason": "Composite 67.7 (Deal 70.2): cheapest $/sqft in the set at $90, $250,000 band floor, price-cut + DOM 66 leverage — but flagged 'Under Contract — verify status' in the source, so confirm availability first.",
+   "status_caution": "Under Contract — verify status (source highlight)"
   },
   {
    "rank": 2,
-   "address": "21554 Barrett Knolls Dr, Richmond 77406",
-   "area": "Richmond",
-   "subdivision": "Long Meadow Farms",
-   "price": 250000,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1935,
-   "year": 2011,
-   "dom": 13,
-   "ppsf": 129,
-   "url": "https://www.har.com/homedetail/21554-barrett-knolls-dr-richmond-tx-77406/8911548",
-   "composite_home_score": 67.6,
-   "deal_score": 69.9,
-   "est_monthly_piti_usd": 1745.41,
-   "front_end_ratio_pct": 20.94,
-   "flags": [],
-   "reason": "Composite 67.6 (Deal 69.9): $129/sqft; $250,000 near the band floor; built 2011."
-  },
-  {
-   "rank": 3,
    "address": "7611 Marbella Mtn, Richmond 77469",
    "area": "Richmond",
    "subdivision": "Esperanza",
@@ -66,10 +46,10 @@
    "flags": [
     "price-cut"
    ],
-   "reason": "Composite 67.3 (Deal 69.4): $115/sqft; price-cut flag; new construction; built 2026."
+   "reason": "Composite 67.3 (Deal 69.4): $115/sqft; price-cut flag; built 2026."
   },
   {
-   "rank": 4,
+   "rank": 3,
    "address": "5219 Santa Cruz Bay, Richmond 77469",
    "area": "Richmond",
    "subdivision": "Esperanza, Needville Area",
@@ -89,10 +69,10 @@
     "new",
     "price-cut"
    ],
-   "reason": "Composite 67.3 (Deal 69.4): $120/sqft; price-cut flag; new construction; built 2026."
+   "reason": "Composite 67.3 (Deal 69.4): $120/sqft; price-cut flag; built 2026."
   },
   {
-   "rank": 5,
+   "rank": 4,
    "address": "4918 Alder Bend Ln, Richmond 77469",
    "area": "Richmond",
    "subdivision": "Sunrise Meadow",
@@ -112,6 +92,29 @@
     "price-cut"
    ],
    "reason": "Composite 67.3 (Deal 69.4): $101/sqft; price-cut flag; built 2012."
+  },
+  {
+   "rank": 5,
+   "address": "7607 Marbella Mtn, Richmond 77469",
+   "area": "Richmond",
+   "subdivision": "Split Level Esperanza",
+   "price": 272990,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2637,
+   "year": null,
+   "dom": null,
+   "ppsf": 104,
+   "url": "https://www.har.com/homedetail/7607-marbella-mtn-richmond-tx-77469/17657846",
+   "composite_home_score": 67.3,
+   "deal_score": 69.4,
+   "est_monthly_piti_usd": 1947.2,
+   "front_end_ratio_pct": 23.37,
+   "flags": [
+    "price-cut"
+   ],
+   "reason": "Composite 67.3 (Deal 69.4): $104/sqft; price-cut flag. — flagged 'Under Contract — verify status' in the source, so confirm availability first.",
+   "status_caution": "Under Contract — verify status (source highlight)"
   }
  ]
 }
