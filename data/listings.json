@@ -1,27 +1,7 @@
 {
  "disclaimer": "Online screen only. Tax \u22642.30%, full flood protocol, campus verification, and inspection still required before touring. DOM mixes Redfin/HAR days-on-market with Zillow days-on-Zillow. Inspector: Liju Varghese, Calv's Inspection Services LLC, TREC #27107-PI, 832-812-9675.",
- "generated": "2026-10-25",
+ "generated": "2026-10-28",
  "listings": [
-  {
-   "url": "https://www.zillow.com/homedetails/935-Grand-Junction-Dr-Katy-TX-77450/28290951_zpid/",
-   "address": "935 Grand Junction Dr, Katy 77450",
-   "area": "Katy",
-   "areaRank": 2,
-   "subdivision": "\u2014",
-   "price": 269900,
-   "beds": null,
-   "baths": null,
-   "sqft": 1681,
-   "year": null,
-   "dom": null,
-   "hoa": "\u2014",
-   "schools": "Katy ISD",
-   "flood": null,
-   "flags": [],
-   "highlights": [],
-   "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 161
-  },
   {
    "url": "https://www.zillow.com/homedetails/912-Sweet-Pine-Dr-Katy-TX-77450/118405126_zpid/",
    "address": "912 Sweet Pine Dr, Katy 77450",
@@ -159,26 +139,6 @@
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 134
-  },
-  {
-   "url": "https://www.har.com/homedetail/21554-barrett-knolls-dr-richmond-tx-77406/8911548",
-   "address": "21554 Barrett Knolls Dr, Richmond 77406",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Long Meadow Farms",
-   "price": 250000,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1935,
-   "year": 2011,
-   "dom": 13,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [],
-   "highlights": [],
-   "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 129
   },
   {
    "url": "https://www.har.com/homedetail/6410-indigo-cliff-dr-richmond-tx-77469/14368291",
@@ -699,34 +659,6 @@
    "ppsf": 166
   },
   {
-   "url": "https://www.redfin.com/TX/Richmond/26327-Christen-Canyon-Ln-77406/home/32649419",
-   "address": "26327 Christen Canyon Ln, Richmond, TX 77406",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Canyon Village at Westheimer Lakes",
-   "price": 275000,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1696,
-   "year": 2008,
-   "dom": 4,
-   "hoa": "$81/mo",
-   "schools": "Canyon Village at Westheimer Lakes",
-   "flood": 1,
-   "flags": [
-    "new",
-    "new-roof",
-    "incomplete"
-   ],
-   "highlights": [
-    "Roof 1 year old",
-    "Fresh paint",
-    "Under Contract \u2014 verify status"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 162
-  },
-  {
    "url": "https://www.har.com/homedetail/3318-driftwood-meadow-ln-richmond-tx-77406/16083459",
    "address": "3318 Driftwood Meadow Ln, Richmond 77406",
    "area": "Richmond",
@@ -850,7 +782,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Lakemont",
-   "price": 278900,
+   "price": 270900,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1513,
@@ -861,14 +793,16 @@
    "flood": 6,
    "flags": [
     "new",
-    "flood-caution"
+    "flood-caution",
+    "price-cut"
    ],
    "highlights": [
     "Fresh listing (Sep 25)",
-    "Appliances convey"
+    "Appliances convey",
+    "Cut $8,000 (Oct 28)"
    ],
    "inspector": "Flood Factor 6/10 \u2014 full flood protocol (FEMA + MAAPnext draft) before anything.",
-   "ppsf": 184
+   "ppsf": 179
   },
   {
    "url": "https://www.zillow.com/homedetails/4630-Ara-Dr-Richmond-TX-77469/464440758_zpid/",
@@ -898,7 +832,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Still Creek Ranch",
-   "price": 269990,
+   "price": 256990,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1819,
@@ -912,10 +846,11 @@
    ],
    "highlights": [
     "Price reduction per HAR",
-    "New construction"
+    "New construction",
+    "Cut $13,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 148
+   "ppsf": 141
   },
   {
    "url": "https://www.har.com/homedetail/4928-twin-summit-dr-richmond-tx-77469/16084896",
@@ -1143,7 +1078,8 @@
     "Price reduction per HAR",
     "New construction",
     "Seller may contribute",
-    "Price increased to $287,370 (was $285,370) on 2026-10-18 scan"
+    "Price increased to $287,370 (was $285,370) on 2026-10-18 scan",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 191
@@ -1348,7 +1284,9 @@
    "flags": [
     "price-cut"
    ],
-   "highlights": [],
+   "highlights": [
+    "Under Contract \u2014 verify status"
+   ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 104
   },
@@ -1393,7 +1331,9 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [],
-   "highlights": [],
+   "highlights": [
+    "Under Contract \u2014 verify status"
+   ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 139
   },
@@ -1403,7 +1343,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Arabella On the Prairie",
-   "price": 294990,
+   "price": 289990,
    "beds": 4,
    "baths": 2.0,
    "sqft": 1759,
@@ -1417,10 +1357,11 @@
    ],
    "highlights": [
     "New construction",
-    "Seller may contribute"
+    "Seller may contribute",
+    "Cut $5,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 168
+   "ppsf": 165
   },
   {
    "url": "https://www.har.com/homedetail/7615-tye-creek-ln-richmond-tx-77469/16086416",
@@ -1495,7 +1436,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Creekside Ranch",
-   "price": 295000,
+   "price": 285000,
    "beds": 4,
    "baths": 2.0,
    "sqft": 1538,
@@ -1504,10 +1445,14 @@
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
-   "flags": [],
-   "highlights": [],
+   "flags": [
+    "price-cut"
+   ],
+   "highlights": [
+    "Cut $10,000 (Oct 28)"
+   ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 192
+   "ppsf": 185
   },
   {
    "url": "https://www.har.com/homedetail/26006-rosin-lake-ln-richmond-tx-77406/15223507",
@@ -1535,7 +1480,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Still Creek Ranch",
-   "price": 275990,
+   "price": 270990,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1970,
@@ -1549,10 +1494,11 @@
    ],
    "highlights": [
     "Price reduction per HAR",
-    "New construction"
+    "New construction",
+    "Cut $5,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 140
+   "ppsf": 138
   },
   {
    "url": "https://www.har.com/homedetail/1316-mercantile-st-richmond-tx-77406/17058187",
@@ -1621,7 +1567,8 @@
     "price-cut"
    ],
    "highlights": [
-    "New construction"
+    "New construction",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 145
@@ -1842,7 +1789,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Sendero Sec 8",
-   "price": 299900,
+   "price": 289900,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1834,
@@ -1852,13 +1799,15 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [
-    "incomplete"
+    "incomplete",
+    "price-cut"
    ],
    "highlights": [
-    "Foreclosure \u2014 verify financeability"
+    "Foreclosure \u2014 verify financeability",
+    "Cut $10,000 (Oct 28)"
    ],
    "inspector": "Foreclosure \u2014 verify financeability and title.",
-   "ppsf": 164
+   "ppsf": 158
   },
   {
    "url": "https://www.har.com/homedetail/11138-overland-trail-dr-richmond-tx-77406/2408561",
@@ -1934,7 +1883,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Vacek Country Meadows Sec 1",
-   "price": 300000,
+   "price": 280000,
    "beds": 4,
    "baths": 2.5,
    "sqft": 2162,
@@ -1943,12 +1892,15 @@
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
-   "flags": [],
+   "flags": [
+    "price-cut"
+   ],
    "highlights": [
-    "Seller may contribute"
+    "Seller may contribute",
+    "Cut $20,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 139
+   "ppsf": 130
   },
   {
    "url": "https://www.har.com/homedetail/1344-mercantile-st-richmond-tx-77406/17058196",
@@ -1993,32 +1945,6 @@
    "highlights": [],
    "inspector": "Standard protocol when serious.",
    "ppsf": 161
-  },
-  {
-   "url": "https://www.redfin.com/TX/Richmond/6531-Magellan-Manor-Dr-77407/home/32700417",
-   "address": "6531 Magellan Manor Dr, Richmond 77407",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "\u2014",
-   "price": 290000,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1840,
-   "year": 2012,
-   "dom": 1,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "new"
-   ],
-   "highlights": [
-    "1 day on market (Zillow)",
-    "Dedicated office; high ceilings",
-    "Under Contract \u2014 verify status"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 158
   },
   {
    "url": "https://www.redfin.com/TX/Richmond/9307-Rustling-Manor-Ln-77407/home/109787736",
@@ -2091,30 +2017,6 @@
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 191
-  },
-  {
-   "url": "https://www.redfin.com/TX/Richmond/8207-Rustic-Chase-Dr-77407/home/206040885",
-   "address": "8207 Rustic Pine Trl, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Still Creek Ranch",
-   "price": 283990,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1970,
-   "year": 2026,
-   "dom": null,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "New construction (Lennar)"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 144
   },
   {
    "url": "https://www.redfin.com/TX/Richmond/3330-Brushy-Marsh-Dr-77406/home/192938515",
@@ -2264,7 +2166,8 @@
     "incomplete"
    ],
    "highlights": [
-    "Built 2022 by Anglia Homes"
+    "Built 2022 by Anglia Homes",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
    "ppsf": 161
@@ -2275,7 +2178,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Still Creek Ranch",
-   "price": 268991,
+   "price": 265990,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1819,
@@ -2291,10 +2194,11 @@
    ],
    "highlights": [
     "New construction",
-    "Built 2026 by Lennar"
+    "Built 2026 by Lennar",
+    "Cut $3,001 (Oct 28)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 148
+   "ppsf": 146
   },
   {
    "url": "https://www.har.com/homedetail/5506-dovish-brook-ln-richmond-tx-77469/17684984",
@@ -2302,7 +2206,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Still Creek Ranch",
-   "price": 285990,
+   "price": 280990,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1970,
@@ -2318,10 +2222,11 @@
    "highlights": [
     "New construction",
     "Built 2026 by Lennar",
-    "Price cut per Redfin (Oct 25)"
+    "Price cut per Redfin (Oct 25)",
+    "Cut $5,000 (Oct 28)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 145
+   "ppsf": 143
   },
   {
    "url": "https://www.har.com/homedetail/3802-cloudbluff-ln-richmond-tx-77469/9797806",
@@ -2384,7 +2289,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Walnut Creek Sec 16",
-   "price": 299990,
+   "price": 289900,
    "beds": 4,
    "baths": null,
    "sqft": 1998,
@@ -2399,10 +2304,11 @@
    ],
    "highlights": [
     "Price reduction per HAR",
-    "Built 2017; builder not shown"
+    "Built 2017; builder not shown",
+    "Cut $10,090 (Oct 28)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 150
+   "ppsf": 145
   },
   {
    "url": "https://www.zillow.com/homedetails/7607-Marbella-Mountain-Richmond-TX-77469/464952402_zpid/",
@@ -2410,7 +2316,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "New construction, Lennar Homes",
-   "price": 287990,
+   "price": 272990,
    "beds": 5,
    "baths": 3.0,
    "sqft": 2637,
@@ -2425,10 +2331,12 @@
    ],
    "highlights": [
     "New construction",
-    "Price reduction per Zillow"
+    "Price reduction per Zillow",
+    "Cut $15,000 (Oct 28)",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 109
+   "ppsf": 104
   },
   {
    "url": "https://www.har.com/homedetail/8126-clover-leaf-dr-rosenberg-tx-77469/8022248",
@@ -2800,7 +2708,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Still Creek Ranch",
-   "price": 289990,
+   "price": 286990,
    "beds": 4,
    "baths": 2,
    "sqft": 1922,
@@ -2810,13 +2718,15 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [
-    "new"
+    "new",
+    "price-cut"
    ],
    "highlights": [
-    "New construction"
+    "New construction",
+    "Cut $3,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 151
+   "ppsf": 149
   },
   {
    "url": "https://www.har.com/homedetail/5503-twilight-thicket-ln-richmond-tx-77469/17690995",
@@ -2824,7 +2734,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Still Creek Ranch",
-   "price": 289990,
+   "price": 284990,
    "beds": 4,
    "baths": 2,
    "sqft": 1922,
@@ -2834,13 +2744,15 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [
-    "new"
+    "new",
+    "price-cut"
    ],
    "highlights": [
-    "New construction"
+    "New construction",
+    "Cut $5,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 151
+   "ppsf": 148
   },
   {
    "url": "https://www.har.com/homedetail/7326-audubon-russet-dr-richmond-tx-77469/16408057",
@@ -2897,7 +2809,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Arabella On the Prairie",
-   "price": 289990,
+   "price": 279990,
    "beds": 3,
    "baths": 2,
    "sqft": 1642,
@@ -2913,10 +2825,11 @@
    "highlights": [
     "New construction",
     "Price reduction per HAR",
-    "Seller may contribute"
+    "Seller may contribute",
+    "Cut $10,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 177
+   "ppsf": 171
   },
   {
    "url": "https://www.har.com/homedetail/8330-vacek-crossing-way-richmond-tx-77469/17061289",
@@ -3035,7 +2948,7 @@
    "ppsf": 148
   }
  ],
- "source_note": "Weekly scan 2026-10-25: Redfin + HAR.com fully scanned all 7 ZIPs; Zillow blocked site-wide (Press & Hold wall; 77477 partial, ~10 listings identified); 21 new URLs, 19 new matches, 2 Katy age removals (21302 Park Mount 1978, 914 Cheyenne Meadows 1978), 9 price updates, 5 status highlights",
+ "source_note": "Mid-week light refresh 2026-10-28: known listings re-checked (HAR via live browser, Redfin + Zillow via page text); see watch-log.md for coverage and changes.",
  "removed_over_20_years": [
   {
    "address": "12230 Meadowdale Dr, Meadows Place, TX 77477",
