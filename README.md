@@ -75,6 +75,13 @@ and commits it back if it changed, then builds the Vite site and deploys it to
 GitHub Pages. Scoring weights live in `scorer/weights.json` — book changes are
 data edits, not code edits.
 
+**Pages source must stay on "GitHub Actions"** (repo Settings → Pages → Build
+and deployment). If it is ever set to deploy from the `main` branch instead,
+GitHub serves the raw repo root — the unbuilt Vite source — and the site
+appears down (blank page, `/src/main.tsx` in the HTML). The workflow publishes
+the built `dist/`; branch serving publishes the source. (Diagnosed
+2026-10-31, when the live site was found serving raw source.)
+
 ## Repo layout
 
 ```
