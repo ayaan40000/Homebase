@@ -1,52 +1,51 @@
 {
- "generated": "2026-10-28",
+ "generated": "2026-11-04",
  "method": "Ranked by Composite Home Score desc; tie-break lower price, then lower DOM (null DOM last); 'flip'-flagged listings excluded (none in current data).",
  "top5": [
   {
    "rank": 1,
-   "address": "4602 Highland Crest Dr, Richmond 77469",
+   "address": "16919 Midnight Dawn Dr, Richmond, TX 77407",
    "area": "Richmond",
-   "subdivision": "Highland Meadows Sec 2",
-   "price": 250000,
-   "beds": 5,
-   "baths": 3.0,
-   "sqft": 2769,
-   "year": 2022,
-   "dom": 66,
-   "ppsf": 90,
-   "url": "https://www.har.com/homedetail/4602-highland-crest-dr-richmond-tx-77469/16081597",
-   "composite_home_score": 67.7,
-   "deal_score": 70.2,
-   "est_monthly_piti_usd": 1745.41,
-   "front_end_ratio_pct": 20.94,
+   "subdivision": "Withers Ridge",
+   "price": 259900,
+   "beds": 3,
+   "baths": 2,
+   "sqft": 2110,
+   "year": 2006,
+   "dom": null,
+   "ppsf": 123,
+   "url": "https://www.har.com/homedetail/16919-midnight-dawn-dr-richmond-tx-77407/2531668",
+   "composite_home_score": 67.3,
+   "deal_score": 69.4,
+   "est_monthly_piti_usd": 1832.31,
+   "front_end_ratio_pct": 21.99,
    "flags": [
-    "stale",
+    "new",
     "price-cut"
    ],
-   "reason": "Composite 67.7 (Deal 70.2): cheapest $/sqft in the set at $90, $250,000 band floor, price-cut + DOM 66 leverage — but flagged 'Under Contract — verify status' in the source, so confirm availability first.",
-   "status_caution": "Under Contract — verify status (source highlight)"
+   "reason": "Composite 67.3 (Deal 69.4): $123/sqft; price-cut flag; built 2006."
   },
   {
    "rank": 2,
-   "address": "7611 Marbella Mtn, Richmond 77469",
+   "address": "8338 Vacek Crossing Way, Richmond 77469",
    "area": "Richmond",
-   "subdivision": "Esperanza",
-   "price": 256990,
+   "subdivision": "\u2014",
+   "price": 264990,
    "beds": 4,
-   "baths": 3.5,
-   "sqft": 2233,
+   "baths": 2.5,
+   "sqft": 2121,
    "year": 2026,
    "dom": null,
-   "ppsf": 115,
-   "url": "https://www.har.com/homedetail/7611-marbella-mtn-richmond-tx-77469/17657856",
+   "ppsf": 125,
+   "url": "https://www.redfin.com/TX/Richmond/8338-Vacek-Crossing-Way-77469/home/197950291",
    "composite_home_score": 67.3,
    "deal_score": 69.4,
-   "est_monthly_piti_usd": 1806.76,
-   "front_end_ratio_pct": 21.68,
+   "est_monthly_piti_usd": 1876.98,
+   "front_end_ratio_pct": 22.52,
    "flags": [
     "price-cut"
    ],
-   "reason": "Composite 67.3 (Deal 69.4): $115/sqft; price-cut flag; built 2026."
+   "reason": "Composite 67.3 (Deal 69.4): $125/sqft; price-cut flag; built 2026."
   },
   {
    "rank": 3,
@@ -113,8 +112,8 @@
    "flags": [
     "price-cut"
    ],
-   "reason": "Composite 67.3 (Deal 69.4): $104/sqft; price-cut flag. — flagged 'Under Contract — verify status' in the source, so confirm availability first.",
-   "status_caution": "Under Contract — verify status (source highlight)"
+   "reason": "Composite 67.3 (Deal 69.4): $104/sqft; price-cut flag. \u2014 flagged 'Under Contract \u2014 verify status' in the source, so confirm availability first.",
+   "status_caution": "Under Contract \u2014 verify status (source highlight)"
   }
  ]
 }

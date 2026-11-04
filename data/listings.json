@@ -1,6 +1,6 @@
 {
  "disclaimer": "Online screen only. Tax \u22642.30%, full flood protocol, campus verification, and inspection still required before touring. DOM mixes Redfin/HAR days-on-market with Zillow days-on-Zillow. Inspector: Liju Varghese, Calv's Inspection Services LLC, TREC #27107-PI, 832-812-9675.",
- "generated": "2026-10-28",
+ "generated": "2026-11-04",
  "listings": [
   {
    "url": "https://www.zillow.com/homedetails/912-Sweet-Pine-Dr-Katy-TX-77450/118405126_zpid/",
@@ -65,31 +65,6 @@
    "highlights": [],
    "inspector": "Thin record \u2014 verify details before touring.",
    "ppsf": 166
-  },
-  {
-   "url": "https://www.har.com/homedetail/4602-highland-crest-dr-richmond-tx-77469/16081597",
-   "address": "4602 Highland Crest Dr, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Highland Meadows Sec 2",
-   "price": 250000,
-   "beds": 5,
-   "baths": 3.0,
-   "sqft": 2769,
-   "year": 2022,
-   "dom": 66,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "stale",
-    "price-cut"
-   ],
-   "highlights": [
-    "Under Contract \u2014 verify status"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 90
   },
   {
    "url": "https://www.har.com/homedetail/1915-sable-glen-ct-richmond-tx-77469/12359105",
@@ -664,7 +639,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "McCrary Meadows Sec 6",
-   "price": 264000,
+   "price": 259900,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1491,
@@ -677,9 +652,11 @@
     "new",
     "price-cut"
    ],
-   "highlights": [],
+   "highlights": [
+    "Cut $4,100 (Nov 1)"
+   ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 177
+   "ppsf": 174
   },
   {
    "url": "https://www.zillow.com/homedetails/7918-Elk-Grove-Ln-Richmond-TX-77469/439779131_zpid/",
@@ -702,30 +679,6 @@
    "highlights": [],
    "inspector": "Standard protocol when serious.",
    "ppsf": 181
-  },
-  {
-   "url": "https://www.har.com/homedetail/7611-marbella-mtn-richmond-tx-77469/17657856",
-   "address": "7611 Marbella Mtn, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Esperanza",
-   "price": 256990,
-   "beds": 4,
-   "baths": 3.5,
-   "sqft": 2233,
-   "year": 2026,
-   "dom": null,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "New construction"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 115
   },
   {
    "url": "https://www.har.com/homedetail/12210-la-strada-st-richmond-tx-77406/13540565",
@@ -799,7 +752,8 @@
    "highlights": [
     "Fresh listing (Sep 25)",
     "Appliances convey",
-    "Cut $8,000 (Oct 28)"
+    "Cut $8,000 (Oct 28)",
+    "Redfin shows $269,500 (Nov 1); HAR $270,900 kept"
    ],
    "inspector": "Flood Factor 6/10 \u2014 full flood protocol (FEMA + MAAPnext draft) before anything.",
    "ppsf": 179
@@ -1296,7 +1250,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Esperanza, Needville Area",
-   "price": 277990,
+   "price": 273990,
    "beds": 5,
    "baths": 3.0,
    "sqft": 2637,
@@ -1310,10 +1264,11 @@
    ],
    "highlights": [
     "New construction",
-    "Price cut per Redfin (Oct 25)"
+    "Price cut per Redfin (Oct 25)",
+    "Cut $4,000 (Nov 1)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 105
+   "ppsf": 104
   },
   {
    "url": "https://www.zillow.com/homedetails/18227-Brightwood-Park-Ln-Richmond-TX-77407/82722759_zpid/",
@@ -1975,7 +1930,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "\u2014",
-   "price": 284990,
+   "price": 264990,
    "beds": 4,
    "baths": 2.5,
    "sqft": 2121,
@@ -1988,10 +1943,11 @@
     "price-cut"
    ],
    "highlights": [
-    "New construction (Starlight Homes)"
+    "New construction (Starlight Homes)",
+    "Cut $20,000 (Nov 1)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 134
+   "ppsf": 125
   },
   {
    "url": "https://www.redfin.com/TX/Richmond/8322-Vacek-Crossing-Way-77469/home/197950287",
@@ -1999,7 +1955,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Vacek Pointe, Needville Area",
-   "price": 269990,
+   "price": 259990,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1412,
@@ -2013,10 +1969,10 @@
    ],
    "highlights": [
     "New construction",
-    "Now $269,990 (Redfin, Oct 25)"
+    "Cut $10,000 (Nov 2)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 191
+   "ppsf": 184
   },
   {
    "url": "https://www.redfin.com/TX/Richmond/3330-Brushy-Marsh-Dr-77406/home/192938515",
@@ -2473,26 +2429,26 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Jones Creek Reserve",
-   "price": 298990,
+   "price": 294990,
    "beds": 3,
-   "baths": null,
+   "baths": 2.0,
    "sqft": 1600,
-   "year": null,
+   "year": 2026,
    "dom": null,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
    "flags": [
     "new",
-    "price-cut",
-    "incomplete"
+    "price-cut"
    ],
    "highlights": [
     "Price reduction per HAR",
-    "Open house"
+    "Open house",
+    "Cut $4,000 (Nov 1)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 187
+   "ppsf": 184
   },
   {
    "url": "https://www.har.com/homedetail/3731-butterfly-breeze-ln-richmond-tx-77406/15226622?lid=11359887",
@@ -2638,7 +2594,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Withers Ridge",
-   "price": 260000,
+   "price": 259900,
    "beds": 3,
    "baths": 2,
    "sqft": 2110,
@@ -2648,9 +2604,12 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [
-    "new"
+    "new",
+    "price-cut"
    ],
-   "highlights": [],
+   "highlights": [
+    "Cut $100 (Nov 1, HAR)"
+   ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 123
   },
@@ -2684,7 +2643,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Still Creek Ranch",
-   "price": 268990,
+   "price": 265990,
    "beds": 3,
    "baths": 2,
    "sqft": 1819,
@@ -2694,13 +2653,15 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [
-    "new"
+    "new",
+    "price-cut"
    ],
    "highlights": [
-    "New construction"
+    "New construction",
+    "Cut $3,000 (Nov 1)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 148
+   "ppsf": 146
   },
   {
    "url": "https://www.har.com/homedetail/5515-twilight-thicket-ln-richmond-tx-77469/17691004",
@@ -2861,7 +2822,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Vacek Pointe",
-   "price": 265000,
+   "price": 255000,
    "beds": 3,
    "baths": 2.5,
    "sqft": 1615,
@@ -2871,13 +2832,15 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [
-    "new"
+    "new",
+    "price-cut"
    ],
    "highlights": [
-    "New construction"
+    "New construction",
+    "Cut $10,000 (Nov 1)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 164
+   "ppsf": 158
   },
   {
    "url": "https://www.har.com/homedetail/8131-vacek-meadows-loop-richmond-tx-77469/16088211",
@@ -2946,9 +2909,195 @@
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 148
+  },
+  {
+   "url": "https://www.har.com/homedetail/5924-bluebonnet-ln-rosenberg-tx-77469/15223237",
+   "address": "5924 Bluebonnet Ln, Rosenberg 77469",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Bryan Crossing Sec 2",
+   "price": 252990,
+   "beds": 3,
+   "baths": 2,
+   "sqft": 1422,
+   "year": 2021,
+   "dom": 4,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [],
+   "highlights": [
+    "Seller may contribute"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 178
+  },
+  {
+   "url": "https://www.har.com/homedetail/4712-rosemary-creek-dr-rosenberg-tx-77469/17664047",
+   "address": "4712 Rosemary Creek Dr, Rosenberg 77469",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Evergreen",
+   "price": 299990,
+   "beds": 3,
+   "baths": 2,
+   "sqft": 1574,
+   "year": 2026,
+   "dom": 45,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [
+    "price-cut"
+   ],
+   "highlights": [
+    "New construction",
+    "Seller may contribute"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 191
+  },
+  {
+   "url": "https://www.har.com/homedetail/6127-coyote-glade-dr-richmond-tx-77469/17725728",
+   "address": "6127 Coyote Glade Dr, Richmond 77469",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Arabella On the Prairie",
+   "price": 288070,
+   "beds": 3,
+   "baths": 2,
+   "sqft": 1610,
+   "year": 2026,
+   "dom": 7,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [
+    "price-cut"
+   ],
+   "highlights": [
+    "New construction",
+    "Seller may contribute"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 179
+  },
+  {
+   "url": "https://www.har.com/homedetail/6619-canary-knoll-ct-richmond-tx-77469/17424217",
+   "address": "6619 Canary Knoll Ct, Richmond 77469",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Arabella On the Prairie",
+   "price": 299556,
+   "beds": 3,
+   "baths": 2,
+   "sqft": 1512,
+   "year": 2026,
+   "dom": 67,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [
+    "price-cut"
+   ],
+   "highlights": [
+    "New construction"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 198
+  },
+  {
+   "url": "https://www.har.com/homedetail/6918-morales-way-richmond-tx-77469/15462276",
+   "address": "6918 Morales Way, Richmond 77469",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Sunset Crossing",
+   "price": 295000,
+   "beds": 4,
+   "baths": 2,
+   "sqft": 1680,
+   "year": 2021,
+   "dom": 5,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 176
+  },
+  {
+   "url": "https://www.har.com/homedetail/7502-monarch-forest-ln-rosenberg-tx-77469/15548566",
+   "address": "7502 Monarch Forest Ln, Richmond 77469",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Walnut Creek Sec 24",
+   "price": 290000,
+   "beds": 3,
+   "baths": 2,
+   "sqft": 2039,
+   "year": 2021,
+   "dom": 4,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 142
+  },
+  {
+   "url": "https://www.har.com/homedetail/10415-melida-dawn-way-richmond-tx-77406/17638448",
+   "address": "10415 Melida Dawn Way, Richmond 77406",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Candela",
+   "price": 284990,
+   "beds": 3,
+   "baths": 2,
+   "sqft": 1549,
+   "year": 2026,
+   "dom": 103,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [
+    "price-cut"
+   ],
+   "highlights": [
+    "New construction",
+    "Seller may contribute"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 184
+  },
+  {
+   "url": "https://www.har.com/homedetail/11427-harmony-summit-richmond-tx-77406/14926542",
+   "address": "11427 Harmony Summit Trce, Richmond 77406",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Sendero Tract Sec 7 (Talavera)",
+   "price": 290000,
+   "beds": 3,
+   "baths": 2,
+   "sqft": 1531,
+   "year": 2019,
+   "dom": 22,
+   "hoa": "$85/mo",
+   "schools": "Lamar Consolidated ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "highlights": [
+    "Cut $10,000 (10/12)"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 189
   }
  ],
- "source_note": "Mid-week light refresh 2026-10-28: known listings re-checked (HAR via live browser, Redfin + Zillow via page text); see watch-log.md for coverage and changes.",
+ "source_note": "Weekly scan 2026-11-01: Redfin + HAR complete for all 7 ZIPs (682 entries, 369 unique addresses); Zillow blocked by press-and-hold verification after repeated attempts; 8 price updates applied; 7 new Richmond matches added with verified HAR detail URLs; see watch-log.md.",
  "removed_over_20_years": [
   {
    "address": "12230 Meadowdale Dr, Meadows Place, TX 77477",
@@ -3813,6 +3962,108 @@
    "year": 1978,
    "price": 292000,
    "reason": "Built 1978 \u2014 over 20 years old (age screen; year confirmed on HAR card 2026-10-25)"
+  },
+  {
+   "address": "1011 Comstock Springs Dr, Katy 77450",
+   "year": 1980,
+   "price": 250000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "22711 Provincial Blvd, Katy 77450",
+   "year": 1975,
+   "price": 250000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "710 Conestoga Cir, Katy 77450",
+   "year": 1976,
+   "price": 275000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "926 Hidden Canyon Rd, Katy 77450",
+   "year": 1976,
+   "price": 299999,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "815 Park Meadow Dr, Katy 77450",
+   "year": 1975,
+   "price": 297970,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "12314 Dorrance Ln, Meadows Place 77477",
+   "year": 1974,
+   "price": 290000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "2227 Ridgefield Park Ln, Richmond 77469",
+   "year": 2004,
+   "price": 300000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "18114 Hanover Glen Ln, Richmond 77407",
+   "year": 2003,
+   "price": 265000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "2019 Greens Blvd, Richmond 77406",
+   "year": 1993,
+   "price": 299000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "1906 Plum Creek Ln, Missouri City 77489",
+   "year": 2005,
+   "price": 270000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "2307 Canyon Meadows Dr, Missouri City 77489",
+   "year": 1977,
+   "price": 285000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "2407 Brookford Dr, Missouri City 77489",
+   "year": 1981,
+   "price": 285000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "515 Foxglove Dr, Missouri City 77489",
+   "year": 1985,
+   "price": 255000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "7407 Frostview Ln, Missouri City 77489",
+   "year": 1977,
+   "price": 265000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "8403 Lone Quail Dr, Missouri City 77489",
+   "year": 1980,
+   "price": 279000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "8622 Quail Burg Ln, Missouri City 77489",
+   "year": 1978,
+   "price": 250000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
+  },
+  {
+   "address": "8626 Berryvine Dr, Missouri City 77489",
+   "year": 1979,
+   "price": 295000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed 2026-11-01 weekly scan)"
   }
  ],
  "removed_55plus": [
@@ -3887,6 +4138,18 @@
    "subdivision": "Del Webb Sweetgrass",
    "price": 279900,
    "reason": "Del Webb 55+ age-qualified community \u2014 ineligible: Del Webb requires at least one resident 55+ and no permanent resident under 19 (verified 2026-10-18); household is 36/31/3.5 (removed 2026-10-18)"
+  },
+  {
+   "address": "1215 Majestic Oak, Richmond 77469",
+   "subdivision": "Del Webb Richmond",
+   "price": 260000,
+   "reason": "Del Webb 55+ age-qualified community \u2014 ineligible: Del Webb requires at least one resident 55+ and no permanent resident under 19 (verified 2026-10-18); household is 36/31/3.5 (removed 2026-11-01)"
+  },
+  {
+   "address": "3311 Golden Eagle Way, Richmond 77469",
+   "subdivision": "Del Webb Richmond",
+   "price": 294990,
+   "reason": "Del Webb 55+ age-qualified community \u2014 ineligible: Del Webb requires at least one resident 55+ and no permanent resident under 19 (verified 2026-10-18); household is 36/31/3.5 (removed 2026-11-01)"
   }
  ]
 }
