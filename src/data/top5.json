@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04",
+ "generated": "2026-11-07",
  "method": "Ranked by Composite Home Score desc; tie-break lower price, then lower DOM (null DOM last); 'flip'-flagged listings excluded (none in current data).",
  "top5": [
   {
@@ -13,7 +13,7 @@
    "sqft": 2110,
    "year": 2006,
    "dom": null,
-   "ppsf": 123,
+   "ppsf": 123.0,
    "url": "https://www.har.com/homedetail/16919-midnight-dawn-dr-richmond-tx-77407/2531668",
    "composite_home_score": 67.3,
    "deal_score": 69.4,
@@ -36,7 +36,7 @@
    "sqft": 2121,
    "year": 2026,
    "dom": null,
-   "ppsf": 125,
+   "ppsf": 125.0,
    "url": "https://www.redfin.com/TX/Richmond/8338-Vacek-Crossing-Way-77469/home/197950291",
    "composite_home_score": 67.3,
    "deal_score": 69.4,
@@ -49,6 +49,28 @@
   },
   {
    "rank": 3,
+   "address": "5215 Santa Cruz Bay, Richmond 77469",
+   "area": "Richmond",
+   "subdivision": "Esperanza, Needville Area",
+   "price": 268990,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2637,
+   "year": 2026,
+   "dom": null,
+   "ppsf": 102.0,
+   "url": "https://www.zillow.com/homedetails/5215-Santa-Cruz-Bay-Richmond-TX-77469/465489225_zpid/",
+   "composite_home_score": 67.3,
+   "deal_score": 69.4,
+   "est_monthly_piti_usd": 1912.09,
+   "front_end_ratio_pct": 22.95,
+   "flags": [
+    "price-cut"
+   ],
+   "reason": "Composite 67.3 (Deal 69.4): $102/sqft; price-cut flag; built 2026."
+  },
+  {
+   "rank": 4,
    "address": "5219 Santa Cruz Bay, Richmond 77469",
    "area": "Richmond",
    "subdivision": "Esperanza, Needville Area",
@@ -58,7 +80,7 @@
    "sqft": 2233,
    "year": 2026,
    "dom": null,
-   "ppsf": 120,
+   "ppsf": 120.0,
    "url": "https://www.har.com/homedetail/5219-santa-cruz-bay-richmond-tx-77469/17687857",
    "composite_home_score": 67.3,
    "deal_score": 69.4,
@@ -71,49 +93,27 @@
    "reason": "Composite 67.3 (Deal 69.4): $120/sqft; price-cut flag; built 2026."
   },
   {
-   "rank": 4,
-   "address": "4918 Alder Bend Ln, Richmond 77469",
+   "rank": 5,
+   "address": "8326 Vacek Crossing Way, Richmond, TX 77469",
    "area": "Richmond",
-   "subdivision": "Sunrise Meadow",
-   "price": 270000,
-   "beds": 5,
-   "baths": 2.5,
-   "sqft": 2679,
-   "year": 2012,
+   "subdivision": "Vacek Pointe",
+   "price": 269990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 2260,
+   "year": 2026,
    "dom": null,
-   "ppsf": 101,
-   "url": "https://www.har.com/homedetail/4918-alder-bend-ln-richmond-tx-77469/2516440",
+   "ppsf": 119.0,
+   "url": "https://www.har.com/homedetail/8326-vacek-crossing-way-richmond-tx-77469/17061288",
    "composite_home_score": 67.3,
    "deal_score": 69.4,
-   "est_monthly_piti_usd": 1920.96,
+   "est_monthly_piti_usd": 1920.87,
    "front_end_ratio_pct": 23.05,
    "flags": [
+    "new",
     "price-cut"
    ],
-   "reason": "Composite 67.3 (Deal 69.4): $101/sqft; price-cut flag; built 2012."
-  },
-  {
-   "rank": 5,
-   "address": "7607 Marbella Mtn, Richmond 77469",
-   "area": "Richmond",
-   "subdivision": "Split Level Esperanza",
-   "price": 272990,
-   "beds": 5,
-   "baths": 3.0,
-   "sqft": 2637,
-   "year": null,
-   "dom": null,
-   "ppsf": 104,
-   "url": "https://www.har.com/homedetail/7607-marbella-mtn-richmond-tx-77469/17657846",
-   "composite_home_score": 67.3,
-   "deal_score": 69.4,
-   "est_monthly_piti_usd": 1947.2,
-   "front_end_ratio_pct": 23.37,
-   "flags": [
-    "price-cut"
-   ],
-   "reason": "Composite 67.3 (Deal 69.4): $104/sqft; price-cut flag. \u2014 flagged 'Under Contract \u2014 verify status' in the source, so confirm availability first.",
-   "status_caution": "Under Contract \u2014 verify status (source highlight)"
+   "reason": "Composite 67.3 (Deal 69.4): $119/sqft; price-cut flag; built 2026."
   }
  ]
 }

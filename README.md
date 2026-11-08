@@ -1,9 +1,9 @@
 # HomeBase — Houston Home Command Center
 
-A command-center dashboard for one family's Houston home search: 123 scored
+A command-center dashboard for one family's Houston home search: 115 scored
 single-family homes in the $250K–$300K band across Stafford, Richmond, Katy 77450
 and Cypress, ranked by the deal model in *The Houston Book, Edition 2*.
-(Listing count as of the Oct 28, 2026 refresh; it changes as homes sell and new
+(Listing count as of the Nov 7, 2026 refresh; it changes as homes sell and new
 ones list.)
 
 **Live site:** https://ayaan40000.github.io/Homebase/
