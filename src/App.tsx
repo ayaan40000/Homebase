@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import scoredData from './data/scored.json'
 import top5Data from './data/top5.json'
+import coverageData from './data/coverage.json'
 import type { Home, TopPick } from './lib/types'
 import { median } from './lib/types'
 import PulseHeader, { formatRunDate } from './components/PulseHeader'
@@ -15,6 +16,7 @@ import MethodologyDrawer from './components/MethodologyDrawer'
 const homes = (scoredData as unknown as { listings: Home[] }).listings
 const generated = (scoredData as unknown as { generated: string }).generated
 const picks = (top5Data as unknown as { top5: TopPick[] }).top5
+const coverage = coverageData as unknown as { runDate: string; summary: string }
 
 const ANCHOR = 301000
 const PAGE_SIZE = 20
@@ -313,6 +315,8 @@ export default function App() {
             <footer className="view-footer">
               <span className="mono">
                 {formatRunDate(generated)} run · {homes.length} homes scored
+                <br />
+                Data as of {coverage.runDate} · coverage: {coverage.summary}
               </span>
               <button type="button" className="btn-text" onClick={() => setDrawerOpen(true)}>
                 How scoring works

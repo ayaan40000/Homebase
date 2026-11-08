@@ -1,0 +1,12 @@
+{
+ "runDate": "2026-11-08",
+ "sources": {
+  "HAR": "complete in-band sweeps, all 7 ZIPs (2026-11-07 run, via Pi browser); DOM backfill 2026-11-08 via Pi browser: 67 of 67 detail pages read (server-side fetch is PerimeterX-blocked)",
+  "Zillow": "page 1 only, all 7 ZIPs (2026-11-07 run, via Pi browser); DOM backfill 2026-11-08: 2 of 20 detail pages read, then the source hit a bot-check and was stopped per the run rules - 18 Zillow listings still have null DOM (the only null-DOM listings left)",
+  "Redfin": "detail checks on all 6 Redfin-sourced listings (2026-11-07 run); DOM backfill 2026-11-08 via Pi browser: 5 of 5 detail pages read (server-side fetch blocked)"
+ },
+ "listings": 115,
+ "domFilled": 97,
+ "floodFilled": 3,
+ "summary": "HAR full \u00b7 Zillow page 1 \u00b7 Redfin details \u00b7 DOM 97/115 \u00b7 Flood 3/115"
+}
