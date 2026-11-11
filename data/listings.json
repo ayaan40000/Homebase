@@ -1,6 +1,6 @@
 {
  "disclaimer": "Online screen only. Tax \u22642.30%, full flood protocol, campus verification, and inspection still required before touring. DOM mixes Redfin/HAR days-on-market with Zillow days-on-Zillow. Inspector: Liju Varghese, Calv's Inspection Services LLC, TREC #27107-PI, 832-812-9675.",
- "generated": "2026-11-08",
+ "generated": "2026-11-11",
  "listings": [
   {
    "url": "https://www.zillow.com/homedetails/912-Sweet-Pine-Dr-Katy-TX-77450/118405126_zpid/",
@@ -58,7 +58,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -88,7 +88,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -120,7 +120,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -180,7 +180,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -215,7 +215,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -249,7 +249,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -284,7 +284,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -320,7 +320,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -354,7 +354,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -386,7 +386,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -420,7 +420,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -434,7 +434,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Brentwood Farms",
-   "price": 274370,
+   "price": 254230,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1450,
@@ -443,22 +443,29 @@
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
-   "flags": [],
+   "flags": [
+    "price-cut"
+   ],
    "highlights": [
     "Seller may contribute",
     "New construction",
-    "Price increased to $274,370 (was $272,370) on 2026-10-18 scan"
+    "Price increased to $274,370 (was $272,370) on 2026-10-18 scan",
+    "Cut $20,140 (Nov 11)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 189,
+   "ppsf": 175,
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 274370
+    },
+    {
+     "date": "2026-11-11",
+     "price": 254230
     }
    ]
   },
@@ -468,7 +475,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Brentwood Farms",
-   "price": 274370,
+   "price": 254370,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1450,
@@ -477,21 +484,28 @@
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
-   "flags": [],
+   "flags": [
+    "price-cut"
+   ],
    "highlights": [
     "New construction",
-    "Price increased to $274,370 (was $272,370) on 2026-10-18 scan"
+    "Price increased to $274,370 (was $272,370) on 2026-10-18 scan",
+    "Cut $20,000 (Nov 11)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 189,
+   "ppsf": 175,
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 274370
+    },
+    {
+     "date": "2026-11-11",
+     "price": 254370
     }
    ]
   },
@@ -522,7 +536,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -558,7 +572,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -594,7 +608,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -664,7 +678,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -713,12 +727,12 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Lakemont",
-   "price": 269500,
+   "price": 265500,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1513,
    "year": 2008,
-   "dom": 3,
+   "dom": 46,
    "hoa": "\u2014",
    "schools": "Lamar CISD",
    "flood": 6,
@@ -732,14 +746,15 @@
     "Appliances convey",
     "Cut $8,000 (Oct 28)",
     "Redfin shows $269,500 (Nov 1); HAR $270,900 kept",
-    "Cut $1,400 (Nov 7)"
+    "Cut $1,400 (Nov 7)",
+    "Cut $4,000 (Nov 11)"
    ],
    "inspector": "Flood Factor 6/10 \u2014 full flood protocol (FEMA + MAAPnext draft) before anything.",
-   "ppsf": 178,
+   "ppsf": 175,
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-27",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -748,6 +763,10 @@
     {
      "date": "2026-11-07",
      "price": 269500
+    },
+    {
+     "date": "2026-11-11",
+     "price": 265500
     }
    ]
   },
@@ -775,7 +794,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -804,14 +823,15 @@
    "highlights": [
     "Price reduction per HAR",
     "New construction",
-    "Cut $13,000 (Oct 28)"
+    "Cut $13,000 (Oct 28)",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 141,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -845,7 +865,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -879,7 +899,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -911,7 +931,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -945,7 +965,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1019,47 +1039,11 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 275000
-    }
-   ]
-  },
-  {
-   "url": "https://www.har.com/homedetail/8218-rustic-pine-trl-richmond-tx-77469/17342278",
-   "address": "8218 Rustic Pine Trl, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Still Creek Ranch",
-   "price": 274990,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1970,
-   "year": 2026,
-   "dom": 163,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "Price reduction per HAR",
-    "New construction",
-    "Under Contract \u2014 verify status"
-   ],
-   "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 140,
-   "builder": null,
-   "status": "under-contract",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 274990
     }
    ]
   },
@@ -1090,7 +1074,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1114,13 +1098,15 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [],
-   "highlights": [],
+   "highlights": [
+    "Under Contract \u2014 verify status"
+   ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 160,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1143,7 +1129,9 @@
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
-   "flags": [],
+   "flags": [
+    "price-cut"
+   ],
    "highlights": [
     "Price reduction per HAR",
     "New construction",
@@ -1156,7 +1144,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1191,7 +1179,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1231,7 +1219,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1265,7 +1253,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1327,41 +1315,11 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 289990
-    }
-   ]
-  },
-  {
-   "url": "https://www.har.com/homedetail/3402-water-lilly-way-richmond-tx-77469/14926170",
-   "address": "3402 Water Lilly Way, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Riverwood Village Sec 5",
-   "price": 290000,
-   "beds": 4,
-   "baths": 2.5,
-   "sqft": 2274,
-   "year": 2021,
-   "dom": 71,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [],
-   "highlights": [],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 128,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 290000
     }
    ]
   },
@@ -1390,7 +1348,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1423,7 +1381,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1453,14 +1411,15 @@
     "New construction",
     "Price cut per Redfin (Oct 25)",
     "Cut $4,000 (Nov 1)",
-    "Cut $5,000 (Nov 7)"
+    "Cut $5,000 (Nov 7)",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 102,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1530,9 +1489,9 @@
    "inspector": "Standard protocol when serious.",
    "ppsf": 165,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1567,7 +1526,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1601,41 +1560,11 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 285000
-    }
-   ]
-  },
-  {
-   "url": "https://www.har.com/homedetail/26006-rosin-lake-ln-richmond-tx-77406/15223507",
-   "address": "26006 Rosin Lake Ln, Richmond 77406",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Creekside Ranch",
-   "price": 295000,
-   "beds": 4,
-   "baths": 2.0,
-   "sqft": 1538,
-   "year": 2020,
-   "dom": 51,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [],
-   "highlights": [],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 192,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 295000
     }
    ]
   },
@@ -1661,14 +1590,15 @@
     "Price reduction per HAR",
     "New construction",
     "Cut $5,000 (Oct 28)",
-    "Cut $5,000 (Nov 7)"
+    "Cut $5,000 (Nov 7)",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 135,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1705,7 +1635,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1744,7 +1674,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1779,7 +1709,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1811,7 +1741,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1838,14 +1768,15 @@
     "price-cut"
    ],
    "highlights": [
-    "Price reduction per HAR (Oct 25)"
+    "Price reduction per HAR (Oct 25)",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 182,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1911,7 +1842,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1946,7 +1877,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1980,7 +1911,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2016,7 +1947,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2050,7 +1981,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2084,7 +2015,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2114,7 +2045,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2149,7 +2080,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2188,42 +2119,6 @@
    ]
   },
   {
-   "url": "https://www.redfin.com/TX/Richmond/9307-Rustling-Manor-Ln-77407/home/109787736",
-   "address": "9307 Rustling Manor Ln, Richmond 77407",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "\u2014",
-   "price": 299995,
-   "beds": 4,
-   "baths": 2.0,
-   "sqft": 1787,
-   "year": 2014,
-   "dom": 38,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": 7,
-   "flags": [
-    "flood-caution"
-   ],
-   "highlights": [
-    "Open house Sat 10am\u201312pm (10/10)",
-    "3D walkthrough; flex room",
-    "Flood Factor 7/10 (Redfin, Nov 7)"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 168,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 299995
-    }
-   ]
-  },
-  {
    "url": "https://www.redfin.com/TX/Richmond/8338-Vacek-Crossing-Way-77469/home/197950291",
    "address": "8338 Vacek Crossing Way, Richmond 77469",
    "area": "Richmond",
@@ -2250,46 +2145,11 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 264990
-    }
-   ]
-  },
-  {
-   "url": "https://www.redfin.com/TX/Richmond/8322-Vacek-Crossing-Way-77469/home/197950287",
-   "address": "8322 Vacek Crossing Way, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Vacek Pointe, Needville Area",
-   "price": 259990,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1412,
-   "year": 2026,
-   "dom": 60,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "New construction",
-    "Cut $10,000 (Nov 2)"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 184,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 259990
     }
    ]
   },
@@ -2321,7 +2181,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2357,7 +2217,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2393,7 +2253,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2427,9 +2287,9 @@
    "inspector": "Thin record \u2014 verify details before touring.",
    "ppsf": 211,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2466,7 +2326,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2501,7 +2361,7 @@
    "builder": "Anglia Homes",
    "status": "under-contract",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2533,14 +2393,15 @@
     "New construction",
     "Built 2026 by Lennar",
     "Cut $3,001 (Oct 28)",
-    "Cut $5,000 (Nov 7)"
+    "Cut $5,000 (Nov 7)",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
    "ppsf": 143,
    "builder": "Lennar",
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2583,7 +2444,7 @@
    "builder": "Lennar",
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2624,7 +2485,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2663,7 +2524,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2704,7 +2565,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2737,7 +2598,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2774,7 +2635,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2810,7 +2671,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2847,7 +2708,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2883,7 +2744,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2921,7 +2782,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2959,7 +2820,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2993,7 +2854,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3025,7 +2886,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3059,7 +2920,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3091,7 +2952,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3123,7 +2984,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3158,7 +3019,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3194,7 +3055,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3223,14 +3084,15 @@
    ],
    "highlights": [
     "New construction",
-    "Cut $3,000 (Oct 28)"
+    "Cut $3,000 (Oct 28)",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 149,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3244,7 +3106,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Still Creek Ranch",
-   "price": 284990,
+   "price": 279990,
    "beds": 4,
    "baths": 2,
    "sqft": 1922,
@@ -3259,18 +3121,23 @@
    ],
    "highlights": [
     "New construction",
-    "Cut $5,000 (Oct 28)"
+    "Cut $5,000 (Oct 28)",
+    "Cut $5,000 (Nov 11)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 148,
+   "ppsf": 146,
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 284990
+    },
+    {
+     "date": "2026-11-11",
+     "price": 279990
     }
    ]
   },
@@ -3296,9 +3163,9 @@
    "inspector": "Standard protocol when serious.",
    "ppsf": 96,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3312,7 +3179,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Evergreen",
-   "price": 299990,
+   "price": 294990,
    "beds": 3,
    "baths": 2,
    "sqft": 1574,
@@ -3328,18 +3195,23 @@
    "highlights": [
     "New construction",
     "Open house",
-    "Price reduction per HAR"
+    "Price reduction per HAR",
+    "Cut $5,000 (Nov 11)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 191,
+   "ppsf": 187,
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 299990
+    },
+    {
+     "date": "2026-11-11",
+     "price": 294990
     }
    ]
   },
@@ -3349,7 +3221,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Arabella On the Prairie",
-   "price": 274990,
+   "price": 284990,
    "beds": 3,
    "baths": 2,
    "sqft": 1642,
@@ -3359,22 +3231,22 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [
-    "new",
-    "price-cut"
+    "new"
    ],
    "highlights": [
     "New construction",
     "Price reduction per HAR",
     "Seller may contribute",
     "Cut $10,000 (Oct 28)",
-    "Cut $5,000 (Nov 7)"
+    "Cut $5,000 (Nov 7)",
+    "Price increased to $284,990 (was $274,990) on 2026-11-11"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 167,
+   "ppsf": 174,
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3383,6 +3255,10 @@
     {
      "date": "2026-11-07",
      "price": 274990
+    },
+    {
+     "date": "2026-11-11",
+     "price": 284990
     }
    ]
   },
@@ -3414,7 +3290,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3454,7 +3330,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3486,7 +3362,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3510,15 +3386,18 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [
-    "new"
+    "new",
+    "price-cut"
    ],
-   "highlights": [],
+   "highlights": [
+    "Price Reduction per HAR"
+   ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 172,
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3552,7 +3431,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3584,7 +3463,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3619,7 +3498,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3655,7 +3534,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3686,14 +3565,15 @@
     "price-cut"
    ],
    "highlights": [
-    "New construction"
+    "New construction",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 198,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3723,7 +3603,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3753,7 +3633,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3788,7 +3668,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3823,7 +3703,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3837,7 +3717,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Vacek Pointe",
-   "price": 274990,
+   "price": 288000,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1412,
@@ -3847,23 +3727,28 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [
-    "new",
-    "price-cut"
+    "new"
    ],
    "highlights": [
     "New construction",
-    "Price reduction per HAR"
+    "Price reduction per HAR",
+    "Price increased to $288,000 (was $274,990) on 2026-11-11",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 195,
+   "ppsf": 204,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 274990
+    },
+    {
+     "date": "2026-11-11",
+     "price": 288000
     }
    ]
   },
@@ -3894,7 +3779,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3928,7 +3813,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3963,7 +3848,7 @@
    "builder": "Lennar",
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-11",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3998,7 +3883,7 @@
    "builder": "Lennar",
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-08",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -4007,7 +3892,7 @@
    ]
   }
  ],
- "source_note": "Out-of-cycle full run 2026-11-07 (owner request, Sunday scan + Wednesday publish combined): HAR complete in-band sweeps all 7 ZIPs (398 cards) + Zillow page-1 via Pi browser (250 cards of 95/46/28/~35/46/36/50 totals) + Redfin detail checks on 6 listings. 19 removed on detail evidence (sold / not-for-sale / below band / for-rent), 16 price updates (11 dual-source HAR+Zillow, 5 HAR-detail confirmed), 2 flood updates from Redfin, 5 new matches added. 5 kept listings have unverified status (Zillow detail pages bot-checked). See watch-log.md.",
+ "source_note": "Mid-week light refresh 2026-11-11: known listings re-checked \u2014 HAR complete in-band sweeps all 7 ZIPs via Pi browser (370 unique cards: 77469:110, 77406:48, 77407:36, 77477:20, 77489:53, 77450:47, 77429:56) + Pi-browser detail pages for sweep-absent listings and price verifications (28 read; 14 Zillow detail pages denied by PerimeterX, retained on lastVerified). Zillow page-1 sweep denied (77469). Redfin server fetch 403s; its detail pages were read via the Pi browser instead. 4 removed (1 sold, 1 not for sale, 1 pending, 1 below band), 7 price changes, 9 status changes to under-contract, 0 new matches (light refresh \u2014 no discovery; 12 new HAR URLs logged for Sunday). DOMs carried forward from Nov 8 except one correction (19711 Heron Shadow Ct 3 -> 46 days, Redfin).",
  "removed_over_20_years": [
   {
    "address": "12230 Meadowdale Dr, Meadows Place, TX 77477",

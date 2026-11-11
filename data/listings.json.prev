@@ -1,6 +1,6 @@
 {
  "disclaimer": "Online screen only. Tax \u22642.30%, full flood protocol, campus verification, and inspection still required before touring. DOM mixes Redfin/HAR days-on-market with Zillow days-on-Zillow. Inspector: Liju Varghese, Calv's Inspection Services LLC, TREC #27107-PI, 832-812-9675.",
- "generated": "2026-11-07",
+ "generated": "2026-11-08",
  "listings": [
   {
    "url": "https://www.zillow.com/homedetails/912-Sweet-Pine-Dr-Katy-TX-77450/118405126_zpid/",
@@ -13,7 +13,7 @@
    "baths": 2.0,
    "sqft": 1318,
    "year": 2011,
-   "dom": null,
+   "dom": 5,
    "hoa": "\u2014",
    "schools": "Katy ISD",
    "flood": null,
@@ -24,7 +24,17 @@
     "Cut $5,000 (9/22)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 216
+   "ppsf": 216,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 285000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/1027-Sweet-Pine-Dr-Katy-TX-77450/121105281_zpid/",
@@ -37,14 +47,24 @@
    "baths": 2.0,
    "sqft": 1026,
    "year": 2012,
-   "dom": null,
+   "dom": 36,
    "hoa": "\u2014",
    "schools": "Katy ISD",
    "flood": null,
    "flags": [],
    "highlights": [],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 283
+   "ppsf": 283,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 290000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/6410-indigo-cliff-dr-richmond-tx-77469/14368291",
@@ -57,14 +77,24 @@
    "baths": 2.0,
    "sqft": 1259,
    "year": 2019,
-   "dom": null,
+   "dom": 94,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 203
+   "ppsf": 203,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 255000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8135-vacek-meadows-loop-richmond-tx-77469/16088212",
@@ -86,7 +116,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 190
+   "ppsf": 190,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 255000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/20123-Larkspur-Lndg-Richmond-TX-77407/72062652_zpid/",
@@ -106,7 +146,17 @@
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 172
+   "ppsf": 172,
+   "builder": null,
+   "status": "unknown",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 259000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8143-vacek-meadows-loop-richmond-tx-77469/16088213",
@@ -126,7 +176,17 @@
    "flags": [],
    "highlights": [],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 169
+   "ppsf": 169,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 259900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/1735-brownwood-ridge-ct-richmond-tx-77469/14922494",
@@ -139,7 +199,7 @@
    "baths": 2.0,
    "sqft": 1820,
    "year": 2020,
-   "dom": null,
+   "dom": 27,
    "hoa": "$5/mo",
    "schools": "Smith Elem, Lamar Jr High, Lamar Cons High",
    "flood": null,
@@ -151,7 +211,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 143
+   "ppsf": 143,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 260000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/5303-Rivers-Edge-Dr-Richmond-TX-77469/305289761_zpid/",
@@ -175,7 +245,17 @@
     "Cut $10,000 (9/10)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 133
+   "ppsf": 133,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 260000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/6330-Highland-Heights-Dr-Richmond-TX-77469/2066638525_zpid/",
@@ -200,7 +280,21 @@
     "Cut $5,000 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 159
+   "ppsf": 159,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 264900
+    },
+    {
+     "date": "2026-11-07",
+     "price": 259900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5039-green-gate-trl-richmond-tx-77469/14446645",
@@ -213,7 +307,7 @@
    "baths": 2.0,
    "sqft": 1664,
    "year": 2018,
-   "dom": null,
+   "dom": 89,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -222,7 +316,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 156
+   "ppsf": 156,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 259900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3335-jane-way-richmond-tx-77406/13511990",
@@ -235,7 +339,7 @@
    "baths": 2.0,
    "sqft": 1794,
    "year": 2016,
-   "dom": null,
+   "dom": 22,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -246,7 +350,17 @@
     "Cut $8,000 (9/11)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 150
+   "ppsf": 150,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 269000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/4918-alder-bend-ln-richmond-tx-77469/2516440",
@@ -259,7 +373,7 @@
    "baths": 2.5,
    "sqft": 2679,
    "year": 2012,
-   "dom": null,
+   "dom": 127,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -268,7 +382,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 101
+   "ppsf": 101,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 270000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/11306-overland-trail-dr-richmond-tx-77406/2408367?lid=10959153",
@@ -281,7 +405,7 @@
    "baths": 2.0,
    "sqft": 1880,
    "year": 2007,
-   "dom": null,
+   "dom": 151,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -292,7 +416,17 @@
     "Cut $29,000 (8/31)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 144
+   "ppsf": 144,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 270000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5839-madison-trail-dr-richmond-tx-77469/17547671",
@@ -305,7 +439,7 @@
    "baths": 2.0,
    "sqft": 1450,
    "year": 2026,
-   "dom": null,
+   "dom": 109,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -316,7 +450,17 @@
     "Price increased to $274,370 (was $272,370) on 2026-10-18 scan"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 189
+   "ppsf": 189,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 274370
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/5819-Madison-Trail-Dr-Richmond-TX-77469/465205016_zpid/",
@@ -339,7 +483,17 @@
     "Price increased to $274,370 (was $272,370) on 2026-10-18 scan"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 189
+   "ppsf": 189,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 274370
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5527-twilight-thicket-ln-richmond-tx-77469/17658225",
@@ -352,7 +506,7 @@
    "baths": 2.0,
    "sqft": 1627,
    "year": 2026,
-   "dom": null,
+   "dom": 66,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -364,7 +518,17 @@
     "New construction"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 160
+   "ppsf": 160,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 259990
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/5531-Dovish-Brook-Ln-Richmond-TX-77469/465538090_zpid/",
@@ -390,7 +554,17 @@
     "Now $269,990 (Redfin, Oct 25)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 166
+   "ppsf": 166,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 269990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3318-driftwood-meadow-ln-richmond-tx-77406/16083459",
@@ -403,7 +577,7 @@
    "baths": 2.0,
    "sqft": 1491,
    "year": 2021,
-   "dom": null,
+   "dom": 42,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -416,7 +590,21 @@
     "Cut $5,900 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 170
+   "ppsf": 170,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 259900
+    },
+    {
+     "date": "2026-11-07",
+     "price": 254000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/7918-Elk-Grove-Ln-Richmond-TX-77469/439779131_zpid/",
@@ -438,7 +626,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 181
+   "ppsf": 181,
+   "builder": null,
+   "status": "unknown",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 270000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/12210-la-strada-st-richmond-tx-77406/13540565",
@@ -451,7 +649,7 @@
    "baths": 2.5,
    "sqft": 1762,
    "year": 2016,
-   "dom": null,
+   "dom": 24,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -462,7 +660,17 @@
     "Price reduction per HAR"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 158
+   "ppsf": 158,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 278000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/2014-Richmond-Dr-Richmond-TX-77406/27586246_zpid/",
@@ -487,7 +695,17 @@
     "For sale by owner"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 139
+   "ppsf": 139,
+   "builder": null,
+   "status": "unknown",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 278000
+    }
+   ]
   },
   {
    "url": "https://www.redfin.com/TX/Richmond/19711-Heron-Shadow-Ct-77407/home/32661443",
@@ -517,7 +735,21 @@
     "Cut $1,400 (Nov 7)"
    ],
    "inspector": "Flood Factor 6/10 \u2014 full flood protocol (FEMA + MAAPnext draft) before anything.",
-   "ppsf": 178
+   "ppsf": 178,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-27",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 270900
+    },
+    {
+     "date": "2026-11-07",
+     "price": 269500
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/4630-Ara-Dr-Richmond-TX-77469/464440758_zpid/",
@@ -539,7 +771,17 @@
     "New construction"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 206
+   "ppsf": 206,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 279655
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8223-rustic-pine-trl-richmond-tx-77469/17643038",
@@ -552,7 +794,7 @@
    "baths": 2.0,
    "sqft": 1819,
    "year": 2026,
-   "dom": null,
+   "dom": 99,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -565,7 +807,17 @@
     "Cut $13,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 141
+   "ppsf": 141,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 256990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/4928-twin-summit-dr-richmond-tx-77469/16084896",
@@ -578,7 +830,7 @@
    "baths": 2.0,
    "sqft": 1473,
    "year": 2021,
-   "dom": null,
+   "dom": 87,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -589,7 +841,21 @@
     "Cut $10,000 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 183
+   "ppsf": 183,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 280000
+    },
+    {
+     "date": "2026-11-07",
+     "price": 270000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/6811-green-embers-ln-richmond-tx-77469/15145079",
@@ -602,14 +868,24 @@
    "baths": 2.0,
    "sqft": 1597,
    "year": null,
-   "dom": null,
+   "dom": 121,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 175
+   "ppsf": 175,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 280000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/1814-welsh-canyon-ct-richmond-tx-77469/14741128",
@@ -622,7 +898,7 @@
    "baths": 2.0,
    "sqft": 1518,
    "year": 2019,
-   "dom": null,
+   "dom": 184,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -631,7 +907,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 184
+   "ppsf": 184,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 280000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/2023-heath-ridge-ln-richmond-tx-77469/13500681",
@@ -644,7 +930,7 @@
    "baths": 2.5,
    "sqft": 2166,
    "year": 2016,
-   "dom": null,
+   "dom": 88,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -655,7 +941,17 @@
     "Price reduction per HAR"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 131
+   "ppsf": 131,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 282999
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/9214-Brandon-Chase-Ln-Richmond-TX-77407/80069678_zpid/",
@@ -680,7 +976,21 @@
     "Cut $3,000 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 157
+   "ppsf": 157,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 284000
+    },
+    {
+     "date": "2026-11-07",
+     "price": 281000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/5815-Acacia-Rose-Ct-Richmond-TX-77407/118391290_zpid/",
@@ -705,7 +1015,17 @@
     "Now $275,000 (Redfin, Oct 25)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 154
+   "ppsf": 154,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 275000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8218-rustic-pine-trl-richmond-tx-77469/17342278",
@@ -718,7 +1038,7 @@
    "baths": 2.0,
    "sqft": 1970,
    "year": 2026,
-   "dom": null,
+   "dom": 163,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -731,7 +1051,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 140
+   "ppsf": 140,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 274990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/6835-blue-glade-dr-richmond-tx-77406/8533088",
@@ -744,7 +1074,7 @@
    "baths": 2.0,
    "sqft": 1591,
    "year": 2010,
-   "dom": null,
+   "dom": 62,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -756,7 +1086,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 179
+   "ppsf": 179,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 285000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/9219-Summer-Valley-Ln-Richmond-TX-77407/80067484_zpid/",
@@ -776,7 +1116,17 @@
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 160
+   "ppsf": 160,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 285000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5843-madison-trail-dr-richmond-tx-77469/17547672",
@@ -789,7 +1139,7 @@
    "baths": 2.0,
    "sqft": 1506,
    "year": 2026,
-   "dom": null,
+   "dom": 94,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -802,7 +1152,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 191
+   "ppsf": 191,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 287370
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/21126-amber-crossing-dr-richmond-tx-77406/10233771",
@@ -815,7 +1175,7 @@
    "baths": 2.0,
    "sqft": 1728,
    "year": 2006,
-   "dom": null,
+   "dom": 59,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -827,7 +1187,21 @@
     "Cut $4,100 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 165
+   "ppsf": 165,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289000
+    },
+    {
+     "date": "2026-11-07",
+     "price": 284900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3241-loam-ln-richmond-tx-77406/17058024?lid=11109044",
@@ -840,7 +1214,7 @@
    "baths": 2.5,
    "sqft": 1331,
    "year": 2024,
-   "dom": null,
+   "dom": 59,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -853,7 +1227,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 218
+   "ppsf": 218,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/26051-steele-flower-dr-richmond-tx-77406/15223617",
@@ -866,7 +1250,7 @@
    "baths": 2.0,
    "sqft": 1685,
    "year": 2020,
-   "dom": null,
+   "dom": 165,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -877,7 +1261,17 @@
     "Price reduction per HAR"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 172
+   "ppsf": 172,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289900
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/5831-Banyan-Oak-Ct-Richmond-TX-77407/120834266_zpid/",
@@ -899,7 +1293,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 187
+   "ppsf": 187,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/2214-seabourne-trails-rd-richmond-tx-77469/13502287",
@@ -912,14 +1316,24 @@
    "baths": 2.5,
    "sqft": 2145,
    "year": 2017,
-   "dom": null,
+   "dom": 231,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 135
+   "ppsf": 135,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3402-water-lilly-way-richmond-tx-77469/14926170",
@@ -932,14 +1346,24 @@
    "baths": 2.5,
    "sqft": 2274,
    "year": 2021,
-   "dom": null,
+   "dom": 71,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 128
+   "ppsf": 128,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 290000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/2726-sage-bluff-ave-richmond-tx-77469/8021233",
@@ -962,7 +1386,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 153
+   "ppsf": 153,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 275000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/25831-rosin-lake-ln-richmond-tx-77406/15087874",
@@ -985,7 +1419,17 @@
    ],
    "highlights": [],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 187
+   "ppsf": 187,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 279000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/5215-Santa-Cruz-Bay-Richmond-TX-77469/465489225_zpid/",
@@ -1012,7 +1456,21 @@
     "Cut $5,000 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 102
+   "ppsf": 102,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 273990
+    },
+    {
+     "date": "2026-11-07",
+     "price": 268990
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/18227-Brightwood-Park-Ln-Richmond-TX-77407/82722759_zpid/",
@@ -1034,7 +1492,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 139
+   "ppsf": 139,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 294900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/6118-coyote-glade-richmond-tx-77469/17628387",
@@ -1047,7 +1515,7 @@
    "baths": 2.0,
    "sqft": 1759,
    "year": 2026,
-   "dom": null,
+   "dom": 131,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1060,7 +1528,17 @@
     "Cut $5,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 165
+   "ppsf": 165,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/7311-tipton-meadow-way-richmond-tx-77469/16088193",
@@ -1085,7 +1563,17 @@
     "Price reduction per HAR"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 152
+   "ppsf": 152,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 295000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/26010-windy-prairie-ct-richmond-tx-77406/15223638",
@@ -1109,7 +1597,17 @@
     "Cut $10,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 185
+   "ppsf": 185,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 285000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/26006-rosin-lake-ln-richmond-tx-77406/15223507",
@@ -1129,7 +1627,17 @@
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 192
+   "ppsf": 192,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 295000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8227-rustic-pine-trl-richmond-tx-77469/17643047",
@@ -1142,7 +1650,7 @@
    "baths": 2.0,
    "sqft": 1970,
    "year": 2026,
-   "dom": null,
+   "dom": 99,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1156,7 +1664,21 @@
     "Cut $5,000 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 135
+   "ppsf": 135,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 270990
+    },
+    {
+     "date": "2026-11-07",
+     "price": 265990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/1316-mercantile-st-richmond-tx-77406/17058187",
@@ -1179,7 +1701,21 @@
     "Relisted at $296,000 \u2014 raised from $256,000 (HAR, Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 240
+   "ppsf": 240,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 256000
+    },
+    {
+     "date": "2026-11-07",
+     "price": 296000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8215-rustic-pine-trl-richmond-tx-77469/17643025",
@@ -1192,7 +1728,7 @@
    "baths": 2.0,
    "sqft": 1922,
    "year": 2026,
-   "dom": null,
+   "dom": 82,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1204,7 +1740,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 145
+   "ppsf": 145,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 277990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/7815-bel-fiore-dr-richmond-tx-77406/17264590",
@@ -1217,7 +1763,7 @@
    "baths": 2.0,
    "sqft": 1807,
    "year": 2024,
-   "dom": null,
+   "dom": 252,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1229,7 +1775,17 @@
     "Cut $8,500 (10/2)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 160
+   "ppsf": 160,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289500
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/6719-waterbuck-trce-richmond-tx-77406/16080059",
@@ -1242,7 +1798,7 @@
    "baths": 2.0,
    "sqft": 1924,
    "year": 2022,
-   "dom": null,
+   "dom": 259,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1251,7 +1807,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 155
+   "ppsf": 155,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/18151-Sorrell-Oaks-Cir-Richmond-TX-77407/72060810_zpid/",
@@ -1275,7 +1841,17 @@
     "Price reduction per HAR (Oct 25)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 182
+   "ppsf": 182,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 295000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/2314-Barton-River-Ct-Richmond-TX-77469/82731799_zpid/",
@@ -1299,7 +1875,17 @@
     "Cut $13,000 (9/22)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 143
+   "ppsf": 143,
+   "builder": null,
+   "status": "unknown",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3634-homestead-ridge-ln-richmond-tx-77406/16083491",
@@ -1312,7 +1898,7 @@
    "baths": 2.0,
    "sqft": 1565,
    "year": 2021,
-   "dom": null,
+   "dom": 29,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1321,7 +1907,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 188
+   "ppsf": 188,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 295000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/17014-Morning-Dusk-Dr-Richmond-TX-77407/65719702_zpid/",
@@ -1346,7 +1942,17 @@
     "Price verified on listing page 2026-10-18 (was $299,900); 11 DOM observed"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 135
+   "ppsf": 135,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 285000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/7402-Compass-Rose-Dr-Richmond-TX-77407/72056741_zpid/",
@@ -1370,7 +1976,17 @@
     "Cut $19,100 (9/11)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 134
+   "ppsf": 134,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299900
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/3712-Windy-Brook-Rd-Richmond-TX-77469/2057073311_zpid/",
@@ -1396,7 +2012,17 @@
     "Cut $10,000 (Oct 28)"
    ],
    "inspector": "Foreclosure \u2014 verify financeability and title.",
-   "ppsf": 158
+   "ppsf": 158,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/11138-overland-trail-dr-richmond-tx-77406/2408561",
@@ -1409,7 +2035,7 @@
    "baths": 2.0,
    "sqft": 1710,
    "year": 2006,
-   "dom": null,
+   "dom": 53,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1420,7 +2046,17 @@
     "Cut $5,010 (9/14)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 175
+   "ppsf": 175,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/7839-bel-fiore-dr-richmond-tx-77406/16740006",
@@ -1433,7 +2069,7 @@
    "baths": 2.0,
    "sqft": 1807,
    "year": 2024,
-   "dom": null,
+   "dom": 38,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1444,7 +2080,17 @@
     "Cut $7,000 (9/30)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 160
+   "ppsf": 160,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/12150-la-strada-st-richmond-tx-77406/13540568",
@@ -1457,14 +2103,24 @@
    "baths": 2.5,
    "sqft": 1972,
    "year": 2016,
-   "dom": null,
+   "dom": 24,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 152
+   "ppsf": 152,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299999
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/7719-vacek-meadows-richmond-tx-77469/14933747",
@@ -1477,7 +2133,7 @@
    "baths": 2.5,
    "sqft": 2162,
    "year": null,
-   "dom": null,
+   "dom": 144,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1489,7 +2145,17 @@
     "Cut $20,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 130
+   "ppsf": 130,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 280000
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/6738-Laguna-Trace-St-Richmond-TX-77407/82724495_zpid/",
@@ -1509,7 +2175,17 @@
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 161
+   "ppsf": 161,
+   "builder": null,
+   "status": "unknown",
+   "firstSeen": "2026-09-28",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 300000
+    }
+   ]
   },
   {
    "url": "https://www.redfin.com/TX/Richmond/9307-Rustling-Manor-Ln-77407/home/109787736",
@@ -1522,7 +2198,7 @@
    "baths": 2.0,
    "sqft": 1787,
    "year": 2014,
-   "dom": null,
+   "dom": 38,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": 7,
@@ -1535,7 +2211,17 @@
     "Flood Factor 7/10 (Redfin, Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 168
+   "ppsf": 168,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299995
+    }
+   ]
   },
   {
    "url": "https://www.redfin.com/TX/Richmond/8338-Vacek-Crossing-Way-77469/home/197950291",
@@ -1548,7 +2234,7 @@
    "baths": 2.5,
    "sqft": 2121,
    "year": 2026,
-   "dom": null,
+   "dom": 60,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1560,7 +2246,17 @@
     "Cut $20,000 (Nov 1)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 125
+   "ppsf": 125,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 264990
+    }
+   ]
   },
   {
    "url": "https://www.redfin.com/TX/Richmond/8322-Vacek-Crossing-Way-77469/home/197950287",
@@ -1573,7 +2269,7 @@
    "baths": 2.0,
    "sqft": 1412,
    "year": 2026,
-   "dom": null,
+   "dom": 60,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -1585,7 +2281,17 @@
     "Cut $10,000 (Nov 2)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 184
+   "ppsf": 184,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 259990
+    }
+   ]
   },
   {
    "url": "https://www.redfin.com/TX/Richmond/3330-Brushy-Marsh-Dr-77406/home/192938515",
@@ -1598,7 +2304,7 @@
    "baths": null,
    "sqft": 1500,
    "year": null,
-   "dom": null,
+   "dom": 131,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": 10,
@@ -1611,7 +2317,17 @@
     "Flood Factor 10/10 (Redfin, Nov 7)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 199
+   "ppsf": 199,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3411-golden-amber-ct-richmond-tx-77406/16083643",
@@ -1624,7 +2340,7 @@
    "baths": 2.0,
    "sqft": 1725,
    "year": 2022,
-   "dom": null,
+   "dom": 27,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1637,7 +2353,17 @@
     "Foreclosure"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 174
+   "ppsf": 174,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3726-homestead-ridge-ln-richmond-tx-77406/16083452",
@@ -1650,7 +2376,7 @@
    "baths": 2.0,
    "sqft": 1775,
    "year": 2021,
-   "dom": null,
+   "dom": 2,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1663,7 +2389,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 169
+   "ppsf": 169,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 300000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/7626-ramsgate-cliff-ln-richmond-tx-77407/15373251",
@@ -1676,7 +2412,7 @@
    "baths": 2,
    "sqft": 1325,
    "year": 2021,
-   "dom": null,
+   "dom": 16,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1689,7 +2425,17 @@
     "Now $279,000 (Redfin, Oct 25)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 211
+   "ppsf": 211,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 279000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5650-pleasant-falls-dr-richmond-tx-77407/14779485",
@@ -1702,7 +2448,7 @@
    "baths": null,
    "sqft": 1631,
    "year": 2019,
-   "dom": null,
+   "dom": 77,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1716,7 +2462,17 @@
     "Built 2019; builder not shown"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 183
+   "ppsf": 183,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 298000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3403-brazos-falls-dr-richmond-tx-77469/14926719",
@@ -1729,7 +2485,7 @@
    "baths": null,
    "sqft": 1611,
    "year": 2022,
-   "dom": null,
+   "dom": 10,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1741,7 +2497,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 161
+   "ppsf": 161,
+   "builder": "Anglia Homes",
+   "status": "under-contract",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 260000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8211-rustic-pine-trl-richmond-tx-77469/17686338",
@@ -1754,7 +2520,7 @@
    "baths": 2.0,
    "sqft": 1819,
    "year": 2026,
-   "dom": null,
+   "dom": 29,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1770,7 +2536,21 @@
     "Cut $5,000 (Nov 7)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 143
+   "ppsf": 143,
+   "builder": "Lennar",
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 265990
+    },
+    {
+     "date": "2026-11-07",
+     "price": 260990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5506-dovish-brook-ln-richmond-tx-77469/17684984",
@@ -1783,7 +2563,7 @@
    "baths": 2.0,
    "sqft": 1970,
    "year": 2026,
-   "dom": null,
+   "dom": 31,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1799,7 +2579,21 @@
     "Cut $5,000 (Nov 7)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 140
+   "ppsf": 140,
+   "builder": "Lennar",
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 280990
+    },
+    {
+     "date": "2026-11-07",
+     "price": 275990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3802-cloudbluff-ln-richmond-tx-77469/9797806",
@@ -1812,7 +2606,7 @@
    "baths": null,
    "sqft": 2178,
    "year": 2006,
-   "dom": null,
+   "dom": 49,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1826,7 +2620,17 @@
     "Now $286,000 (Redfin, Oct 25)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 131
+   "ppsf": 131,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 286000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8326-vacek-crossing-way-richmond-tx-77469/17061288",
@@ -1839,7 +2643,7 @@
    "baths": 3.0,
    "sqft": 2260,
    "year": 2026,
-   "dom": null,
+   "dom": 58,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1855,7 +2659,21 @@
     "Cut $20,000 (Nov 7)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 119
+   "ppsf": 119,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289990
+    },
+    {
+     "date": "2026-11-07",
+     "price": 269990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/2346-cherrington-woods-ln-richmond-tx-77469/15115583",
@@ -1868,7 +2686,7 @@
    "baths": null,
    "sqft": 1998,
    "year": 2017,
-   "dom": null,
+   "dom": 100,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1882,7 +2700,17 @@
     "Cut $10,090 (Oct 28)"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 145
+   "ppsf": 145,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8126-clover-leaf-dr-rosenberg-tx-77469/8022248",
@@ -1895,7 +2723,7 @@
    "baths": null,
    "sqft": 1880,
    "year": 2009,
-   "dom": null,
+   "dom": 24,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1905,7 +2733,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 149
+   "ppsf": 149,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 280000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5219-santa-cruz-bay-richmond-tx-77469/17687857",
@@ -1918,7 +2756,7 @@
    "baths": 3.0,
    "sqft": 2233,
    "year": 2026,
-   "dom": null,
+   "dom": 24,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1932,7 +2770,17 @@
     "Price cut per Redfin (Oct 25)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 120
+   "ppsf": 120,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 268990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/1710-mountain-echo-dr-richmond-tx-77469/16081677",
@@ -1945,7 +2793,7 @@
    "baths": null,
    "sqft": 1802,
    "year": 2021,
-   "dom": null,
+   "dom": 32,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -1958,7 +2806,17 @@
     "Under Contract \u2014 verify status"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 163
+   "ppsf": 163,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 293000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5434-prairie-dog-fork-ln-richmond-tx-77469/14943194",
@@ -1985,7 +2843,17 @@
     "Tax rate 2.7689"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 139
+   "ppsf": 139,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/10031-lilac-croft-ln-richmond-tx-77406/14843192",
@@ -1998,7 +2866,7 @@
    "baths": 2.5,
    "sqft": 1982,
    "year": null,
-   "dom": null,
+   "dom": 79,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -2011,7 +2879,17 @@
     "Price reduction per HAR"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 146
+   "ppsf": 146,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/2723-pueblo-falls-dr-richmond-tx-77406/17584351",
@@ -2024,7 +2902,7 @@
    "baths": 2.0,
    "sqft": 1600,
    "year": 2026,
-   "dom": null,
+   "dom": 162,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
@@ -2039,7 +2917,21 @@
     "Cut $10,000 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 178
+   "ppsf": 178,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-10-18",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 294990
+    },
+    {
+     "date": "2026-11-07",
+     "price": 284990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3731-butterfly-breeze-ln-richmond-tx-77406/15226622?lid=11359887",
@@ -2052,7 +2944,7 @@
    "baths": 2.5,
    "sqft": 2239,
    "year": 2020,
-   "dom": null,
+   "dom": 12,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2063,7 +2955,17 @@
     "Shown new (Redfin, Oct 25)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 134
+   "ppsf": 134,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/3535-britton-burrow-way-richmond-tx-77406/15226712",
@@ -2087,7 +2989,17 @@
     "Just listed (5 days on market, Oct 25)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 151
+   "ppsf": 151,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/1206-ricasoli-dr-richmond-tx-77406/16694992",
@@ -2100,7 +3012,7 @@
    "baths": 2,
    "sqft": 1814,
    "year": 2024,
-   "dom": null,
+   "dom": 10,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2109,7 +3021,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 152
+   "ppsf": 152,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 274900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/19914-nandina-knl-richmond-tx-77407/7990325",
@@ -2122,7 +3044,7 @@
    "baths": 2.5,
    "sqft": 2122,
    "year": 2009,
-   "dom": null,
+   "dom": 14,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2133,7 +3055,17 @@
     "Carrier HVAC noted on Redfin card"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 141
+   "ppsf": 141,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299999
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/18306-arcola-bay-ln-richmond-tx-77407/14770960",
@@ -2146,7 +3078,7 @@
    "baths": 2,
    "sqft": 1421,
    "year": 2019,
-   "dom": null,
+   "dom": 15,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2155,7 +3087,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 208
+   "ppsf": 208,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 295000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/7606-rainham-valley-ln-richmond-tx-77407/15530447",
@@ -2168,7 +3110,7 @@
    "baths": 2,
    "sqft": 1320,
    "year": 2021,
-   "dom": null,
+   "dom": 18,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2177,7 +3119,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 222
+   "ppsf": 222,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 292500
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/16919-midnight-dawn-dr-richmond-tx-77407/2531668",
@@ -2190,7 +3142,7 @@
    "baths": 2,
    "sqft": 2110,
    "year": 2006,
-   "dom": null,
+   "dom": 18,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2202,7 +3154,17 @@
     "Cut $100 (Nov 1, HAR)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 123
+   "ppsf": 123,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 259900
+    }
+   ]
   },
   {
    "url": "https://www.redfin.com/TX/Richmond/5523-Twilight-Thicket-Ln-77469/home/204763448",
@@ -2215,7 +3177,7 @@
    "baths": 2,
    "sqft": 1819,
    "year": 2026,
-   "dom": null,
+   "dom": 13,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2228,7 +3190,17 @@
     "Cut $3,000 (Nov 1)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 146
+   "ppsf": 146,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 265990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5515-twilight-thicket-ln-richmond-tx-77469/17691004",
@@ -2241,7 +3213,7 @@
    "baths": 2,
    "sqft": 1922,
    "year": 2026,
-   "dom": null,
+   "dom": 16,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2254,7 +3226,17 @@
     "Cut $3,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 149
+   "ppsf": 149,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 286990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5503-twilight-thicket-ln-richmond-tx-77469/17690995",
@@ -2267,7 +3249,7 @@
    "baths": 2,
    "sqft": 1922,
    "year": 2026,
-   "dom": null,
+   "dom": 16,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2280,7 +3262,17 @@
     "Cut $5,000 (Oct 28)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 148
+   "ppsf": 148,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 284990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/7326-audubon-russet-dr-richmond-tx-77469/16408057",
@@ -2293,7 +3285,7 @@
    "baths": 3,
    "sqft": 3028,
    "year": 2023,
-   "dom": null,
+   "dom": 66,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2302,7 +3294,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 96
+   "ppsf": 96,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 290000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5807-cherry-meadows-st-rosenberg-tx-77469/17661750",
@@ -2315,7 +3317,7 @@
    "baths": 2,
    "sqft": 1574,
    "year": 2026,
-   "dom": null,
+   "dom": 57,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2329,7 +3331,17 @@
     "Price reduction per HAR"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 191
+   "ppsf": 191,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/6118-wildflower-fields-ct-richmond-tx-77469/17583570",
@@ -2342,7 +3354,7 @@
    "baths": 2,
    "sqft": 1642,
    "year": 2026,
-   "dom": null,
+   "dom": 4,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2358,7 +3370,21 @@
     "Cut $5,000 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 167
+   "ppsf": 167,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 279990
+    },
+    {
+     "date": "2026-11-07",
+     "price": 274990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8330-vacek-crossing-way-richmond-tx-77469/17061289",
@@ -2371,7 +3397,7 @@
    "baths": 2.5,
    "sqft": 1826,
    "year": 2026,
-   "dom": null,
+   "dom": 31,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2384,7 +3410,21 @@
     "Cut $15,000 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 142
+   "ppsf": 142,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 274990
+    },
+    {
+     "date": "2026-11-07",
+     "price": 259990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8627-vacek-crossing-way-richmond-tx-77469/17061236",
@@ -2397,7 +3437,7 @@
    "baths": 2.5,
    "sqft": 1615,
    "year": 2025,
-   "dom": null,
+   "dom": 17,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2410,7 +3450,17 @@
     "Cut $10,000 (Nov 1)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 158
+   "ppsf": 158,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 255000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8131-vacek-meadows-loop-richmond-tx-77469/16088211",
@@ -2423,7 +3473,7 @@
    "baths": 2,
    "sqft": 1862,
    "year": 2022,
-   "dom": null,
+   "dom": 18,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2432,7 +3482,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 137
+   "ppsf": 137,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 255000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/2327-cherrington-woods-ln-rosenberg-tx-77469/13742231",
@@ -2445,7 +3505,7 @@
    "baths": 2,
    "sqft": 1743,
    "year": 2018,
-   "dom": null,
+   "dom": 100,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2454,7 +3514,17 @@
    ],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 172
+   "ppsf": 172,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299900
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5530-dovish-brook-ln-richmond-tx-77469/17690220",
@@ -2467,7 +3537,7 @@
    "baths": 2,
    "sqft": 1970,
    "year": 2026,
-   "dom": null,
+   "dom": 18,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2478,7 +3548,17 @@
     "New construction"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 148
+   "ppsf": 148,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 290990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5924-bluebonnet-ln-rosenberg-tx-77469/15223237",
@@ -2500,7 +3580,17 @@
     "Seller may contribute"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 178
+   "ppsf": 178,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 252990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/4712-rosemary-creek-dr-rosenberg-tx-77469/17664047",
@@ -2525,7 +3615,17 @@
     "Seller may contribute"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 191
+   "ppsf": 191,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/6127-coyote-glade-dr-richmond-tx-77469/17725728",
@@ -2551,7 +3651,21 @@
     "Cut $30,000 (Nov 7)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 160
+   "ppsf": 160,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 288070
+    },
+    {
+     "date": "2026-11-07",
+     "price": 258070
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/6619-canary-knoll-ct-richmond-tx-77469/17424217",
@@ -2575,7 +3689,17 @@
     "New construction"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 198
+   "ppsf": 198,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299556
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/6918-morales-way-richmond-tx-77469/15462276",
@@ -2595,7 +3719,17 @@
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 176
+   "ppsf": 176,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 295000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/7502-monarch-forest-ln-rosenberg-tx-77469/15548566",
@@ -2615,7 +3749,17 @@
    "flags": [],
    "highlights": [],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 142
+   "ppsf": 142,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 290000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/10415-melida-dawn-way-richmond-tx-77406/17638448",
@@ -2640,7 +3784,17 @@
     "Seller may contribute"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 184
+   "ppsf": 184,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 284990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/11427-harmony-summit-richmond-tx-77406/14926542",
@@ -2665,7 +3819,17 @@
     "Cut $10,000 (10/12)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 189
+   "ppsf": 189,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 290000
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/8334-vacek-crossing-way-richmond-tx-77469/17061290",
@@ -2678,7 +3842,7 @@
    "baths": 2.0,
    "sqft": 1412,
    "year": 2026,
-   "dom": null,
+   "dom": 58,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2691,7 +3855,17 @@
     "Price reduction per HAR"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 195
+   "ppsf": 195,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 274990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/5223-santa-cruz-bay-richmond-tx-77469/17731505",
@@ -2704,7 +3878,7 @@
    "baths": 3.0,
    "sqft": 2637,
    "year": 2026,
-   "dom": null,
+   "dom": 1,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2716,7 +3890,17 @@
     "Just Listed"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 108
+   "ppsf": 108,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 284990
+    }
+   ]
   },
   {
    "url": "https://www.har.com/homedetail/2734-sage-bluff-ave-richmond-tx-77469/10809466",
@@ -2729,7 +3913,7 @@
    "baths": 2.5,
    "sqft": 2150,
    "year": 2006,
-   "dom": null,
+   "dom": 1,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": null,
@@ -2740,7 +3924,17 @@
     "Just Listed"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 140
+   "ppsf": 140,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-08",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 299999
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/5514-Dovish-Brook-Ln-Richmond-TX-77469/466257088_zpid/",
@@ -2765,7 +3959,17 @@
     "Built by Lennar (year not shown)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 152
+   "ppsf": 152,
+   "builder": "Lennar",
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 292990
+    }
+   ]
   },
   {
    "url": "https://www.zillow.com/homedetails/5519-Dovish-Brook-Ln-Richmond-TX-77469/466257101_zpid/",
@@ -2790,7 +3994,17 @@
     "Built by Lennar (year not shown)"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 147
+   "ppsf": 147,
+   "builder": "Lennar",
+   "status": "active",
+   "firstSeen": "2026-11-07",
+   "lastVerified": "2026-11-07",
+   "priceHistory": [
+    {
+     "date": "2026-11-07",
+     "price": 289990
+    }
+   ]
   }
  ],
  "source_note": "Out-of-cycle full run 2026-11-07 (owner request, Sunday scan + Wednesday publish combined): HAR complete in-band sweeps all 7 ZIPs (398 cards) + Zillow page-1 via Pi browser (250 cards of 95/46/28/~35/46/36/50 totals) + Redfin detail checks on 6 listings. 19 removed on detail evidence (sold / not-for-sale / below band / for-rent), 16 price updates (11 dual-source HAR+Zillow, 5 HAR-detail confirmed), 2 flood updates from Redfin, 5 new matches added. 5 kept listings have unverified status (Zillow detail pages bot-checked). See watch-log.md.",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07",
+ "generated": "2026-11-11",
  "method": "Ranked by Composite Home Score desc; tie-break lower price, then lower DOM (null DOM last); 'flip'-flagged listings excluded (none in current data).",
  "top5": [
   {
@@ -12,65 +12,21 @@
    "baths": 2,
    "sqft": 2110,
    "year": 2006,
-   "dom": null,
-   "ppsf": 123.0,
+   "dom": 18,
+   "ppsf": 123,
    "url": "https://www.har.com/homedetail/16919-midnight-dawn-dr-richmond-tx-77407/2531668",
-   "composite_home_score": 67.3,
-   "deal_score": 69.4,
+   "composite_home_score": 70.3,
+   "deal_score": 74.4,
    "est_monthly_piti_usd": 1832.31,
    "front_end_ratio_pct": 21.99,
    "flags": [
     "new",
     "price-cut"
    ],
-   "reason": "Composite 67.3 (Deal 69.4): $123/sqft; price-cut flag; built 2006."
+   "reason": "Composite 70.3 (Deal 74.4): $123/sqft; price-cut flag; DOM 18; built 2006."
   },
   {
    "rank": 2,
-   "address": "8338 Vacek Crossing Way, Richmond 77469",
-   "area": "Richmond",
-   "subdivision": "\u2014",
-   "price": 264990,
-   "beds": 4,
-   "baths": 2.5,
-   "sqft": 2121,
-   "year": 2026,
-   "dom": null,
-   "ppsf": 125.0,
-   "url": "https://www.redfin.com/TX/Richmond/8338-Vacek-Crossing-Way-77469/home/197950291",
-   "composite_home_score": 67.3,
-   "deal_score": 69.4,
-   "est_monthly_piti_usd": 1876.98,
-   "front_end_ratio_pct": 22.52,
-   "flags": [
-    "price-cut"
-   ],
-   "reason": "Composite 67.3 (Deal 69.4): $125/sqft; price-cut flag; built 2026."
-  },
-  {
-   "rank": 3,
-   "address": "5215 Santa Cruz Bay, Richmond 77469",
-   "area": "Richmond",
-   "subdivision": "Esperanza, Needville Area",
-   "price": 268990,
-   "beds": 5,
-   "baths": 3.0,
-   "sqft": 2637,
-   "year": 2026,
-   "dom": null,
-   "ppsf": 102.0,
-   "url": "https://www.zillow.com/homedetails/5215-Santa-Cruz-Bay-Richmond-TX-77469/465489225_zpid/",
-   "composite_home_score": 67.3,
-   "deal_score": 69.4,
-   "est_monthly_piti_usd": 1912.09,
-   "front_end_ratio_pct": 22.95,
-   "flags": [
-    "price-cut"
-   ],
-   "reason": "Composite 67.3 (Deal 69.4): $102/sqft; price-cut flag; built 2026."
-  },
-  {
-   "rank": 4,
    "address": "5219 Santa Cruz Bay, Richmond 77469",
    "area": "Richmond",
    "subdivision": "Esperanza, Needville Area",
@@ -79,21 +35,44 @@
    "baths": 3.0,
    "sqft": 2233,
    "year": 2026,
-   "dom": null,
-   "ppsf": 120.0,
+   "dom": 24,
+   "ppsf": 120,
    "url": "https://www.har.com/homedetail/5219-santa-cruz-bay-richmond-tx-77469/17687857",
-   "composite_home_score": 67.3,
-   "deal_score": 69.4,
+   "composite_home_score": 70.3,
+   "deal_score": 74.4,
    "est_monthly_piti_usd": 1912.09,
    "front_end_ratio_pct": 22.95,
    "flags": [
     "new",
     "price-cut"
    ],
-   "reason": "Composite 67.3 (Deal 69.4): $120/sqft; price-cut flag; built 2026."
+   "reason": "Composite 70.3 (Deal 74.4): $120/sqft; price-cut flag; DOM 24; built 2026."
   },
   {
-   "rank": 5,
+   "rank": 3,
+   "address": "3802 Cloudbluff Ln, Richmond, TX 77469",
+   "area": "Richmond",
+   "subdivision": "Sunrise Meadow Sec 1",
+   "price": 286000,
+   "beds": null,
+   "baths": null,
+   "sqft": 2178,
+   "year": 2006,
+   "dom": 49,
+   "ppsf": 131,
+   "url": "https://www.har.com/homedetail/3802-cloudbluff-ln-richmond-tx-77469/9797806",
+   "composite_home_score": 69.1,
+   "deal_score": 72.5,
+   "est_monthly_piti_usd": 2061.4,
+   "front_end_ratio_pct": 24.74,
+   "flags": [
+    "price-cut",
+    "incomplete"
+   ],
+   "reason": "Composite 69.1 (Deal 72.5): $131/sqft; price-cut flag; DOM 49; built 2006."
+  },
+  {
+   "rank": 4,
    "address": "8326 Vacek Crossing Way, Richmond, TX 77469",
    "area": "Richmond",
    "subdivision": "Vacek Pointe",
@@ -102,18 +81,40 @@
    "baths": 3.0,
    "sqft": 2260,
    "year": 2026,
-   "dom": null,
-   "ppsf": 119.0,
+   "dom": 58,
+   "ppsf": 119,
    "url": "https://www.har.com/homedetail/8326-vacek-crossing-way-richmond-tx-77469/17061288",
-   "composite_home_score": 67.3,
-   "deal_score": 69.4,
+   "composite_home_score": 68.5,
+   "deal_score": 71.5,
    "est_monthly_piti_usd": 1920.87,
    "front_end_ratio_pct": 23.05,
    "flags": [
     "new",
     "price-cut"
    ],
-   "reason": "Composite 67.3 (Deal 69.4): $119/sqft; price-cut flag; built 2026."
+   "reason": "Composite 68.5 (Deal 71.5): $119/sqft; price-cut flag; DOM 58; built 2026."
+  },
+  {
+   "rank": 5,
+   "address": "8338 Vacek Crossing Way, Richmond 77469",
+   "area": "Richmond",
+   "subdivision": "—",
+   "price": 264990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2121,
+   "year": 2026,
+   "dom": 60,
+   "ppsf": 125,
+   "url": "https://www.redfin.com/TX/Richmond/8338-Vacek-Crossing-Way-77469/home/197950291",
+   "composite_home_score": 68.3,
+   "deal_score": 71.2,
+   "est_monthly_piti_usd": 1876.98,
+   "front_end_ratio_pct": 22.52,
+   "flags": [
+    "price-cut"
+   ],
+   "reason": "Composite 68.3 (Deal 71.2): $125/sqft; price-cut flag; DOM 60; built 2026."
   }
  ]
 }
