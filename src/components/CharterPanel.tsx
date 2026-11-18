@@ -1,8 +1,10 @@
-import { CAMPUSES, CHARTER_RULE, DEADLINES, DISTRICTS, countdownLabel } from '../data/charter'
+import { CAMPUSES, CHARTER_RULE, DISTRICTS, currentCycle, deadlineChip } from '../data/charter'
 import { AREA_COLORS } from '../lib/types'
 import ScoreBar from './ScoreBar'
 
 export default function CharterPanel() {
+  const cycle = currentCycle()
+  const pending = cycle.deadlines.some((d) => d.confirmed === false)
   return (
     <div className="schools-view-inner">
       <header className="view-header">
@@ -15,18 +17,18 @@ export default function CharterPanel() {
           <section aria-label="The rule" className="schools-rule-block">
             <p className="charter-rule">{CHARTER_RULE}</p>
             <p className="panel-note">
-              Edition 2, Ch 20C: enrolment and lottery dates for the 2027 cycle. A charter seat is
-              decided by lottery — the zoned campus below is the plan for every home.
+              Edition 2, Ch 20C: enrolment and lottery dates for the {cycle.label} cycle. A charter
+              seat is decided by lottery — the zoned campus below is the plan for every home.
             </p>
           </section>
 
           <section aria-labelledby="deadlines-title" className="schools-section">
             <h3 id="deadlines-title" className="panel-subtitle">
-              Enrolment deadlines
+              Enrolment deadlines — {cycle.label} cycle
             </h3>
             <div className="deadline-list">
-              {DEADLINES.map((d) => {
-                const cd = countdownLabel(d.date)
+              {cycle.deadlines.map((d) => {
+                const cd = deadlineChip(d)
                 return (
                   <div key={d.event} className="deadline-row">
                     <span className="deadline-date">{d.display}</span>
@@ -36,6 +38,12 @@ export default function CharterPanel() {
                 )
               })}
             </div>
+            {pending && (
+              <p className="panel-note">
+                The districts have not published exact dates for the {cycle.label} cycle yet. The
+                windows above are the usual pattern — this panel updates when they publish.
+              </p>
+            )}
           </section>
 
           <section aria-labelledby="districts-title" className="schools-section">

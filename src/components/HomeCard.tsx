@@ -1,6 +1,15 @@
 import { useEffect, useRef, useState } from 'react'
 import type { Home, Ratios, TopPick } from '../lib/types'
-import { AREA_COLORS, FLAG_LABELS, bandFor, money, num } from '../lib/types'
+import {
+  AREA_COLORS,
+  FLAG_LABELS,
+  bandFor,
+  daysBetween,
+  fmtDate,
+  money,
+  num,
+  statusLabel,
+} from '../lib/types'
 import ScoreRing from './ScoreRing'
 import ScoreBar from './ScoreBar'
 import RatioStrip from './RatioStrip'
@@ -57,6 +66,10 @@ export default function HomeCard({
                 </span>
               ))}
               {moreFlags > 0 && <span className="flags-more">+{moreFlags} more</span>}
+            </span>
+          ) : home.firstSeen ? (
+            <span className="row-fresh">
+              Watching since {fmtDate(home.firstSeen)} · checked {fmtDate(home.lastVerified)}
             </span>
           ) : null}
         </span>
@@ -158,6 +171,12 @@ export function HomeDetail({
             <dl className="detail-dl">
               <dt>Subdivision</dt>
               <dd>{home.subdivision}</dd>
+              <dt>Builder</dt>
+              <dd>
+                {home.builder ?? <span className="not-listed">Not listed</span>}
+              </dd>
+              <dt>Status</dt>
+              <dd>{statusLabel(home.status)}</dd>
               <dt>Schools</dt>
               <dd>{home.schools}</dd>
               <dt>Flood factor</dt>
@@ -165,6 +184,44 @@ export function HomeDetail({
               <dt>HOA</dt>
               <dd>{home.hoa}</dd>
             </dl>
+          </section>
+
+          <section aria-label="Freshness and price history">
+            <dl className="detail-dl">
+              <dt>First seen</dt>
+              <dd>
+                {fmtDate(home.firstSeen, true)}
+                {(() => {
+                  const age = daysBetween(home.firstSeen, home.lastVerified)
+                  return age > 0 ? (
+                    <span className="dl-note"> · {age} days on the watch</span>
+                  ) : null
+                })()}
+              </dd>
+              <dt>Last verified</dt>
+              <dd>{fmtDate(home.lastVerified, true)}</dd>
+            </dl>
+            {home.priceHistory.length > 0 && (
+              <p className="price-history-line mono">
+                {home.priceHistory.map((p, i) => (
+                  <span key={p.date + p.price}>
+                    {i > 0 && <span className="ph-arrow"> → </span>}
+                    {fmtDate(p.date)} {money(p.price)}
+                    {i > 0 &&
+                      (() => {
+                        const d = p.price - home.priceHistory[i - 1].price
+                        return d !== 0 ? (
+                          <span className={d < 0 ? 'ph-cut' : 'ph-rise'}>
+                            {' '}
+                            ({d < 0 ? '−' : '+'}
+                            {money(Math.abs(d))})
+                          </span>
+                        ) : null
+                      })()}
+                  </span>
+                ))}
+              </p>
+            )}
           </section>
 
           <section aria-label="Access scores">

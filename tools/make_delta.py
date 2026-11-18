@@ -5,6 +5,12 @@ Compares the previous published data/listings.json with the new one and
 records: added, removed, price-changed (with $ and %), status-changed.
 Keyed by listing URL. No prose, no reconstruction — pure set/field diff.
 
+Phase 2 (2026-11-17): each run's delta is also prepended to the run
+history at data/delta-history.json (newest first, capped) and copied to
+src/data/delta.json, which is what the app's "What changed" view renders
+and what the Wednesday/Sunday run reports lead with — one delta, three
+readers, never re-derived.
+
 Usage: python3 tools/make_delta.py [prev_json] [new_json] [out_json] [extra_copy]
 Defaults: prev = data/listings.json.prev (written by sync_data.py before
           it overwrites data/listings.json), new = data/listings.json,
@@ -62,6 +68,34 @@ def compute_delta(prev: dict, new: dict, generated: str) -> dict:
     }
 
 
+HISTORY_CAP = 12
+
+
+def update_history(delta: dict, history_path: Path, app_copy_path: Path,
+                   cap: int = HISTORY_CAP) -> int:
+    """Prepend one run's delta to the history file and refresh the app copy.
+
+    Dedupes on the run's `generated` date: re-running a sync for the same
+    run replaces that run's entry instead of duplicating it. Returns the
+    number of runs kept.
+    """
+    runs = []
+    if history_path.exists():
+        try:
+            runs = json.loads(history_path.read_text()).get("runs", [])
+        except (ValueError, AttributeError):
+            runs = []
+    runs = [r for r in runs if r.get("generated") != delta.get("generated")]
+    runs.insert(0, delta)
+    runs = runs[:cap]
+    payload = {"generated": runs[0].get("generated", ""), "runs": runs}
+    text = json.dumps(payload, indent=1)
+    history_path.write_text(text)
+    app_copy_path.parent.mkdir(parents=True, exist_ok=True)
+    app_copy_path.write_text(text)
+    return len(runs)
+
+
 def main() -> int:
     prev_path = Path(sys.argv[1]) if len(sys.argv) > 1 else REPO / "data" / "listings.json.prev"
     new_path = Path(sys.argv[2]) if len(sys.argv) > 2 else REPO / "data" / "listings.json"
@@ -79,10 +113,13 @@ def main() -> int:
         extra.write_text(text)
     except OSError:
         pass
+    kept = update_history(delta, REPO / "data" / "delta-history.json",
+                          REPO / "src" / "data" / "delta.json")
     print(f"delta: prev {delta['previousCount']} + {len(delta['added'])} new "
           f"- {len(delta['removed'])} removed = {delta['currentCount']}; "
           f"{len(delta['priceChanged'])} price-changed, "
-          f"{len(delta['statusChanged'])} status-changed -> {out_path}")
+          f"{len(delta['statusChanged'])} status-changed -> {out_path}; "
+          f"history keeps {kept} run(s)")
     return 0
 
 

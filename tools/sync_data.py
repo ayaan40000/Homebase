@@ -11,6 +11,11 @@ is kept at data/listings.json.prev, and after the copy a mechanical delta
 the goal's hidden_files/delta-latest.json. tools/check_consistency.py
 must pass before any push.
 
+Phase 2 (2026-11-17): the delta also goes into the run history
+(data/delta-history.json, newest first) with an app copy at
+src/data/delta.json — the "What changed" view and both run reports read
+that one delta.
+
 Usage: python3 tools/sync_data.py [source_json] [dest_json]
 Defaults: source = the goal's canonical listings file on the VM,
           dest   = data/listings.json relative to the repo root.
@@ -75,8 +80,10 @@ def main() -> int:
     dest.write_text(text)
     print(f"synced {len(data['listings'])} listings -> {dest} (privacy scan clean)")
     # Phase 1: mechanical run delta vs the previous published payload.
+    # Phase 2: the same delta is prepended to data/delta-history.json and
+    # copied to src/data/delta.json for the app's "What changed" view.
     sys.path.insert(0, str(Path(__file__).resolve().parent))
-    from make_delta import compute_delta
+    from make_delta import compute_delta, update_history
     delta = compute_delta(prev or {"listings": []}, data, data.get("generated", ""))
     delta_text = json.dumps(delta, indent=1)
     (dest.parent / "delta.json").write_text(delta_text)
@@ -86,10 +93,13 @@ def main() -> int:
         goal_copy.write_text(delta_text)
     except OSError:
         pass
+    kept = update_history(delta, dest.parent / "delta-history.json",
+                          REPO / "src" / "data" / "delta.json")
     print(f"delta: prev {delta['previousCount']} + {len(delta['added'])} new "
           f"- {len(delta['removed'])} removed = {delta['currentCount']}; "
           f"{len(delta['priceChanged'])} price-changed, "
-          f"{len(delta['statusChanged'])} status-changed")
+          f"{len(delta['statusChanged'])} status-changed; "
+          f"history keeps {kept} run(s)")
     return 0
 
 

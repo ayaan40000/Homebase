@@ -6,7 +6,11 @@ FAILS (exit 1, plain messages) when any of these do not reconcile:
      (URL sets are compared too, so a same-count swap also fails);
   2. any src/data/top5.json entry is missing from data/listings.json;
   3. data/delta.json does not reconcile:
-     previousCount + added - removed == currentCount == repo count.
+     previousCount + added - removed == currentCount == repo count;
+  4. (Phase 2) data/delta-history.json, when present, does not open with
+     the same run as data/delta.json, or src/data/delta.json (the app
+     copy) differs from the history file — the app and the run reports
+     must read the same delta the guard validated.
 
 Run it after sync_data.py and BEFORE any push, on every publish path
 (Sunday scan and Wednesday refresh alike). A red guard means: do not push.
@@ -73,6 +77,28 @@ def main() -> int:
         problems.append(
             f"delta currentCount {delta.get('currentCount')} != "
             f"repo listings count {len(repo)}")
+
+    hist_p = REPO / "data" / "delta-history.json"
+    app_delta_p = REPO / "src" / "data" / "delta.json"
+    if hist_p.exists():
+        hist = load(hist_p)
+        runs = hist.get("runs", [])
+        if not runs:
+            problems.append("delta-history.json has no runs")
+        else:
+            head = runs[0]
+            for key in ("generated", "previousCount", "currentCount"):
+                if head.get(key) != delta.get(key):
+                    problems.append(
+                        f"delta-history newest run {key}={head.get(key)} "
+                        f"!= delta.json {key}={delta.get(key)}")
+            for key in ("added", "removed", "priceChanged", "statusChanged"):
+                if len(head.get(key, [])) != len(delta.get(key, [])):
+                    problems.append(
+                        f"delta-history newest run has {len(head.get(key, []))} "
+                        f"{key}, delta.json has {len(delta.get(key, []))}")
+        if app_delta_p.exists() and load(app_delta_p) != hist:
+            problems.append("src/data/delta.json differs from data/delta-history.json")
 
     if problems:
         for p in problems:

@@ -2,8 +2,10 @@
 
 **Written:** 2026-11-03 · **Status:** Phase 1 BUILT 2026-11-08 (owner green-lit
 2026-11-08, "using the document as a guide", Book Edition 2 governs — purchase
-window 2029 confirmed). Phases 2–5 completed as plan text 2026-11-08; they
-remain plan-only until separately green-lit.
+window 2029 confirmed). Phase 2 BUILT 2026-11-17 (owner green-lit 2026-11-17,
+"Develop my GitHub repos to the next development stages as per plan").
+Phases 3–5 completed as plan text 2026-11-08; they remain plan-only until
+separately green-lit.
 **Scope:** HomeBase dashboard (https://ayaan40000.github.io/Homebase/, repo `ayaan40000/Homebase`),
 its data pipeline (home-watch goal → `tools/sync_data.py` → Rust scorer → GitHub Actions → Pages),
 and the features worth building between now and the 2029 purchase window.
@@ -143,7 +145,22 @@ fails the guard instead of publishing.
 Dependencies: none beyond the existing crons. Risks: schema change touches scorer
 passthrough only — no weight changes.
 
-### Phase 2 — Watch value: deltas, alerts, deadlines (Dec 2026–Feb 2027) · Effort: M (3–4 build sessions)
+### Phase 2 — Watch value: deltas, alerts, deadlines (Dec 2026–Feb 2027) · Effort: M (3–4 build sessions) · **BUILT 2026-11-17**
+
+Built as specified: "What changed" view (Changes tab) rendering the run
+delta — new homes, price cuts/rises with $ and %, status changes, removals,
+newest run first — backed by a new run-delta history
+(`data/delta-history.json`, newest first, last 12 runs) with an app copy at
+`src/data/delta.json`; both run crons updated so their reports lead with
+the same delta (verified by read-back); charter deadlines converted to
+cycle data in `src/data/charter.ts` with rollover to the 2027–28 cycle and
+"dates pending publication" for unpublished dates; zero-in-band honesty
+state in Area Battle and the Explore empty state (Stafford wording as
+specified); freshness on the card ("Watching since … · checked …") and in
+the detail (builder, status, first-seen with days on the watch,
+last-verified, full price-history sequence); the "new this run" filter now
+reads `firstSeen`. The consistency guard also validates the delta history
+against `data/delta.json` and the app copy. No listing data changed.
 
 **Scope:** turn the pipeline's findings into signals Ayaan actually sees, timed to the
 school-enrolment season that is open **right now**.

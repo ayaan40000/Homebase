@@ -485,6 +485,28 @@ a { color: var(--teal); }
   .drawer { width: 420px; height: 100dvh; border-radius: 0; }
 }
 
+/* Phase 2 — What changed view, honesty state, freshness */
+.changes-view-inner { max-width: 760px; }
+.change-run { background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 16px; margin-bottom: 16px; }
+.change-run-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.change-run-title { font-family: "Space Grotesk", sans-serif; font-weight: 600; font-size: 1.0625rem; margin: 0; }
+.change-run-meta { color: var(--text-2); font-size: 0.8125rem; }
+.change-summary { color: var(--brass-bright); font-size: 0.8125rem; margin: 8px 0 4px; }
+.change-group { margin-top: 12px; }
+.change-group-title { font-family: "JetBrains Mono", monospace; font-size: 0.6875rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.12em; color: var(--text-2); margin: 0 0 4px; }
+.change-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; width: 100%; text-align: left; background: none; border: none; border-bottom: 1px solid var(--line-soft); padding: 8px 0; color: var(--text); text-decoration: none; min-height: 44px; }
+.change-row:last-child { border-bottom: none; }
+.change-address { display: inline-flex; align-items: center; gap: 8px; font-weight: 500; font-size: 0.9375rem; min-width: 0; }
+.change-address-text { overflow: hidden; text-overflow: ellipsis; }
+.change-detail { color: var(--text-2); font-size: 0.8125rem; text-align: right; flex: none; }
+button.change-row:hover .change-address-text, a.change-row:hover .change-address-text { color: var(--brass-bright); }
+.battle-empty-note { grid-column: 1 / -1; color: var(--text-2); font-size: 0.875rem; }
+.row-fresh { color: var(--text-3); font-size: 0.8125rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.price-history-line { color: var(--text-2); font-size: 0.8125rem; margin: 10px 0 0; overflow-x: auto; white-space: nowrap; }
+.ph-arrow { color: var(--text-3); }
+.ph-cut { color: var(--teal); }
+.ph-rise { color: #e3b341; }
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
   .battle-fill { width: var(--target) !important; }

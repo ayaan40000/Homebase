@@ -1,23 +1,71 @@
 export interface Deadline {
-  date: string // ISO date, or '' when month-only
+  date: string // ISO date, or '' when month-only / not yet published
   display: string
   event: string
+  /** false = the district has not published this date yet; the panel
+   *  shows "dates pending publication" and never counts down to it. */
+  confirmed?: boolean
 }
 
 export const CHARTER_RULE =
   'Plan on the zoned campus. A charter seat is lottery upside, never the plan.'
 
-export const DEADLINES: Deadline[] = [
-  { date: '2026-11-01', display: 'Nov 1, 2026', event: 'Harmony Public Schools enrolment opens' },
-  { date: '2027-01-25', display: 'Jan 25, 2027', event: 'KIPP Texas enrolment deadline' },
-  { date: '2027-02-10', display: 'Feb 10, 2027', event: 'Harmony enrolment closes' },
-  { date: '', display: 'Feb 2027', event: 'Lotteries held (both networks)' },
+/** Deadlines are cycle data, not constants (Phase 2). Each cycle carries
+ *  an `endsAfter` date: once it passes, the panel rolls to the next
+ *  cycle, so no countdown can ever point at a past cycle's dates. A
+ *  cycle whose districts have not published yet shows its expected
+ *  windows with every date marked unconfirmed. */
+export interface CharterCycle {
+  id: string
+  label: string
+  endsAfter: string // ISO date; the panel rolls over the day after
+  deadlines: Deadline[]
+}
+
+export const CYCLES: CharterCycle[] = [
   {
-    date: '2027-03-15',
-    display: 'Mar 15, 2027',
-    event: 'New Harmony Rosenberg / Pearland enrolment deadline (campuses open fall 2027)',
+    id: '2026-27',
+    label: '2026–27',
+    endsAfter: '2027-03-31',
+    deadlines: [
+      { date: '2026-11-01', display: 'Nov 1, 2026', event: 'Harmony Public Schools enrolment opens' },
+      { date: '2027-01-25', display: 'Jan 25, 2027', event: 'KIPP Texas enrolment deadline' },
+      { date: '2027-02-10', display: 'Feb 10, 2027', event: 'Harmony enrolment closes' },
+      { date: '', display: 'Feb 2027', event: 'Lotteries held (both networks)' },
+      {
+        date: '2027-03-15',
+        display: 'Mar 15, 2027',
+        event: 'New Harmony Rosenberg / Pearland enrolment deadline (campuses open fall 2027)',
+      },
+    ],
+  },
+  {
+    id: '2027-28',
+    label: '2027–28',
+    endsAfter: '2028-03-31',
+    deadlines: [
+      { date: '', display: 'Nov 2027', event: 'Harmony Public Schools enrolment opens', confirmed: false },
+      { date: '', display: 'Jan 2028', event: 'KIPP Texas enrolment deadline', confirmed: false },
+      { date: '', display: 'Feb 2028', event: 'Harmony enrolment closes', confirmed: false },
+      { date: '', display: 'Feb 2028', event: 'Lotteries held (both networks)', confirmed: false },
+    ],
   },
 ]
+
+/** The cycle in force today: the first whose rollover date has not
+ *  passed. If every known cycle has passed, the last one stays up —
+ *  its unconfirmed dates read "dates pending publication", never a
+ *  countdown to a past date. */
+export function currentCycle(today = new Date()): CharterCycle {
+  const t = new Date(today.getFullYear(), today.getMonth(), today.getDate()).getTime()
+  for (const c of CYCLES) {
+    if (t <= new Date(`${c.endsAfter}T12:00:00`).getTime()) return c
+  }
+  return CYCLES[CYCLES.length - 1]
+}
+
+/** The current cycle's deadlines (kept for existing imports). */
+export const DEADLINES: Deadline[] = currentCycle().deadlines
 
 export interface Campus {
   name: string
@@ -57,11 +105,24 @@ export const DISTRICTS: District[] = [
 ]
 
 export function countdownLabel(iso: string, today = new Date()): { text: string; tone: 'open' | 'soon' | 'closed' | 'plain' } {
-  if (!iso) return { text: 'Feb 2027', tone: 'plain' }
+  if (!iso) return { text: 'Date in cycle', tone: 'plain' }
   const target = new Date(iso + 'T12:00:00')
   const start = new Date(today.getFullYear(), today.getMonth(), today.getDate())
   const days = Math.round((target.getTime() - start.getTime()) / 86400000)
   if (days < 0) return { text: 'Closed', tone: 'closed' }
   if (days === 0) return { text: 'Today', tone: 'soon' }
   return { text: `in ${days} days`, tone: days <= 30 ? 'soon' : 'open' }
+}
+
+/** The chip shown next to a deadline. Unconfirmed dates never count
+ *  down — they read "Dates pending publication" until the district
+ *  publishes and the cycle data is updated. Month-only confirmed
+ *  entries show their display window. */
+export function deadlineChip(
+  d: Deadline,
+  today = new Date(),
+): { text: string; tone: 'open' | 'soon' | 'closed' | 'plain' } {
+  if (d.confirmed === false) return { text: 'Dates pending publication', tone: 'plain' }
+  if (!d.date) return { text: d.display, tone: 'plain' }
+  return countdownLabel(d.date, today)
 }

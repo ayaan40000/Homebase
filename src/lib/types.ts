@@ -36,6 +36,11 @@ export interface Ratios {
   estimated: boolean
 }
 
+export interface PricePoint {
+  date: string // ISO date the price was observed
+  price: number
+}
+
 export interface Home {
   url: string
   address: string
@@ -55,8 +60,83 @@ export interface Home {
   highlights: string[]
   inspector: string
   ppsf: number | null
+  // Phase 1 schema fields (carried through the scorer untouched)
+  builder: string | null
+  status: string // active / under-contract / pending / sold / unknown
+  firstSeen: string // ISO date the watch first added this listing
+  lastVerified: string // ISO date the listing was last actually checked
+  priceHistory: PricePoint[] // append-only, oldest first
   scores: Scores
   ratios: Ratios
+}
+
+export const STATUS_LABELS: Record<string, string> = {
+  active: 'Active',
+  'under-contract': 'Under contract',
+  pending: 'Pending',
+  sold: 'Sold',
+  unknown: 'Status unknown',
+}
+
+export const statusLabel = (s: string): string => STATUS_LABELS[s] ?? s
+
+/** One run's mechanical delta (tools/make_delta.py) — the single source
+ *  the "What changed" view and both run reports read. */
+export interface DeltaRun {
+  generated: string
+  previousCount: number
+  currentCount: number
+  added: Array<{ address: string; url: string; price: number }>
+  removed: Array<{ address: string; url: string; price: number }>
+  priceChanged: Array<{
+    address: string
+    url: string
+    from: number
+    to: number
+    change: number
+    pct: number
+  }>
+  statusChanged: Array<{ address: string; url: string; from: string; to: string }>
+}
+
+export interface DeltaHistory {
+  generated: string
+  runs: DeltaRun[] // newest first
+}
+
+/** '2026-11-07' -> 'Nov 7' (year appended when withYear). */
+export function fmtDate(iso: string, withYear = false): string {
+  const d = new Date(`${iso}T12:00:00`)
+  if (Number.isNaN(d.getTime()) || !/^\d{4}-\d{2}-\d{2}/.test(iso)) return iso
+  return d.toLocaleDateString('en-US', {
+    month: 'short',
+    day: 'numeric',
+    ...(withYear ? { year: 'numeric' } : {}),
+  })
+}
+
+/** Whole days from one ISO date to another (b - a). */
+export function daysBetween(a: string, b: string): number {
+  const da = new Date(`${a}T12:00:00`).getTime()
+  const db = new Date(`${b}T12:00:00`).getTime()
+  if (Number.isNaN(da) || Number.isNaN(db)) return 0
+  return Math.round((db - da) / 86400000)
+}
+
+/** Honesty state for an area with zero homes in the $250K–$300K band:
+ *  the empty area is a finding, stated in words — never a blank list
+ *  presented as if it were a full comparison. */
+export function emptyAreaNote(area: string): string {
+  switch (area) {
+    case 'Stafford':
+      return 'No homes in the $250K–$300K band in Stafford this run — the Book’s top-rated area is also its scarcest in band.'
+    case 'Cypress':
+      return 'No homes in the $250K–$300K band in Cypress this run — only Coles Crossing, Fairfield and Cypress Point count, and none has an in-band listing right now.'
+    case 'Katy':
+      return 'No homes in the $250K–$300K band in Katy (77450, Katy ISD) this run.'
+    default:
+      return `No homes in the $250K–$300K band in ${area} this run.`
+  }
 }
 
 export interface TopPick {

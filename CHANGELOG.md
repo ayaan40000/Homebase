@@ -1,5 +1,44 @@
 # Changelog
 
+## 2026-11-17 — Phase 2: watch value (deltas, alerts, deadlines)
+
+Built from `DEVELOPMENT-PLAN-2026-11.md` Phase 2 (owner green-lit
+2026-11-17 as the first of the repo development sequence).
+
+- **"What changed" view:** new Changes tab rendering the run delta —
+  new homes, price cuts and rises with $ and %, status changes and
+  removals, newest run first. Rows for homes still on the board open the
+  listing detail; removed homes link out to the listing.
+- **Delta history:** `tools/make_delta.py` / `tools/sync_data.py` now
+  keep `data/delta-history.json` (newest first, last 12 runs) and copy it
+  to `src/data/delta.json` for the app. One delta, three readers: the
+  app, the Wednesday report and the Sunday report all read the same
+  numbers. The consistency guard fails when the history's newest run
+  disagrees with `data/delta.json` or the app copy differs.
+- **Run reports lead with the delta:** the Wednesday mid-week cron and
+  the Sunday home-watch cron were updated so their chat reports open
+  with price cuts (with $ and %), status changes to under-contract /
+  pending / sold, and new-in-band counts from `data/delta.json` before
+  anything else.
+- **Charter-deadline rollover:** `src/data/charter.ts` deadlines are now
+  cycle data. After the 2026–27 cycle's March 2027 dates pass, the panel
+  rolls to the 2027–28 cycle (Harmony enrolment Nov 2027 – Feb 2028,
+  KIPP lottery Jan 2028) and shows "dates pending publication" until the
+  districts publish — never a countdown to a past date. The Book's rule
+  stands: plan on the zoned campus; charter is lottery upside only.
+- **Stafford/Cypress honesty state:** when an area has zero homes in the
+  $250K–$300K band, Area Battle and the Explore empty state say so in
+  words ("No homes in the $250K–$300K band in Stafford this run — the
+  Book's top-rated area is also its scarcest in band.") instead of an
+  empty list presented as a full comparison.
+- **Freshness surfacing:** listing cards show "Watching since … ·
+  checked …" when no flag or caution takes the line; the detail view
+  gains Builder and Status rows plus first-seen (with days on the
+  watch), last-verified, and the full price-history sequence with
+  per-step changes. The "new this run" quick filter now reads
+  `firstSeen` (a home is new in the run whose date it was first seen)
+  instead of the sticky `new` flag, which no longer drives anything.
+
 ## 2026-11-08 — Phase 1: data trust & freshness
 
 Built from `DEVELOPMENT-PLAN-2026-11.md` Phase 1, guided by *The Houston

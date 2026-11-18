@@ -2,8 +2,9 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import scoredData from './data/scored.json'
 import top5Data from './data/top5.json'
 import coverageData from './data/coverage.json'
-import type { Home, TopPick } from './lib/types'
-import { median } from './lib/types'
+import deltaData from './data/delta.json'
+import type { DeltaHistory, Home, TopPick } from './lib/types'
+import { emptyAreaNote, median } from './lib/types'
 import PulseHeader, { formatRunDate } from './components/PulseHeader'
 import TopFiveHero from './components/TopFiveHero'
 import ControlDeck, { DEFAULT_FILTERS, type Filters } from './components/ControlDeck'
@@ -11,17 +12,19 @@ import HomeCard, { HomeDetail } from './components/HomeCard'
 import HomeTable from './components/HomeTable'
 import CharterPanel from './components/CharterPanel'
 import AreaBattle from './components/AreaBattle'
+import ChangesView from './components/ChangesView'
 import MethodologyDrawer from './components/MethodologyDrawer'
 
 const homes = (scoredData as unknown as { listings: Home[] }).listings
 const generated = (scoredData as unknown as { generated: string }).generated
 const picks = (top5Data as unknown as { top5: TopPick[] }).top5
 const coverage = coverageData as unknown as { runDate: string; summary: string }
+const deltaHistory = deltaData as unknown as DeltaHistory
 
 const ANCHOR = 301000
 const PAGE_SIZE = 20
 
-type View = 'home' | 'explore' | 'schools' | 'areas'
+type View = 'home' | 'explore' | 'changes' | 'schools' | 'areas'
 
 function sortHomes(list: Home[], sort: Filters['sort']): Home[] {
   const arr = [...list]
@@ -52,7 +55,9 @@ function matchesFilters(h: Home, filters: Filters): boolean {
   if (filters.underAnchor && h.price > ANCHOR) return false
   if (filters.score70 && (h.scores.deal_score ?? 0) < 70 && (h.scores.composite_home_score ?? 0) < 70)
     return false
-  if (filters.isNew && !h.flags.includes('new')) return false
+  // "New this run" reads the Phase 1 firstSeen field — a home is new in
+  // the run whose date it was first seen in — not the sticky 'new' flag.
+  if (filters.isNew && h.firstSeen !== generated) return false
   if (filters.priceCuts && !h.flags.includes('price-cut')) return false
   if (filters.schools8 && h.scores.school_access_0_10 < 8) return false
   return true
@@ -102,6 +107,21 @@ const TABS: Array<{ view: View; label: string; icon: React.ReactNode }> = [
     ),
   },
   {
+    view: 'changes',
+    label: 'Changes',
+    icon: (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <path
+          d="M4 7h11M11 3l4 4-4 4M20 17H9M13 13l-4 4 4 4"
+          stroke="currentColor"
+          strokeWidth="1.8"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+      </svg>
+    ),
+  },
+  {
     view: 'schools',
     label: 'Schools',
     icon: (
@@ -140,7 +160,7 @@ export default function App() {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
   const [selected, setSelected] = useState<{ home: Home; pick?: TopPick } | null>(null)
 
-  const scrollMem = useRef<Record<View, number>>({ home: 0, explore: 0, schools: 0, areas: 0 })
+  const scrollMem = useRef<Record<View, number>>({ home: 0, explore: 0, changes: 0, schools: 0, areas: 0 })
   const pendingScroll = useRef<number | null>(null)
   const triggerRef = useRef<HTMLElement | null>(null)
   const viewRef = useRef<View>('home')
@@ -182,6 +202,7 @@ export default function App() {
   )
 
   const homesByAddress = useMemo(() => new Map(homes.map((h) => [h.address, h])), [])
+  const homesByUrl = useMemo(() => new Map(homes.map((h) => [h.url, h])), [])
   const picksByAddress = useMemo(() => new Map(picks.map((p) => [p.address, p])), [])
 
   useEffect(() => {
@@ -253,6 +274,13 @@ export default function App() {
     filters.areas.length === 1 &&
     !filters.query.trim() &&
     !QUICK_LABELS.some((q) => filters[q.key])
+
+  // Honesty state: the selected area has zero homes in band in the whole
+  // dataset — say so in words instead of a generic no-match line.
+  const zeroArea =
+    filters.areas.length === 1 && (counts[filters.areas[0]] ?? 0) === 0
+      ? filters.areas[0]
+      : null
 
   const visible = tableMode ? filtered : filtered.slice(0, visibleCount)
   const remaining = filtered.length - visible.length
@@ -341,9 +369,11 @@ export default function App() {
               {filtered.length === 0 ? (
                 <div className="empty-state">
                   <p>
-                    {onlyAreaFilter
-                      ? `No homes in ${filters.areas[0]} match the current filters.`
-                      : 'No homes match these filters.'}
+                    {zeroArea
+                      ? emptyAreaNote(zeroArea)
+                      : onlyAreaFilter
+                        ? `No homes in ${filters.areas[0]} match the current filters.`
+                        : 'No homes match these filters.'}
                   </p>
                   {activeNames.length > 0 && (
                     <ul className="empty-filters">
@@ -389,6 +419,16 @@ export default function App() {
                 </>
               )}
             </section>
+          </div>
+        )}
+
+        {view === 'changes' && (
+          <div className="view view-changes">
+            <ChangesView
+              history={deltaHistory}
+              homesByUrl={homesByUrl}
+              onOpen={(home) => openDetail(home)}
+            />
           </div>
         )}
 

@@ -1,5 +1,5 @@
 import type { Home } from '../lib/types'
-import { AREA_BOOK_SCORES, AREA_COLORS, AREAS, median, money } from '../lib/types'
+import { AREA_BOOK_SCORES, AREA_COLORS, AREAS, emptyAreaNote, median, money } from '../lib/types'
 import { useReveal } from '../lib/useReveal'
 
 export default function AreaBattle({
@@ -52,9 +52,13 @@ export default function AreaBattle({
               />
             </span>
             <span className="battle-score">{row.score.toFixed(1)}</span>
-            <span className="battle-meta">
-              {row.count} homes · median {row.medianPrice == null ? '—' : money(row.medianPrice)}
-            </span>
+            {row.count === 0 ? (
+              <span className="battle-empty-note">{emptyAreaNote(row.area)}</span>
+            ) : (
+              <span className="battle-meta">
+                {row.count} homes · median {row.medianPrice == null ? '—' : money(row.medianPrice)}
+              </span>
+            )}
           </button>
         ))}
       </div>
