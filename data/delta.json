@@ -1,163 +1,219 @@
 {
- "generated": "2026-11-11",
- "previousCount": 115,
- "currentCount": 110,
- "added": [],
- "removed": [
+ "generated": "2026-11-18",
+ "previousCount": 110,
+ "currentCount": 116,
+ "added": [
   {
-   "address": "8218 Rustic Pine Trl, Richmond 77469",
-   "url": "https://www.har.com/homedetail/8218-rustic-pine-trl-richmond-tx-77469/17342278",
-   "price": 274990
+   "address": "7526 Tipton Meadow Way, Richmond 77469",
+   "url": "https://www.har.com/homedetail/7526-tipton-meadow-way-richmond-tx-77469/17349163",
+   "price": 254900
   },
   {
-   "address": "3402 Water Lilly Way, Richmond 77469",
-   "url": "https://www.har.com/homedetail/3402-water-lilly-way-richmond-tx-77469/14926170",
-   "price": 290000
+   "address": "8422 Green Paseo Pl, Rosenberg 77469",
+   "url": "https://www.har.com/homedetail/8422-green-paseo-pl-rosenberg-tx-77469/13719988",
+   "price": 289900
   },
   {
-   "address": "26006 Rosin Lake Ln, Richmond 77406",
-   "url": "https://www.har.com/homedetail/26006-rosin-lake-ln-richmond-tx-77406/15223507",
-   "price": 295000
+   "address": "6522 Point Hollow Ln, Richmond 77469",
+   "url": "https://www.har.com/homedetail/6522-pointe-hollow-ln-rosenberg-tx-77469/9456075",
+   "price": 279000
   },
   {
-   "address": "9307 Rustling Manor Ln, Richmond 77407",
-   "url": "https://www.redfin.com/TX/Richmond/9307-Rustling-Manor-Ln-77407/home/109787736",
+   "address": "5834 Madison Trail Dr, Richmond 77469",
+   "url": "https://www.har.com/homedetail/5834-madison-trail-dr-richmond-tx-77469/17727500",
+   "price": 273990
+  },
+  {
+   "address": "5830 Madison Trail Dr, Richmond 77469",
+   "url": "https://www.har.com/homedetail/5830-madison-trail-dr-richmond-tx-77469/17727499",
+   "price": 268990
+  },
+  {
+   "address": "5519 Twilight Thicket Ln, Richmond 77469",
+   "url": "https://www.har.com/homedetail/5519-twilight-thicket-ln-richmond-tx-77469/17667027",
+   "price": 295990
+  },
+  {
+   "address": "8003 Vacek Meadows Loop, Richmond 77469",
+   "url": "https://www.har.com/homedetail/7951-vacek-meadows-loop-richmond-tx-77469/16088151",
+   "price": 299000
+  },
+  {
+   "address": "7834 N Country Space Loop, Richmond 77469",
+   "url": "https://www.har.com/homedetail/7834-n-country-space-loop-richmond-tx-77469/14933347",
+   "price": 265000
+  },
+  {
+   "address": "1710 Livingston Shores Ln, Rosenberg 77469",
+   "url": "https://www.har.com/homedetail/1710-livingston-shores-ln-rosenberg-tx-77469/14923363",
+   "price": 274786
+  },
+  {
+   "address": "6530 White Tail Ct, Richmond 77406",
+   "url": "https://www.har.com/homedetail/6530-white-tail-ct-richmond-tx-77406/16079890",
+   "price": 275000
+  },
+  {
+   "address": "11410 Cypress Elm Ct, Richmond 77406",
+   "url": "https://www.har.com/homedetail/11410-cypress-elm-ct-richmond-tx-77406/15731264",
+   "price": 299900
+  },
+  {
+   "address": "7818 Mica Valley Ln, Richmond 77406",
+   "url": "https://www.har.com/homedetail/7818-mica-valley-ln-richmond-tx-77406/17582395",
    "price": 299995
   },
   {
-   "address": "8322 Vacek Crossing Way, Richmond 77469",
-   "url": "https://www.redfin.com/TX/Richmond/8322-Vacek-Crossing-Way-77469/home/197950287",
+   "address": "110 Shining Succulent Dr, Richmond 77406",
+   "url": "https://www.har.com/homedetail/110-shining-succulent-dr-richmond-tx-77406/17337614",
+   "price": 299990
+  },
+  {
+   "address": "21847 Sierra Long Dr, Richmond 77407",
+   "url": "https://www.har.com/homedetail/21847-sierra-long-dr-richmond-tx-77407/9999007",
+   "price": 279900
+  }
+ ],
+ "removed": [
+  {
+   "address": "3318 Driftwood Meadow Ln, Richmond 77406",
+   "url": "https://www.har.com/homedetail/3318-driftwood-meadow-ln-richmond-tx-77406/16083459",
+   "price": 254000
+  },
+  {
+   "address": "6835 Blue Glade Dr, Richmond 77406",
+   "url": "https://www.har.com/homedetail/6835-blue-glade-dr-richmond-tx-77406/8533088",
+   "price": 285000
+  },
+  {
+   "address": "8338 Vacek Crossing Way, Richmond 77469",
+   "url": "https://www.redfin.com/TX/Richmond/8338-Vacek-Crossing-Way-77469/home/197950291",
+   "price": 264990
+  },
+  {
+   "address": "3726 Homestead Ridge Ln, Richmond, TX 77406",
+   "url": "https://www.har.com/homedetail/3726-homestead-ridge-ln-richmond-tx-77406/16083452",
+   "price": 300000
+  },
+  {
+   "address": "3403 Brazos Falls Dr, Richmond, TX 77469",
+   "url": "https://www.har.com/homedetail/3403-brazos-falls-dr-richmond-tx-77469/14926719",
+   "price": 260000
+  },
+  {
+   "address": "8326 Vacek Crossing Way, Richmond, TX 77469",
+   "url": "https://www.har.com/homedetail/8326-vacek-crossing-way-richmond-tx-77469/17061288",
+   "price": 269990
+  },
+  {
+   "address": "8330 Vacek Crossing Way, Richmond 77469",
+   "url": "https://www.har.com/homedetail/8330-vacek-crossing-way-richmond-tx-77469/17061289",
    "price": 259990
+  },
+  {
+   "address": "8131 Vacek Meadows Loop, Richmond 77469",
+   "url": "https://www.har.com/homedetail/8131-vacek-meadows-loop-richmond-tx-77469/16088211",
+   "price": 255000
   }
  ],
  "priceChanged": [
   {
-   "address": "5839 Madison Trail Drive, Richmond 77469",
-   "url": "https://www.har.com/homedetail/5839-madison-trail-dr-richmond-tx-77469/17547671",
-   "from": 274370,
-   "to": 254230,
-   "change": -20140,
-   "pct": -7.34
+   "address": "11306 Overland Trail Dr, Richmond 77406",
+   "url": "https://www.har.com/homedetail/11306-overland-trail-dr-richmond-tx-77406/2408367?lid=10959153",
+   "from": 270000,
+   "to": 259000,
+   "change": -11000,
+   "pct": -4.07
   },
   {
-   "address": "5819 Madison Trail Dr, Richmond 77469",
-   "url": "https://www.zillow.com/homedetails/5819-Madison-Trail-Dr-Richmond-TX-77469/465205016_zpid/",
-   "from": 274370,
-   "to": 254370,
-   "change": -20000,
-   "pct": -7.29
-  },
-  {
-   "address": "19711 Heron Shadow Ct, Richmond, TX 77407",
-   "url": "https://www.redfin.com/TX/Richmond/19711-Heron-Shadow-Ct-77407/home/32661443",
-   "from": 269500,
-   "to": 265500,
-   "change": -4000,
-   "pct": -1.48
-  },
-  {
-   "address": "5503 Twilight Thicket Ln, Richmond 77469",
-   "url": "https://www.har.com/homedetail/5503-twilight-thicket-ln-richmond-tx-77469/17690995",
-   "from": 284990,
-   "to": 279990,
-   "change": -5000,
-   "pct": -1.75
-  },
-  {
-   "address": "5807 Cherry Meadows St, Rosenberg 77469",
-   "url": "https://www.har.com/homedetail/5807-cherry-meadows-st-rosenberg-tx-77469/17661750",
+   "address": "11138 Overland Trail Dr, Richmond 77406",
+   "url": "https://www.har.com/homedetail/11138-overland-trail-dr-richmond-tx-77406/2408561",
    "from": 299990,
-   "to": 294990,
-   "change": -5000,
-   "pct": -1.67
+   "to": 294000,
+   "change": -5990,
+   "pct": -2.0
   },
   {
-   "address": "6118 Wildflower Fields Ct, Richmond 77469",
-   "url": "https://www.har.com/homedetail/6118-wildflower-fields-ct-richmond-tx-77469/17583570",
-   "from": 274990,
-   "to": 284990,
+   "address": "8211 Rustic Pine Trl, Richmond, TX 77469",
+   "url": "https://www.har.com/homedetail/8211-rustic-pine-trl-richmond-tx-77469/17686338",
+   "from": 260990,
+   "to": 270990,
    "change": 10000,
-   "pct": 3.64
+   "pct": 3.83
   },
   {
-   "address": "8334 Vacek Crossing Way, Richmond 77469",
-   "url": "https://www.har.com/homedetail/8334-vacek-crossing-way-richmond-tx-77469/17061290",
-   "from": 274990,
-   "to": 288000,
-   "change": 13010,
-   "pct": 4.73
+   "address": "3802 Cloudbluff Ln, Richmond, TX 77469",
+   "url": "https://www.har.com/homedetail/3802-cloudbluff-ln-richmond-tx-77469/9797806",
+   "from": 286000,
+   "to": 270000,
+   "change": -16000,
+   "pct": -5.59
+  },
+  {
+   "address": "1206 Ricasoli Dr, Richmond, TX 77406",
+   "url": "https://www.har.com/homedetail/1206-ricasoli-dr-richmond-tx-77406/16694992",
+   "from": 274900,
+   "to": 269900,
+   "change": -5000,
+   "pct": -1.82
+  },
+  {
+   "address": "4712 Rosemary Creek Dr, Rosenberg 77469",
+   "url": "https://www.har.com/homedetail/4712-rosemary-creek-dr-rosenberg-tx-77469/17664047",
+   "from": 299990,
+   "to": 289990,
+   "change": -10000,
+   "pct": -3.33
+  },
+  {
+   "address": "6127 Coyote Glade Dr, Richmond 77469",
+   "url": "https://www.har.com/homedetail/6127-coyote-glade-dr-richmond-tx-77469/17725728",
+   "from": 258070,
+   "to": 289070,
+   "change": 31000,
+   "pct": 12.01
   }
  ],
  "statusChanged": [
   {
-   "address": "8223 Rustic Pine Trl, Richmond 77469",
-   "url": "https://www.har.com/homedetail/8223-rustic-pine-trl-richmond-tx-77469/17643038",
-   "from": "active",
-   "to": "under-contract"
-  },
-  {
-   "address": "9219 Summer Valley Ln, Richmond 77407",
-   "url": "https://www.zillow.com/homedetails/9219-Summer-Valley-Ln-Richmond-TX-77407/80067484_zpid/",
-   "from": "active",
-   "to": "under-contract"
-  },
-  {
-   "address": "5215 Santa Cruz Bay, Richmond 77469",
-   "url": "https://www.zillow.com/homedetails/5215-Santa-Cruz-Bay-Richmond-TX-77469/465489225_zpid/",
-   "from": "active",
-   "to": "under-contract"
-  },
-  {
-   "address": "6118 Coyote Glade, Richmond 77469",
-   "url": "https://www.har.com/homedetail/6118-coyote-glade-richmond-tx-77469/17628387",
-   "from": "active",
-   "to": "under-contract"
-  },
-  {
-   "address": "8227 Rustic Pine Trl, Richmond 77469",
-   "url": "https://www.har.com/homedetail/8227-rustic-pine-trl-richmond-tx-77469/17643047",
-   "from": "active",
-   "to": "under-contract"
-  },
-  {
-   "address": "18151 Sorrell Oaks Cir, Richmond 77407",
-   "url": "https://www.zillow.com/homedetails/18151-Sorrell-Oaks-Cir-Richmond-TX-77407/72060810_zpid/",
-   "from": "active",
-   "to": "under-contract"
-  },
-  {
-   "address": "7626 Ramsgate Cliff Ln, Richmond, TX 77407",
-   "url": "https://www.har.com/homedetail/7626-ramsgate-cliff-ln-richmond-tx-77407/15373251",
+   "address": "21126 Amber Crossing Dr, Richmond 77406",
+   "url": "https://www.har.com/homedetail/21126-amber-crossing-dr-richmond-tx-77406/10233771",
    "from": "active",
    "to": "under-contract"
   },
   {
    "address": "8211 Rustic Pine Trl, Richmond, TX 77469",
    "url": "https://www.har.com/homedetail/8211-rustic-pine-trl-richmond-tx-77469/17686338",
+   "from": "under-contract",
+   "to": "active"
+  },
+  {
+   "address": "10031 Lilac Croft Ln, Richmond 77406",
+   "url": "https://www.har.com/homedetail/10031-lilac-croft-ln-richmond-tx-77406/14843192",
    "from": "active",
    "to": "under-contract"
   },
   {
-   "address": "5515 Twilight Thicket Ln, Richmond 77469",
-   "url": "https://www.har.com/homedetail/5515-twilight-thicket-ln-richmond-tx-77469/17691004",
+   "address": "5807 Cherry Meadows St, Rosenberg 77469",
+   "url": "https://www.har.com/homedetail/5807-cherry-meadows-st-rosenberg-tx-77469/17661750",
    "from": "active",
    "to": "under-contract"
   },
   {
-   "address": "7326 Audubon Russet Dr, Richmond 77469",
-   "url": "https://www.har.com/homedetail/7326-audubon-russet-dr-richmond-tx-77469/16408057",
+   "address": "6127 Coyote Glade Dr, Richmond 77469",
+   "url": "https://www.har.com/homedetail/6127-coyote-glade-dr-richmond-tx-77469/17725728",
    "from": "active",
    "to": "under-contract"
   },
   {
-   "address": "6619 Canary Knoll Ct, Richmond 77469",
-   "url": "https://www.har.com/homedetail/6619-canary-knoll-ct-richmond-tx-77469/17424217",
+   "address": "10415 Melida Dawn Way, Richmond 77406",
+   "url": "https://www.har.com/homedetail/10415-melida-dawn-way-richmond-tx-77406/17638448",
    "from": "active",
    "to": "under-contract"
   },
   {
-   "address": "8334 Vacek Crossing Way, Richmond 77469",
-   "url": "https://www.har.com/homedetail/8334-vacek-crossing-way-richmond-tx-77469/17061290",
+   "address": "11427 Harmony Summit Trce, Richmond 77406",
+   "url": "https://www.har.com/homedetail/11427-harmony-summit-richmond-tx-77406/14926542",
    "from": "active",
    "to": "under-contract"
   }
