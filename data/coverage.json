@@ -1,12 +1,12 @@
 {
- "runDate": "2026-11-11",
+ "runDate": "2026-11-18",
  "sources": {
-  "HAR": "complete in-band sweeps, all 7 ZIPs via Pi browser (370 unique cards: 77469:110, 77406:48, 77407:36, 77477:20, 77489:53, 77450:47, 77429:56); Pi-browser detail pages for 19 sweep-absent HAR listings (all read)",
-  "Zillow": "page-1 sweep denied by PerimeterX (77469, static denial); all 14 Zillow detail pages in the batch denied \u2014 10 Zillow-sourced listings not re-checked this run and retained on lastVerified (Nov 7/8)",
-  "Redfin": "server fetch 403s; all 6 Redfin-sourced listings re-checked \u2014 3 via HAR sweep match, 3 via Pi-browser detail pages (9307 Rustling Manor pending, 8322 Vacek Crossing cut below band, 3330 Brushy Marsh active); 19711 Heron Shadow cut to $265,500 verified on Redfin detail"
+  "HAR": "complete in-band sweeps, all 7 ZIPs via Pi browser (371 unique cards: 77469:111, 77406:44, 77407:39, 77477:20, 77489:52, 77450:46, 77429:59); Pi-browser detail pages for 14 sweep-absent HAR listings (all read)",
+  "Zillow": "page-1 sweep denied by PerimeterX (77469, static denial); all 11 Zillow detail pages in the batch denied — 11 Zillow-sourced listings not re-checked this run and retained on lastVerified (Nov 15 / Nov 7)",
+  "Redfin": "server fetch 403s; all 4 Redfin-sourced listings re-checked — 2 via HAR sweep match, 2 via Pi-browser detail pages (8338 Vacek Crossing pending at $326,800 above band, 3330 Brushy Marsh active at $299,000)"
  },
- "listings": 110,
- "domFilled": 92,
+ "listings": 116,
+ "domFilled": 95,
  "floodFilled": 2,
- "summary": "HAR full \u00b7 Zillow denied \u00b7 Redfin details \u00b7 DOM 92/110 \u00b7 Flood 2/110"
+ "summary": "HAR full · Zillow denied · Redfin details · DOM 95/116 · Flood 2/116"
 }
