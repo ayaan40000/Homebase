@@ -512,3 +512,29 @@ button.change-row:hover .change-address-text, a.change-row:hover .change-address
   .battle-fill { width: var(--target) !important; }
   html { scroll-behavior: auto; }
 }
+
+/* Coverage audit view (Beyond the watch) */
+.cov-map-wrap { background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 12px 8px 8px; margin-bottom: 16px; }
+.cov-map { width: 100%; height: auto; display: block; }
+.cov-map-caption { color: var(--text-3); font-size: 0.75rem; margin: 4px 8px 6px; }
+.cov-tax-note { background: var(--panel); border: 1px solid var(--line); border-left: 3px solid var(--brass); border-radius: 12px; padding: 12px 14px; color: var(--text-2); font-size: 0.875rem; margin: 0 0 20px; }
+.cov-tax-note strong { color: var(--cream); }
+.cov-section-title { font-family: "Space Grotesk", sans-serif; font-weight: 600; font-size: 1rem; margin: 22px 0 10px; color: var(--text); }
+.cov-card { background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 16px; margin-bottom: 12px; }
+.cov-card-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.cov-card-title { font-family: "Space Grotesk", sans-serif; font-weight: 600; font-size: 1.0625rem; margin: 0; }
+.cov-badge { font-family: "JetBrains Mono", monospace; font-size: 0.625rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.12em; padding: 4px 8px; border-radius: 999px; flex: none; }
+.cov-badge-miss { background: rgba(232, 200, 126, 0.14); color: var(--brass-bright); border: 1px solid var(--brass); }
+.cov-badge-marginal { background: rgba(110, 168, 225, 0.12); color: #6ea8e1; border: 1px solid #35597e; }
+.cov-badge-out { background: transparent; color: var(--text-3); border: 1px solid var(--line); }
+.cov-card-meta { color: var(--text-2); font-size: 0.8125rem; margin: 6px 0 10px; }
+.cov-facts { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 16px; margin: 0 0 10px; }
+.cov-facts dt { font-family: "JetBrains Mono", monospace; font-size: 0.625rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.12em; color: var(--text-3); margin: 0 0 2px; }
+.cov-facts dd { margin: 0; font-size: 0.875rem; color: var(--text); }
+.cov-communities { list-style: none; margin: 0 0 10px; padding: 0; }
+.cov-communities li { display: flex; justify-content: space-between; gap: 12px; padding: 6px 0; border-bottom: 1px solid var(--line-soft); font-size: 0.875rem; }
+.cov-communities li:last-child { border-bottom: none; }
+.cov-community-name { font-weight: 500; flex: none; }
+.cov-community-detail { color: var(--text-2); text-align: right; }
+.cov-note { color: var(--text-2); font-size: 0.875rem; margin: 0; }
+.cov-footer { color: var(--text-3); font-size: 0.75rem; margin: 18px 0 0; }

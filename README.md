@@ -34,6 +34,15 @@ counterpart.
   changes and removals, newest run first (the last 12 runs are kept in
   `data/delta-history.json`). These are the same numbers the Wednesday and
   Sunday run reports lead with — one delta, three readers.
+- **Beyond the watch (Coverage)** — a static coverage-audit view (audited
+  Nov 18, 2026): a schematic map of the seven watched ZIPs plus the 13
+  adjacent ZIPs checked for the same in-band new construction the footprint
+  misses — prompted by Lennar's Cobb plan at Monarch Landing, Needville
+  77461, which sits outside the scanned ZIPs. Each adjacent area is
+  colour-coded by verdict (real miss / marginal / correctly out) with its
+  district, total tax rate, notable communities and starting prices.
+  Informational only — it carries no listing data and changes no watch
+  scope.
 - **Charter school access** — the Edition 2 rule ("Plan on the zoned campus. A
   charter seat is lottery upside, never the plan"), enrolment deadlines with
   live countdowns, the Harmony and KIPP campuses in the model, and the zoned

@@ -13,6 +13,7 @@ import HomeTable from './components/HomeTable'
 import CharterPanel from './components/CharterPanel'
 import AreaBattle from './components/AreaBattle'
 import ChangesView from './components/ChangesView'
+import CoverageView from './components/CoverageView'
 import MethodologyDrawer from './components/MethodologyDrawer'
 
 const homes = (scoredData as unknown as { listings: Home[] }).listings
@@ -24,7 +25,7 @@ const deltaHistory = deltaData as unknown as DeltaHistory
 const ANCHOR = 301000
 const PAGE_SIZE = 20
 
-type View = 'home' | 'explore' | 'changes' | 'schools' | 'areas'
+type View = 'home' | 'explore' | 'changes' | 'schools' | 'areas' | 'coverage'
 
 function sortHomes(list: Home[], sort: Filters['sort']): Home[] {
   const arr = [...list]
@@ -150,6 +151,21 @@ const TABS: Array<{ view: View; label: string; icon: React.ReactNode }> = [
       </svg>
     ),
   },
+  {
+    view: 'coverage',
+    label: 'Coverage',
+    icon: (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <path
+          d="M12 21s-6.5-5.4-6.5-10.4a6.5 6.5 0 0 1 13 0C18.5 15.6 12 21 12 21z"
+          stroke="currentColor"
+          strokeWidth="1.8"
+          strokeLinejoin="round"
+        />
+        <circle cx="12" cy="10.6" r="2.3" stroke="currentColor" strokeWidth="1.8" />
+      </svg>
+    ),
+  },
 ]
 
 export default function App() {
@@ -160,7 +176,7 @@ export default function App() {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
   const [selected, setSelected] = useState<{ home: Home; pick?: TopPick } | null>(null)
 
-  const scrollMem = useRef<Record<View, number>>({ home: 0, explore: 0, changes: 0, schools: 0, areas: 0 })
+  const scrollMem = useRef<Record<View, number>>({ home: 0, explore: 0, changes: 0, schools: 0, areas: 0, coverage: 0 })
   const pendingScroll = useRef<number | null>(null)
   const triggerRef = useRef<HTMLElement | null>(null)
   const viewRef = useRef<View>('home')
@@ -429,6 +445,12 @@ export default function App() {
               homesByUrl={homesByUrl}
               onOpen={(home) => openDetail(home)}
             />
+          </div>
+        )}
+
+        {view === 'coverage' && (
+          <div className="view view-coverage">
+            <CoverageView />
           </div>
         )}
 

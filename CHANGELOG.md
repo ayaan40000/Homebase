@@ -1,5 +1,40 @@
 # Changelog
 
+## 2026-11-18 — Coverage audit view: "Beyond the watch"
+
+Owner-requested after a TikTok flyer for a "Richmond" home turned out to
+be Lennar's Cobb plan at Monarch Landing, Needville 77461 — outside the
+watch's seven scanned ZIPs, with real in-band homes ($247,990–$272,990
+inventory) the scans never see.
+
+- **New Coverage tab:** a static, informational view (no listing data, no
+  pipeline change). A hand-built schematic SVG map — Stafford at the
+  centre, the seven watched ZIPs marked as covered, and 13 adjacent ZIPs
+  placed by ZIP centroid in their true relative directions, colour-coded
+  by verdict, with straight-line distance and estimated drive time on
+  every marker. Monarch Landing is called out as the case that prompted
+  the audit. The map is labelled "schematic — not to scale"; drive times
+  are marked as unverified estimates.
+- **Audit findings (community-level evidence, audited Nov 18, 2026):**
+  nine real misses with in-band new construction outside the footprint —
+  Rosenberg 77471 (Holly Ridge / Milo Farms from $239,990), Fresno 77545
+  (Olympia Falls from $238,995), Missouri City 77459 (Parkway Commons
+  from $249,990), Needville 77461, Beasley 77417 (Emberly, three
+  builders), Iowa Colony 77583, Brookshire 77423 (Sunterra Lakes),
+  Katy North 77493 (Sunterra) and Fulshear 77441 (Tamarron / Summerview,
+  narrow). Three marginal: Cypress 77433 (Bridgeland exclusion verified —
+  detached from ~$380K; only a thin Marvida pocket in band), Katy South
+  77494 (Tamarron edge only) and Wallis 77485 (Millbrooke to-be-built
+  only). One correctly out: Orchard 77464 (no new-build community).
+- **Per-area cards** under the map carry district, total tax rate
+  (like-with-like totals — Monarch Landing ≈3.55% community total vs the
+  Book's watch-area totals of 1.73–2.29%; district-only rates are named
+  as such), notable communities with builders and starting prices, and a
+  one-line verdict note.
+- The entrance is unchanged — the view is a new tab only. Adding any of
+  these ZIPs to the watch remains an owner decision; this view changes
+  no scope.
+
 ## 2026-11-17 — Phase 2: watch value (deltas, alerts, deadlines)
 
 Built from `DEVELOPMENT-PLAN-2026-11.md` Phase 2 (owner green-lit
