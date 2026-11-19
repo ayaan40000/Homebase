@@ -1,12 +1,12 @@
 {
  "runDate": "2026-11-18",
  "sources": {
-  "HAR": "complete in-band sweeps, all 7 ZIPs via Pi browser (371 unique cards: 77469:111, 77406:44, 77407:39, 77477:20, 77489:52, 77450:46, 77429:59); Pi-browser detail pages for 14 sweep-absent HAR listings (all read)",
-  "Zillow": "page-1 sweep denied by PerimeterX (77469, static denial); all 11 Zillow detail pages in the batch denied — 11 Zillow-sourced listings not re-checked this run and retained on lastVerified (Nov 15 / Nov 7)",
-  "Redfin": "server fetch 403s; all 4 Redfin-sourced listings re-checked — 2 via HAR sweep match, 2 via Pi-browser detail pages (8338 Vacek Crossing pending at $326,800 above band, 3330 Brushy Marsh active at $299,000)"
+  "HAR": "first scan of the four ZIPs added 2026-11-18 (77471, 77545, 77459, 77461): 64 in-band listings examined across HAR, Redfin and MLS-mirror pages via text fetch; 23 added, 26 excluded (5 pending, 9 below floor, 7 above band, 3 pre-2006, 2 off-market/unconfirmed, 1 plan-only group)",
+  "Zillow": "direct fetch denied by PerimeterX \u2014 Zillow facts taken from search-index snippets (crawls Oct\u2013Nov 2026), cross-checked against HAR/Redfin/MLS mirrors where available",
+  "Redfin": "detail pages used for status checks in the new ZIPs \u2014 4914 Little Metalmark Dr (77461) excluded as pending on Redfin's Nov 16 update, overriding HAR's Nov 12 For Sale crawl"
  },
- "listings": 116,
- "domFilled": 95,
+ "listings": 139,
+ "domFilled": 102,
  "floodFilled": 2,
- "summary": "HAR full · Zillow denied · Redfin details · DOM 95/116 · Flood 2/116"
+ "summary": "New-ZIP first scan (77471/77545/77459/77461) \u00b7 HAR + Redfin + MLS mirrors \u00b7 Zillow snippets only \u00b7 DOM 102/139 \u00b7 Flood 2/139"
 }

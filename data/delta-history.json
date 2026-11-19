@@ -3,224 +3,128 @@
  "runs": [
   {
    "generated": "2026-11-18",
-   "previousCount": 110,
-   "currentCount": 116,
+   "previousCount": 116,
+   "currentCount": 139,
    "added": [
     {
-     "address": "7526 Tipton Meadow Way, Richmond 77469",
-     "url": "https://www.har.com/homedetail/7526-tipton-meadow-way-richmond-tx-77469/17349163",
-     "price": 254900
+     "address": "4826 Little Metalmark Dr, Needville 77461",
+     "url": "https://www.lennar.com/new-homes/texas/houston/needville/monarch-landing6/majors-collection#home-4826-little-metalmark-dr",
+     "price": 266990
     },
     {
-     "address": "8422 Green Paseo Pl, Rosenberg 77469",
-     "url": "https://www.har.com/homedetail/8422-green-paseo-pl-rosenberg-tx-77469/13719988",
-     "price": 289900
+     "address": "4926 Little Metalmark Dr, Needville 77461",
+     "url": "https://www.lennar.com/new-homes/texas/houston/needville/monarch-landing6/majors-collection#home-4926-little-metalmark-dr",
+     "price": 272990
     },
     {
-     "address": "6522 Point Hollow Ln, Richmond 77469",
-     "url": "https://www.har.com/homedetail/6522-pointe-hollow-ln-rosenberg-tx-77469/9456075",
-     "price": 279000
+     "address": "4822 Little Metalmark Dr, Needville 77461",
+     "url": "https://www.redfin.com/TX/Needville/4822-Little-Metalmark-Dr-77461/home/204869383",
+     "price": 288990
     },
     {
-     "address": "5834 Madison Trail Dr, Richmond 77469",
-     "url": "https://www.har.com/homedetail/5834-madison-trail-dr-richmond-tx-77469/17727500",
-     "price": 273990
+     "address": "6518 Little Yellow Ct, Needville 77461",
+     "url": "https://www.zillow.com/homedetails/6518-Little-Yellow-Ct-Needville-TX-77461/465320213_zpid/",
+     "price": 252990
     },
     {
-     "address": "5830 Madison Trail Dr, Richmond 77469",
-     "url": "https://www.har.com/homedetail/5830-madison-trail-dr-richmond-tx-77469/17727499",
-     "price": 268990
+     "address": "6906 Papillon Ln, Needville 77461",
+     "url": "https://www.zillow.com/homedetails/6906-Papillon-Ln-Needville-TX-77461/465240284_zpid/",
+     "price": 257990
     },
     {
-     "address": "5519 Twilight Thicket Ln, Richmond 77469",
-     "url": "https://www.har.com/homedetail/5519-twilight-thicket-ln-richmond-tx-77469/17667027",
-     "price": 295990
+     "address": "6902 Papillon Ln, Needville 77461",
+     "url": "https://www.zillow.com/homedetails/6902-Papillon-Ln-Needville-TX-77461/465240282_zpid/",
+     "price": 267990
     },
     {
-     "address": "8003 Vacek Meadows Loop, Richmond 77469",
-     "url": "https://www.har.com/homedetail/7951-vacek-meadows-loop-richmond-tx-77469/16088151",
-     "price": 299000
+     "address": "6819 Papillon Ln, Needville 77461",
+     "url": "https://www.zillow.com/homedetails/6819-Papillon-Ln-Needville-TX-77461/461684845_zpid/",
+     "price": 257990
     },
     {
-     "address": "7834 N Country Space Loop, Richmond 77469",
-     "url": "https://www.har.com/homedetail/7834-n-country-space-loop-richmond-tx-77469/14933347",
-     "price": 265000
+     "address": "2618 Starry Sky Ln, Rosenberg 77471",
+     "url": "https://www.newhomeprograms.com/homes/2618-Starry-Sky-Lane/Rosenberg/TX/77471/181544240/",
+     "price": 254990
     },
     {
-     "address": "1710 Livingston Shores Ln, Rosenberg 77469",
-     "url": "https://www.har.com/homedetail/1710-livingston-shores-ln-rosenberg-tx-77469/14923363",
-     "price": 274786
-    },
-    {
-     "address": "6530 White Tail Ct, Richmond 77406",
-     "url": "https://www.har.com/homedetail/6530-white-tail-ct-richmond-tx-77406/16079890",
-     "price": 275000
-    },
-    {
-     "address": "11410 Cypress Elm Ct, Richmond 77406",
-     "url": "https://www.har.com/homedetail/11410-cypress-elm-ct-richmond-tx-77406/15731264",
-     "price": 299900
-    },
-    {
-     "address": "7818 Mica Valley Ln, Richmond 77406",
-     "url": "https://www.har.com/homedetail/7818-mica-valley-ln-richmond-tx-77406/17582395",
-     "price": 299995
-    },
-    {
-     "address": "110 Shining Succulent Dr, Richmond 77406",
-     "url": "https://www.har.com/homedetail/110-shining-succulent-dr-richmond-tx-77406/17337614",
-     "price": 299990
-    },
-    {
-     "address": "21847 Sierra Long Dr, Richmond 77407",
-     "url": "https://www.har.com/homedetail/21847-sierra-long-dr-richmond-tx-77407/9999007",
-     "price": 279900
-    }
-   ],
-   "removed": [
-    {
-     "address": "3318 Driftwood Meadow Ln, Richmond 77406",
-     "url": "https://www.har.com/homedetail/3318-driftwood-meadow-ln-richmond-tx-77406/16083459",
-     "price": 254000
-    },
-    {
-     "address": "6835 Blue Glade Dr, Richmond 77406",
-     "url": "https://www.har.com/homedetail/6835-blue-glade-dr-richmond-tx-77406/8533088",
-     "price": 285000
-    },
-    {
-     "address": "8338 Vacek Crossing Way, Richmond 77469",
-     "url": "https://www.redfin.com/TX/Richmond/8338-Vacek-Crossing-Way-77469/home/197950291",
-     "price": 264990
-    },
-    {
-     "address": "3726 Homestead Ridge Ln, Richmond, TX 77406",
-     "url": "https://www.har.com/homedetail/3726-homestead-ridge-ln-richmond-tx-77406/16083452",
-     "price": 300000
-    },
-    {
-     "address": "3403 Brazos Falls Dr, Richmond, TX 77469",
-     "url": "https://www.har.com/homedetail/3403-brazos-falls-dr-richmond-tx-77469/14926719",
-     "price": 260000
-    },
-    {
-     "address": "8326 Vacek Crossing Way, Richmond, TX 77469",
-     "url": "https://www.har.com/homedetail/8326-vacek-crossing-way-richmond-tx-77469/17061288",
-     "price": 269990
-    },
-    {
-     "address": "8330 Vacek Crossing Way, Richmond 77469",
-     "url": "https://www.har.com/homedetail/8330-vacek-crossing-way-richmond-tx-77469/17061289",
+     "address": "6739 Canyon Breeze Dr, Rosenberg 77471",
+     "url": "https://www.newhomeprograms.com/homes/6739-Canyon-Breeze-Drive/Rosenberg/TX/77471/181305305/",
      "price": 259990
     },
     {
-     "address": "8131 Vacek Meadows Loop, Richmond 77469",
-     "url": "https://www.har.com/homedetail/8131-vacek-meadows-loop-richmond-tx-77469/16088211",
-     "price": 255000
+     "address": "6855 Canyon Breeze Dr, Rosenberg 77471",
+     "url": "https://www.zillow.com/homedetails/6855-Canyon-Breeze-Dr-Rosenberg-TX-77471/465519249_zpid/",
+     "price": 279990
+    },
+    {
+     "address": "2647 Sunset Bluff Ln, Rosenberg 77471",
+     "url": "https://www.zillow.com/homedetails/2647-Sunset-Bluff-Ln-Rosenberg-TX-77471/466049563_zpid/",
+     "price": 284990
+    },
+    {
+     "address": "2635 Sunset Bluff Ln, Rosenberg 77471",
+     "url": "https://www.zillow.com/homedetails/2635-Sunset-Bluff-Ln-Rosenberg-TX-77471/466049533_zpid/",
+     "price": 286990
+    },
+    {
+     "address": "5412 Kindred St, Rosenberg 77471",
+     "url": "http://har.com/homedetail/5412-kindred-st-rosenberg-tx-77471/17582412",
+     "price": 294995
+    },
+    {
+     "address": "3011 Tandem Ct, Rosenberg 77471",
+     "url": "https://www.har.com/homedetail/3011-tandem-ct-rosenberg-tx-77471/13716307",
+     "price": 299900
+    },
+    {
+     "address": "2534 Cedar Ridge Dr, Rosenberg 77471",
+     "url": "https://www.newhomeprograms.com/homes/2534-Cedar-Ridge-Drive/Rosenberg/TX/77471/181920079/",
+     "price": 252990
+    },
+    {
+     "address": "3222 Owl Hollow Dr, Rosenberg 77471",
+     "url": "https://www.zillow.com/homedetails/3222-Owl-Hollow-Dr-Rosenberg-TX-77471/2075647180_zpid/",
+     "price": 269900
+    },
+    {
+     "address": "2643 Cottage Step Trl, Fresno 77545",
+     "url": "https://www.har.com/homedetail/2643-cottage-step-trl-fresno-tx-77545/13530811",
+     "price": 284900
+    },
+    {
+     "address": "1623 Solana Dr, Fresno 77545",
+     "url": "https://www.har.com/homedetail/1623-solana-dr-fresno-tx-77545/16566224",
+     "price": 299000
+    },
+    {
+     "address": "2507 Sunlit Meadow Trl, Fresno 77545",
+     "url": "https://www.har.com/homedetail/2507-sunlit-meadow-trl-fresno-tx-77545/15732239",
+     "price": 299900
+    },
+    {
+     "address": "18510 Athena Flower Dr, Fresno 77545",
+     "url": "https://www.har.com/web/oscarmorales/homedetail/17603725",
+     "price": 271990
+    },
+    {
+     "address": "1015 Cedar Place Ln, Missouri City 77459",
+     "url": "https://www.har.com/homedetail/1015-cedar-place-ln-missouri-city-tx-77459/17641394",
+     "price": 284690
+    },
+    {
+     "address": "1018 Cedar Place Ln, Missouri City 77459",
+     "url": "https://www.har.com/homedetail/1018-cedar-place-ln-missouri-city-tx-77459/17647928",
+     "price": 267840
+    },
+    {
+     "address": "1022 Cedar Place Ln, Missouri City 77459",
+     "url": "https://www.zillow.com/homedetails/1022-Cedar-Place-Ln-Missouri-City-TX-77459/461933117_zpid/",
+     "price": 259990
     }
    ],
-   "priceChanged": [
-    {
-     "address": "11306 Overland Trail Dr, Richmond 77406",
-     "url": "https://www.har.com/homedetail/11306-overland-trail-dr-richmond-tx-77406/2408367?lid=10959153",
-     "from": 270000,
-     "to": 259000,
-     "change": -11000,
-     "pct": -4.07
-    },
-    {
-     "address": "11138 Overland Trail Dr, Richmond 77406",
-     "url": "https://www.har.com/homedetail/11138-overland-trail-dr-richmond-tx-77406/2408561",
-     "from": 299990,
-     "to": 294000,
-     "change": -5990,
-     "pct": -2.0
-    },
-    {
-     "address": "8211 Rustic Pine Trl, Richmond, TX 77469",
-     "url": "https://www.har.com/homedetail/8211-rustic-pine-trl-richmond-tx-77469/17686338",
-     "from": 260990,
-     "to": 270990,
-     "change": 10000,
-     "pct": 3.83
-    },
-    {
-     "address": "3802 Cloudbluff Ln, Richmond, TX 77469",
-     "url": "https://www.har.com/homedetail/3802-cloudbluff-ln-richmond-tx-77469/9797806",
-     "from": 286000,
-     "to": 270000,
-     "change": -16000,
-     "pct": -5.59
-    },
-    {
-     "address": "1206 Ricasoli Dr, Richmond, TX 77406",
-     "url": "https://www.har.com/homedetail/1206-ricasoli-dr-richmond-tx-77406/16694992",
-     "from": 274900,
-     "to": 269900,
-     "change": -5000,
-     "pct": -1.82
-    },
-    {
-     "address": "4712 Rosemary Creek Dr, Rosenberg 77469",
-     "url": "https://www.har.com/homedetail/4712-rosemary-creek-dr-rosenberg-tx-77469/17664047",
-     "from": 299990,
-     "to": 289990,
-     "change": -10000,
-     "pct": -3.33
-    },
-    {
-     "address": "6127 Coyote Glade Dr, Richmond 77469",
-     "url": "https://www.har.com/homedetail/6127-coyote-glade-dr-richmond-tx-77469/17725728",
-     "from": 258070,
-     "to": 289070,
-     "change": 31000,
-     "pct": 12.01
-    }
-   ],
-   "statusChanged": [
-    {
-     "address": "21126 Amber Crossing Dr, Richmond 77406",
-     "url": "https://www.har.com/homedetail/21126-amber-crossing-dr-richmond-tx-77406/10233771",
-     "from": "active",
-     "to": "under-contract"
-    },
-    {
-     "address": "8211 Rustic Pine Trl, Richmond, TX 77469",
-     "url": "https://www.har.com/homedetail/8211-rustic-pine-trl-richmond-tx-77469/17686338",
-     "from": "under-contract",
-     "to": "active"
-    },
-    {
-     "address": "10031 Lilac Croft Ln, Richmond 77406",
-     "url": "https://www.har.com/homedetail/10031-lilac-croft-ln-richmond-tx-77406/14843192",
-     "from": "active",
-     "to": "under-contract"
-    },
-    {
-     "address": "5807 Cherry Meadows St, Rosenberg 77469",
-     "url": "https://www.har.com/homedetail/5807-cherry-meadows-st-rosenberg-tx-77469/17661750",
-     "from": "active",
-     "to": "under-contract"
-    },
-    {
-     "address": "6127 Coyote Glade Dr, Richmond 77469",
-     "url": "https://www.har.com/homedetail/6127-coyote-glade-dr-richmond-tx-77469/17725728",
-     "from": "active",
-     "to": "under-contract"
-    },
-    {
-     "address": "10415 Melida Dawn Way, Richmond 77406",
-     "url": "https://www.har.com/homedetail/10415-melida-dawn-way-richmond-tx-77406/17638448",
-     "from": "active",
-     "to": "under-contract"
-    },
-    {
-     "address": "11427 Harmony Summit Trce, Richmond 77406",
-     "url": "https://www.har.com/homedetail/11427-harmony-summit-richmond-tx-77406/14926542",
-     "from": "active",
-     "to": "under-contract"
-    }
-   ]
+   "removed": [],
+   "priceChanged": [],
+   "statusChanged": []
   },
   {
    "generated": "2026-11-11",

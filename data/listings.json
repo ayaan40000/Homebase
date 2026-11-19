@@ -4139,9 +4139,850 @@
      "price": 279900
     }
    ]
+  },
+  {
+   "address": "4826 Little Metalmark Dr, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "baths": 3,
+   "beds": 5,
+   "builder": "Lennar",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "flood": null,
+   "highlights": [
+    "Lennar Cobb plan, Majors Collection",
+    "Under construction per builder site, Homesite #1143",
+    "Found only on Lennar's site; no discrete MLS listing page located"
+   ],
+   "hoa": "$183/mo",
+   "inspector": "Thin record \u2014 verify details before touring.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 118,
+   "price": 266990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 266990
+    }
+   ],
+   "schools": "Needville ISD",
+   "sqft": 2258,
+   "status": "unknown",
+   "subdivision": "Monarch Landing",
+   "url": "https://www.lennar.com/new-homes/texas/houston/needville/monarch-landing6/majors-collection#home-4826-little-metalmark-dr",
+   "year": null
+  },
+  {
+   "address": "4926 Little Metalmark Dr, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "baths": 3,
+   "beds": 5,
+   "builder": "Lennar",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "flood": null,
+   "highlights": [
+    "Lennar Cobb plan, Majors Collection",
+    "Under construction per builder site, Homesite #1153",
+    "Found only on Lennar's site; no discrete MLS listing page located"
+   ],
+   "hoa": "$183/mo",
+   "inspector": "Thin record \u2014 verify details before touring.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 121,
+   "price": 272990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 272990
+    }
+   ],
+   "schools": "Needville ISD",
+   "sqft": 2258,
+   "status": "unknown",
+   "subdivision": "Monarch Landing",
+   "url": "https://www.lennar.com/new-homes/texas/houston/needville/monarch-landing6/majors-collection#home-4926-little-metalmark-dr",
+   "year": null
+  },
+  {
+   "address": "4822 Little Metalmark Dr, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "baths": 4,
+   "beds": 5,
+   "builder": "Lennar",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new"
+   ],
+   "flood": null,
+   "highlights": [
+    "Lennar Ruth plan, Majors Collection",
+    "Under construction; listed 10/29/2026, MLS #25882788",
+    "Status Active per Movoto/Redfin"
+   ],
+   "hoa": "$183/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 103,
+   "price": 288990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 288990
+    }
+   ],
+   "schools": "Needville ISD",
+   "sqft": 2813,
+   "status": "active",
+   "subdivision": "Monarch Landing",
+   "url": "https://www.redfin.com/TX/Needville/4822-Little-Metalmark-Dr-77461/home/204869383",
+   "year": 2027
+  },
+  {
+   "address": "6518 Little Yellow Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "baths": 3,
+   "beds": 5,
+   "builder": "Lennar",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new"
+   ],
+   "flood": null,
+   "highlights": [
+    "Lennar Cobb plan, MLS #42033861",
+    "Price conflict: recent MLS aggregators show $252,990; Zillow's older page (updated Sep 22, 2026) showed $266,990 \u2014 $252,990 used"
+   ],
+   "hoa": "$183/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 112,
+   "price": 252990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 252990
+    }
+   ],
+   "schools": "Needville ISD",
+   "sqft": 2258,
+   "status": "active",
+   "subdivision": "Monarch Landing",
+   "url": "https://www.zillow.com/homedetails/6518-Little-Yellow-Ct-Needville-TX-77461/465320213_zpid/",
+   "year": 2026
+  },
+  {
+   "address": "6906 Papillon Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "baths": 3,
+   "beds": 4,
+   "builder": "Lennar",
+   "dom": 63,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "flood": null,
+   "highlights": [
+    "Lennar Lucia plan, MLS #39547255",
+    "Price cut $2,000 on 10/28/2026",
+    "On market since 9/16/2026"
+   ],
+   "hoa": "$183/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 116,
+   "price": 257990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 257990
+    }
+   ],
+   "schools": "Needville ISD",
+   "sqft": 2233,
+   "status": "active",
+   "subdivision": "Monarch Landing",
+   "url": "https://www.zillow.com/homedetails/6906-Papillon-Ln-Needville-TX-77461/465240284_zpid/",
+   "year": 2026
+  },
+  {
+   "address": "6902 Papillon Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "baths": 3,
+   "beds": 4,
+   "builder": "Lennar",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "flood": null,
+   "highlights": [
+    "Lennar Bryce plan, Eventide Collection",
+    "Move-in ready per Lennar; $35K price cut per builder page",
+    "Price confirmed on Lennar's own listing page and Weichert MLS mirror"
+   ],
+   "hoa": "$183/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 112,
+   "price": 267990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 267990
+    }
+   ],
+   "schools": "Needville ISD",
+   "sqft": 2393,
+   "status": "active",
+   "subdivision": "Monarch Landing",
+   "url": "https://www.zillow.com/homedetails/6902-Papillon-Ln-Needville-TX-77461/465240282_zpid/",
+   "year": 2026
+  },
+  {
+   "address": "6819 Papillon Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "baths": 3,
+   "beds": 4,
+   "builder": "Lennar",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "flood": null,
+   "highlights": [
+    "Lennar Bryce plan, MLS #33691949",
+    "Price cut $5,000 on 11/2/2026",
+    "Listing updated Nov 2, 2026"
+   ],
+   "hoa": "$183/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 108,
+   "price": 257990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 257990
+    }
+   ],
+   "schools": "Needville ISD",
+   "sqft": 2393,
+   "status": "active",
+   "subdivision": "Monarch Landing",
+   "url": "https://www.zillow.com/homedetails/6819-Papillon-Ln-Needville-TX-77461/461684845_zpid/",
+   "year": 2026
+  },
+  {
+   "address": "2618 Starry Sky Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "baths": 2,
+   "beds": 3,
+   "builder": "D.R. Horton",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new"
+   ],
+   "flood": null,
+   "highlights": [
+    "D.R. Horton Denton plan, MLS #82830661",
+    "Under construction, est. completion Dec 2026",
+    "HOA $850/yr per MLS"
+   ],
+   "hoa": "$71/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 163,
+   "price": 254990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 254990
+    }
+   ],
+   "schools": "Lamar CISD",
+   "sqft": 1566,
+   "status": "active",
+   "subdivision": "Holly Ridge",
+   "url": "https://www.newhomeprograms.com/homes/2618-Starry-Sky-Lane/Rosenberg/TX/77471/181544240/",
+   "year": 2026
+  },
+  {
+   "address": "6739 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "baths": 2.5,
+   "beds": 3,
+   "builder": "D.R. Horton",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new"
+   ],
+   "flood": null,
+   "highlights": [
+    "D.R. Horton Florence plan, MLS #10595868",
+    "Under construction, est. completion Nov 2026",
+    "HOA $850/yr per MLS"
+   ],
+   "hoa": "$71/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 141,
+   "price": 259990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 259990
+    }
+   ],
+   "schools": "Lamar CISD",
+   "sqft": 1850,
+   "status": "active",
+   "subdivision": "Holly Ridge",
+   "url": "https://www.newhomeprograms.com/homes/6739-Canyon-Breeze-Drive/Rosenberg/TX/77471/181305305/",
+   "year": 2026
+  },
+  {
+   "address": "6855 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "baths": 2.5,
+   "beds": 3,
+   "builder": "D.R. Horton",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "flood": null,
+   "highlights": [
+    "D.R. Horton Florence plan, MLS #9925350 per MLS mirror",
+    "Status Active per MLS mirror; price reduced ~$3-4K",
+    "Est. completion Dec 2026"
+   ],
+   "hoa": "$71/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 151,
+   "price": 279990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 279990
+    }
+   ],
+   "schools": "Lamar CISD",
+   "sqft": 1850,
+   "status": "active",
+   "subdivision": "Holly Ridge",
+   "url": "https://www.zillow.com/homedetails/6855-Canyon-Breeze-Dr-Rosenberg-TX-77471/465519249_zpid/",
+   "year": 2026
+  },
+  {
+   "address": "2647 Sunset Bluff Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "baths": 2,
+   "beds": 4,
+   "builder": "D.R. Horton",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "flood": null,
+   "highlights": [
+    "D.R. Horton Cali plan, MLS #92233164",
+    "Shown Available on Zillow; page last updated Oct 16, 2026",
+    "Sqft not stated in sources checked"
+   ],
+   "hoa": "$71/mo",
+   "inspector": "Thin record \u2014 verify details before touring.",
+   "lastVerified": "2026-11-18",
+   "ppsf": null,
+   "price": 284990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 284990
+    }
+   ],
+   "schools": "Lamar CISD",
+   "sqft": null,
+   "status": "active",
+   "subdivision": "Holly Ridge",
+   "url": "https://www.zillow.com/homedetails/2647-Sunset-Bluff-Ln-Rosenberg-TX-77471/466049563_zpid/",
+   "year": 2026
+  },
+  {
+   "address": "2635 Sunset Bluff Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "baths": 2,
+   "beds": 4,
+   "builder": "D.R. Horton",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "flood": null,
+   "highlights": [
+    "D.R. Horton Cali plan, MLS #87887688",
+    "Shown Available on Zillow; page last updated Oct 16, 2026",
+    "Sqft not stated in sources checked"
+   ],
+   "hoa": "$71/mo",
+   "inspector": "Thin record \u2014 verify details before touring.",
+   "lastVerified": "2026-11-18",
+   "ppsf": null,
+   "price": 286990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 286990
+    }
+   ],
+   "schools": "Lamar CISD",
+   "sqft": null,
+   "status": "active",
+   "subdivision": "Holly Ridge",
+   "url": "https://www.zillow.com/homedetails/2635-Sunset-Bluff-Ln-Rosenberg-TX-77471/466049533_zpid/",
+   "year": 2026
+  },
+  {
+   "address": "5412 Kindred St, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "baths": 2,
+   "beds": 3,
+   "builder": "KB Home",
+   "dom": 5,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "flood": null,
+   "highlights": [
+    "KB Home new construction, MLS #27718229",
+    "Price reduced Nov 11, 2026",
+    "HOA $725/yr per HAR"
+   ],
+   "hoa": "$60/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 143,
+   "price": 294995,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 294995
+    }
+   ],
+   "schools": "Lamar CISD",
+   "sqft": 2062,
+   "status": "active",
+   "subdivision": "Davina",
+   "url": "http://har.com/homedetail/5412-kindred-st-rosenberg-tx-77471/17582412",
+   "year": 2026
+  },
+  {
+   "address": "3011 Tandem Ct, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "baths": 2.5,
+   "beds": 4,
+   "builder": null,
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "new-mechanicals"
+   ],
+   "flood": null,
+   "highlights": [
+    "MLS #12367302, Active on HAR",
+    "Brand-new AC compressor per listing",
+    "Cul-de-sac lot; EV-ready garage",
+    "HOA $781/yr per HAR"
+   ],
+   "hoa": "$65/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 113,
+   "price": 299900,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 299900
+    }
+   ],
+   "schools": "Lamar CISD",
+   "sqft": 2665,
+   "status": "active",
+   "subdivision": "Briarwood Crossing Sec 8",
+   "url": "https://www.har.com/homedetail/3011-tandem-ct-rosenberg-tx-77471/13716307",
+   "year": 2018
+  },
+  {
+   "address": "2534 Cedar Ridge Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "baths": 2,
+   "beds": 3,
+   "builder": "D.R. Horton",
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new"
+   ],
+   "flood": null,
+   "highlights": [
+    "D.R. Horton Barton plan, MLS #55924535",
+    "Under construction; Milo Farms Sec 2",
+    "HOA $1,150/yr per MLS; MLS lists Needville school district despite Rosenberg ZIP"
+   ],
+   "hoa": "$96/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 198,
+   "price": 252990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 252990
+    }
+   ],
+   "schools": "Needville ISD",
+   "sqft": 1280,
+   "status": "active",
+   "subdivision": "Milo Farms",
+   "url": "https://www.newhomeprograms.com/homes/2534-Cedar-Ridge-Drive/Rosenberg/TX/77471/181920079/",
+   "year": 2026
+  },
+  {
+   "address": "3222 Owl Hollow Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "baths": 2,
+   "beds": 3,
+   "builder": null,
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "flood": null,
+   "highlights": [
+    "MLS #22608784, listed For Sale",
+    "Year built not found in sources checked \u2014 kept per watch rule for unknown year",
+    "Price seen at $264,900 in an earlier crawl, $269,900 in later crawls"
+   ],
+   "hoa": "\u2014",
+   "inspector": "Thin record \u2014 verify details before touring.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 155,
+   "price": 269900,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 269900
+    }
+   ],
+   "schools": "Lamar CISD",
+   "sqft": 1741,
+   "status": "active",
+   "subdivision": "\u2014",
+   "url": "https://www.zillow.com/homedetails/3222-Owl-Hollow-Dr-Rosenberg-TX-77471/2075647180_zpid/",
+   "year": null
+  },
+  {
+   "address": "2643 Cottage Step Trl, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "baths": 2.5,
+   "beds": 3,
+   "builder": null,
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new"
+   ],
+   "flood": null,
+   "highlights": [
+    "MLS #87781559, Active on HAR",
+    "HOA $545/yr per HAR"
+   ],
+   "hoa": "$45/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 119,
+   "price": 284900,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 284900
+    }
+   ],
+   "schools": "Fort Bend ISD",
+   "sqft": 2392,
+   "status": "active",
+   "subdivision": "Winfield Lakes North Sec 1",
+   "url": "https://www.har.com/homedetail/2643-cottage-step-trl-fresno-tx-77545/13530811",
+   "year": 2015
+  },
+  {
+   "address": "1623 Solana Dr, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "baths": 2,
+   "beds": 4,
+   "builder": null,
+   "dom": 1,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new"
+   ],
+   "flood": null,
+   "highlights": [
+    "MLS #35934197 per HAR",
+    "HOA $650/yr per HAR",
+    "DOM 1 at HAR crawl (Nov 11, 2026)"
+   ],
+   "hoa": "$54/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 168,
+   "price": 299000,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 299000
+    }
+   ],
+   "schools": "Fort Bend ISD",
+   "sqft": 1778,
+   "status": "active",
+   "subdivision": "Post Oak Pointe Sec 3",
+   "url": "https://www.har.com/homedetail/1623-solana-dr-fresno-tx-77545/16566224",
+   "year": 2023
+  },
+  {
+   "address": "2507 Sunlit Meadow Trl, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "baths": 2.5,
+   "beds": 4,
+   "builder": null,
+   "dom": 143,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "stale"
+   ],
+   "flood": null,
+   "highlights": [
+    "DOM 143 per HAR \u2014 long on market",
+    "HOA $510/yr per HAR"
+   ],
+   "hoa": "$43/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 141,
+   "price": 299900,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 299900
+    }
+   ],
+   "schools": "Fort Bend ISD",
+   "sqft": 2120,
+   "status": "active",
+   "subdivision": "Winfield Lakes North Sec 6",
+   "url": "https://www.har.com/homedetail/2507-sunlit-meadow-trl-fresno-tx-77545/15732239",
+   "year": 2022
+  },
+  {
+   "address": "18510 Athena Flower Dr, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "baths": 2,
+   "beds": 3,
+   "builder": null,
+   "dom": null,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new"
+   ],
+   "flood": null,
+   "highlights": [
+    "MLS #2294693 per HAR",
+    "Status Under Contract-P on HAR \u2014 kept per watch rule for under-contract listings",
+    "HOA $650/yr per HAR"
+   ],
+   "hoa": "$54/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 188,
+   "price": 271990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 271990
+    }
+   ],
+   "schools": "Fort Bend ISD",
+   "sqft": 1450,
+   "status": "under-contract",
+   "subdivision": "Olympia Fields",
+   "url": "https://www.har.com/web/oscarmorales/homedetail/17603725",
+   "year": 2026
+  },
+  {
+   "address": "1015 Cedar Place Ln, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "baths": 2.5,
+   "beds": 3,
+   "builder": "Meritage Homes",
+   "dom": 105,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "flood": null,
+   "highlights": [
+    "Meritage Caden plan, MLS #86213251",
+    "Price reduced Nov 3, 2026",
+    "HOA $1,100/yr"
+   ],
+   "hoa": "$92/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 167,
+   "price": 284690,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 284690
+    }
+   ],
+   "schools": "Fort Bend ISD",
+   "sqft": 1703,
+   "status": "active",
+   "subdivision": "Parkway Commons",
+   "url": "https://www.har.com/homedetail/1015-cedar-place-ln-missouri-city-tx-77459/17641394",
+   "year": 2026
+  },
+  {
+   "address": "1018 Cedar Place Ln, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "baths": 2.5,
+   "beds": 3,
+   "builder": "Meritage Homes",
+   "dom": 90,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "flood": null,
+   "highlights": [
+    "Meritage Harlow plan, MLS #13164547",
+    "Price cut of $48,000 (15.2%) on Nov 3, 2026 per HAR",
+    "HOA $1,100/yr"
+   ],
+   "hoa": "$92/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 155,
+   "price": 267840,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 267840
+    }
+   ],
+   "schools": "Fort Bend ISD",
+   "sqft": 1727,
+   "status": "active",
+   "subdivision": "Parkway Commons",
+   "url": "https://www.har.com/homedetail/1018-cedar-place-ln-missouri-city-tx-77459/17647928",
+   "year": 2026
+  },
+  {
+   "address": "1022 Cedar Place Ln, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "baths": 2.5,
+   "beds": 3,
+   "builder": "Meritage Homes",
+   "dom": 126,
+   "firstSeen": "2026-11-18",
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "flood": null,
+   "highlights": [
+    "Meritage Winston plan",
+    "Cumulative price drop of ~$52K per Homes.com",
+    "HOA $1,100/yr"
+   ],
+   "hoa": "$92/mo",
+   "inspector": "Standard protocol when serious.",
+   "lastVerified": "2026-11-18",
+   "ppsf": 162,
+   "price": 259990,
+   "priceHistory": [
+    {
+     "date": "2026-11-18",
+     "price": 259990
+    }
+   ],
+   "schools": "Fort Bend ISD",
+   "sqft": 1607,
+   "status": "active",
+   "subdivision": "Parkway Commons",
+   "url": "https://www.zillow.com/homedetails/1022-Cedar-Place-Ln-Missouri-City-TX-77459/461933117_zpid/",
+   "year": 2026
   }
  ],
- "source_note": "Mid-week light refresh 2026-11-18: known listings re-checked \u2014 HAR complete in-band sweeps all 7 ZIPs via Pi browser (371 unique cards: 77469:111, 77406:44, 77407:39, 77477:20, 77489:52, 77450:46, 77429:59) + Pi-browser detail pages for 27 sweep-absent listings (16 read: 14 HAR + 2 Redfin; 11 Zillow detail pages denied by PerimeterX, retained on lastVerified). Zillow page-1 sweep denied (77469). 8 removed (2 sold, 1 pending above band, 1 not for sale, 2 above band + under contract, 2 below band), 3 price changes, 7 status changes (6 to under-contract, 1 back to active), 0 new matches (light refresh \u2014 no discovery; 14 new HAR URLs logged for Sunday). DOMs updated only from fresh detail-page evidence (7 listings); all others carried forward.",
+ "source_note": "Mid-week light refresh 2026-11-18: known listings re-checked \u2014 HAR complete in-band sweeps all 7 ZIPs via Pi browser (371 unique cards: 77469:111, 77406:44, 77407:39, 77477:20, 77489:52, 77450:46, 77429:59) + Pi-browser detail pages for 27 sweep-absent listings (16 read: 14 HAR + 2 Redfin; 11 Zillow detail pages denied by PerimeterX, retained on lastVerified). Zillow page-1 sweep denied (77469). 8 removed (2 sold, 1 pending above band, 1 not for sale, 2 above band + under contract, 2 below band), 3 price changes, 7 status changes (6 to under-contract, 1 back to active), 0 new matches (light refresh \u2014 no discovery; 14 new HAR URLs logged for Sunday). DOMs updated only from fresh detail-page evidence (7 listings); all others carried forward. First scan of the four ZIPs added 2026-11-18 (77471 Rosenberg, 77545 Fresno, 77459 Missouri City, 77461 Needville; owner decision): 64 listings examined via HAR/Redfin/MLS-mirror text fetch (Zillow snippet-only, PerimeterX), 23 added, 26 excluded (5 pending, 9 below floor, 7 above band, 3 pre-2006, 2 off-market/unconfirmed, 1 plan-only group). 4914 Little Metalmark Dr ($252,990) excluded as pending per Redfin (Nov 16). Two Monarch Landing Cobbs (4826/4926 Little Metalmark Dr) verified on Lennar's builder site only \u2014 flagged incomplete, status unknown.",
  "removed_over_20_years": [
   {
    "address": "12230 Meadowdale Dr, Meadows Place, TX 77477",
@@ -5180,6 +6021,24 @@
    "year": 2000,
    "price": 275000,
    "reason": "Built 2000 \u2014 pre-2006 age filter (HAR, Nov 15); Cypress Point"
+  },
+  {
+   "address": "1733 Brumbelow St, Rosenberg 77471",
+   "year": 1974,
+   "price": 250000,
+   "reason": "Built before 2006 \u2014 over 20 years old (first scan of new ZIPs, 2026-11-18)"
+  },
+  {
+   "address": "1619 Bonnie Lea Ln, Fresno 77545",
+   "year": 1994,
+   "price": 250000,
+   "reason": "Built before 2006 \u2014 over 20 years old (first scan of new ZIPs, 2026-11-18)"
+  },
+  {
+   "address": "122 E Houston St, Fresno 77545",
+   "year": 1957,
+   "price": 295000,
+   "reason": "Built before 2006 \u2014 over 20 years old (first scan of new ZIPs, 2026-11-18)"
   }
  ],
  "removed_55plus": [

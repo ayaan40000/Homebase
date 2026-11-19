@@ -23,7 +23,7 @@
     "new",
     "price-cut"
    ],
-   "reason": "Composite 70.3 (Deal 74.4): $123/sqft; price-cut flag; DOM 18; built 2006."
+   "reason": "Composite 70.3 (Deal 74.4): $123/sqft; new, price-cut flag; DOM 18; built 2006."
   },
   {
    "rank": 2,
@@ -46,7 +46,7 @@
     "new",
     "price-cut"
    ],
-   "reason": "Composite 70.3 (Deal 74.4): $120/sqft; price-cut flag; DOM 24; built 2026."
+   "reason": "Composite 70.3 (Deal 74.4): $120/sqft; new, price-cut flag; DOM 24; built 2026."
   },
   {
    "rank": 3,
@@ -69,7 +69,7 @@
     "price-cut",
     "incomplete"
    ],
-   "reason": "Composite 69.4 (Deal 73.0): $124/sqft; price-cut flag; DOM 49; built 2006."
+   "reason": "Composite 69.4 (Deal 73.0): $124/sqft; price-cut, incomplete flag; DOM 49; built 2006."
   },
   {
    "rank": 4,
@@ -92,7 +92,7 @@
     "new",
     "price-cut"
    ],
-   "reason": "Composite 67.5 (Deal 69.9): $140/sqft; price-cut flag; DOM 31; built 2026."
+   "reason": "Composite 67.5 (Deal 69.9): $140/sqft; new, price-cut flag; DOM 31; built 2026."
   },
   {
    "rank": 5,
@@ -114,8 +114,8 @@
    "flags": [
     "price-cut"
    ],
-   "reason": "Composite 67.3 (Deal 69.4): $102/sqft; price-cut flag; built 2026. — flagged 'Under Contract — verify status' in the source, so confirm availability first.",
-   "status_caution": "Under Contract — verify status (source highlight)"
+   "reason": "Composite 67.3 (Deal 69.4): $102/sqft; price-cut flag; built 2026.",
+   "status_caution": "Under Contract \u2014 verify status (source highlight)"
   }
  ]
 }
