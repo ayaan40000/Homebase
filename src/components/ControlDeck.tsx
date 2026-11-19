@@ -4,6 +4,7 @@ import { AREAS, AREA_COLORS } from '../lib/types'
 export type SortKey =
   | 'composite'
   | 'deal'
+  | 'book'
   | 'price-asc'
   | 'price-desc'
   | 'ppsf'
@@ -43,6 +44,7 @@ const QUICK: Array<{ key: 'underAnchor' | 'score70' | 'isNew' | 'priceCuts' | 's
 const SORTS: Array<{ key: SortKey; label: string }> = [
   { key: 'composite', label: 'Composite score' },
   { key: 'deal', label: 'Deal score' },
+  { key: 'book', label: 'Book Match: highest first' },
   { key: 'price-asc', label: 'Price: low to high' },
   { key: 'price-desc', label: 'Price: high to low' },
   { key: 'ppsf', label: '$/sqft: low to high' },

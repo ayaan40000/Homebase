@@ -19,6 +19,38 @@ export interface Scores {
   estimated_components: string[]
 }
 
+/** Book Match (2026-11-18): how closely a listing matches The Houston Book
+ *  Edition 2's recommended buy — computed by the Rust scorer on every run
+ *  (docs/SCORING.md §10). Components are points earned; size_fit/value are
+ *  null when the source carries no size, in which case the remaining
+ *  components were pro-rated to 100 and `estimated` is true. */
+export interface BookMatch {
+  score: number // 0–100
+  band: string // 'Strong Book match' | 'Good' | 'Partial' | 'Off-Book'
+  estimated: boolean
+  sizeFlag: 'small' | 'large' | null // small: under 1,600 sqft · large: 2,800+ sqft
+  components: {
+    size_fit: number | null // of 40
+    value: number | null // of 25
+    price_band: number // of 15
+    tax: number // of 20
+  }
+  notes: string[] // one generated bullet per criterion: size, value, price, tax
+}
+
+export function bookBandColor(band: string): string {
+  switch (band) {
+    case 'Strong Book match':
+      return '#2FD1A7'
+    case 'Good':
+      return '#8FCB6B'
+    case 'Partial':
+      return '#E3B341'
+    default:
+      return '#E0655A'
+  }
+}
+
 export interface Ratios {
   ppsf: number | null
   price_vs_anchor_pct: number
@@ -68,6 +100,7 @@ export interface Home {
   priceHistory: PricePoint[] // append-only, oldest first
   scores: Scores
   ratios: Ratios
+  bookMatch: BookMatch
 }
 
 export const STATUS_LABELS: Record<string, string> = {

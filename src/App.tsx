@@ -34,6 +34,8 @@ function sortHomes(list: Home[], sort: Filters['sort']): Home[] {
   switch (sort) {
     case 'deal':
       return by((h) => h.scores.deal_score ?? -1)
+    case 'book':
+      return by((h) => h.bookMatch?.score ?? -1)
     case 'price-asc':
       return by((h) => h.price, 1)
     case 'price-desc':
@@ -75,6 +77,7 @@ const QUICK_LABELS: Array<{ key: 'underAnchor' | 'score70' | 'isNew' | 'priceCut
 const SORT_LABELS: Record<Filters['sort'], string> = {
   composite: 'Composite score',
   deal: 'Deal score',
+  book: 'Book Match: highest first',
   'price-asc': 'Price: low to high',
   'price-desc': 'Price: high to low',
   ppsf: '$/sqft: low to high',

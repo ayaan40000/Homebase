@@ -4,6 +4,7 @@ import {
   AREA_COLORS,
   FLAG_LABELS,
   bandFor,
+  bookBandColor,
   daysBetween,
   fmtDate,
   money,
@@ -53,6 +54,18 @@ export default function HomeCard({
         </span>
         <span className="row-stat">{statLine}</span>
         <span className="row-line4">
+          {home.bookMatch.sizeFlag && (
+            <span
+              className={`flag-chip size-chip size-${home.bookMatch.sizeFlag}`}
+              title={
+                home.bookMatch.sizeFlag === 'small'
+                  ? 'Under 1,600 sqft — below the Book’s new-build floor'
+                  : '2,800 sqft and up — the Book’s recommended size'
+              }
+            >
+              {home.bookMatch.sizeFlag === 'small' ? 'Small' : 'Large'}
+            </span>
+          )}
           {caution ? (
             <span className="row-caution">
               <span className="caution-dot" aria-hidden="true" />
@@ -76,6 +89,14 @@ export default function HomeCard({
       </span>
       <span className="row-score">
         <ScoreRing score={home.scores.deal_score} size={40} />
+        <span
+          className="book-caption"
+          style={{ color: bookBandColor(home.bookMatch.band) }}
+          title={`Book Match: ${home.bookMatch.band}${home.bookMatch.estimated ? ' (estimated — no size in source)' : ''}`}
+        >
+          Book {Math.round(home.bookMatch.score)}
+          {home.bookMatch.estimated ? '*' : ''}
+        </span>
       </span>
     </button>
   )
@@ -101,6 +122,7 @@ export function HomeDetail({
 }) {
   const backRef = useRef<HTMLButtonElement>(null)
   const [breakdownOpen, setBreakdownOpen] = useState(false)
+  const [bookOpen, setBookOpen] = useState(false)
   const s = home.scores
   const r = home.ratios
   const compBand = bandFor(s.composite_home_score)
@@ -231,6 +253,49 @@ export function HomeDetail({
               <ScoreBar label="Grocer" value={s.components_0_100.grocer_access / 10} />
             </div>
             <p className="estimate-line">Access scores are area-level estimates (v1).</p>
+          </section>
+
+          <section aria-label="Book match">
+            <button
+              type="button"
+              className="collapse-btn"
+              aria-expanded={bookOpen}
+              onClick={() => setBookOpen((v) => !v)}
+            >
+              <span>
+                Book match — {Math.round(home.bookMatch.score)} · {home.bookMatch.band}
+                {home.bookMatch.estimated ? ' · estimated' : ''}
+              </span>
+              <svg
+                width="16"
+                height="16"
+                viewBox="0 0 24 24"
+                fill="none"
+                aria-hidden="true"
+                style={{ transform: bookOpen ? 'rotate(180deg)' : undefined }}
+              >
+                <path d="M6 9l6 6 6-6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
+            </button>
+            {bookOpen && (
+              <div className="book-match-body">
+                <p className="book-components mono">
+                  Size {home.bookMatch.components.size_fit ?? '—'}/40 · Value{' '}
+                  {home.bookMatch.components.value ?? '—'}/25 · Price{' '}
+                  {home.bookMatch.components.price_band}/15 · Tax {home.bookMatch.components.tax}
+                  /20
+                </p>
+                <ul className="book-notes">
+                  {home.bookMatch.notes.map((n) => (
+                    <li key={n}>{n}</li>
+                  ))}
+                </ul>
+                <p className="estimate-line">
+                  Measured against The Houston Book, Edition 2 — its recommended size, value
+                  tiers, honest price band and watch-area tax range.
+                </p>
+              </div>
+            )}
           </section>
 
           <section aria-label="Deal score breakdown">

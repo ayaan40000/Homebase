@@ -18,6 +18,7 @@ export default function HomeTable({ homes }: { homes: Home[] }) {
             <th>DOM</th>
             <th>Deal</th>
             <th>Composite</th>
+            <th>Book</th>
             <th>PITI %</th>
             <th>Schools</th>
           </tr>
@@ -43,6 +44,14 @@ export default function HomeTable({ homes }: { homes: Home[] }) {
                 <ScoreRing score={h.scores.deal_score} size={56} />
               </td>
               <td className="mono">{h.scores.composite_home_score?.toFixed(1) ?? '—'}</td>
+              <td className="mono">
+                {Math.round(h.bookMatch.score)}
+                {h.bookMatch.sizeFlag === 'small'
+                  ? ' · S'
+                  : h.bookMatch.sizeFlag === 'large'
+                    ? ' · L'
+                    : ''}
+              </td>
               <td className="mono">{h.ratios.front_end_ratio_pct.toFixed(1)}%</td>
               <td className="mono">{h.scores.school_access_0_10.toFixed(2)}</td>
             </tr>

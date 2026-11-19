@@ -28,7 +28,13 @@ counterpart.
   front-end ratio against the 28% rule, price vs the $301K anchor, and $/sqft.
   Search, area filters, quick filters and sorting all run in the browser.
   Cards and the detail view show when a home was first seen and last
-  verified, plus its full price-history sequence.
+  verified, plus its full price-history sequence. Each card also carries a
+  **Book Match** caption (score under the deal ring) and a **Small / Large**
+  size badge where one applies; the detail view has a collapsed "Book match"
+  section with a point-wise note — one generated bullet per Book criterion
+  (size, $/sqft value tier, price band, tax) stating whether the home
+  matches the Book and by how much. Explore can also sort by Book Match,
+  and `CLAUDE.md` at the repo root is the project handoff brief.
 - **What changed** — a dedicated view rendering the run delta
   (`data/delta.json`): new homes, price cuts and rises with $ and %, status
   changes and removals, newest run first (the last 12 runs are kept in
@@ -68,6 +74,17 @@ counterpart.
   from a Flood Factor when a listing carries one (50 neutral otherwise).
 - **Composite Home Score (0–100)** = 60% Deal + 15% (School Access × 10) +
   15% Highway Access + 10% Grocer Access. The Top 5 ranks by Composite.
+- **Book Match (0–100, added 2026-11-18)** — how closely a home matches the
+  Book's recommended buy, separate from the ranking scores: Size fit 40
+  (2,800–3,700 sqft full marks; 2,350–2,799 → 28; 1,600–2,349 → 16; under
+  1,600 → 6; over 3,700 → 32) + Value 25 (the Book's $/sqft tiers: ≤$105 →
+  25, $106–135 → 19, $136–175 → 12, over $175 → 5) + Price band 15
+  ($250K–$275K → 15; $275K–$300K → 9) + Tax 20 (area total ≤2.29% → 20;
+  2.30–2.99% → 12; 3.00–3.49% → 6; ≥3.50% → 2). Bands: 80+ "Strong Book
+  match", 60–79 "Good", 40–59 "Partial", under 40 "Off-Book". Size flags:
+  **Small** under 1,600 sqft, **Large** at 2,800+ sqft. A home with no size
+  in the source is pro-rated on the remaining components and flagged
+  estimated. Full definition: `docs/SCORING.md` §10.
 - **Ratios** — 7.32%, 30-year fixed, $75,000 down on a $100,000 income.
   Corrected tax formula: assessed value × total rate − $140,000 × school rate
   (the homestead exemption applies to the school portion only).

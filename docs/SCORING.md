@@ -266,3 +266,50 @@ Any investment-style conclusion needs real rent comps first (§8).
 - All scores are rounded to 1 decimal and all ratios to 2 decimals — the rounding is
   presentational; the underlying inputs are the area-level figures above, and the
   model should be read at that precision, not finer.
+
+## 10. Book Match (2026-11-18) — per-listing fit to the Book's recommended buy
+
+Owner-ordered 2026-11-18: "a metric to have each listing have a rating on
+how well it matches the Houston book", plus an indication for abnormally
+small or large homes. Book Match is **not** a ranking score — the Top 5
+still ranks by Composite (§7). It answers a different question: how closely
+does this home resemble what Edition 2 actually recommends buying?
+
+Computed by the Rust scorer on every run into each listing's `bookMatch`
+object (score, band, estimated flag, size flag, component points, and a
+generated point-wise note). 100 points across four components:
+
+| Component | Points | Rule (anchors from Edition 2) |
+|---|---|---|
+| Size fit | 40 | 2,800–3,700 sqft (the Book's recommended resale size) → 40 · 2,350–2,799 → 28 · 1,600–2,349 (the Book's new-build range at this money) → 16 · under 1,600 → 6 · over 3,700 → 32 (past the range; maintenance scales with size) |
+| Value ($/sqft) | 25 | The Book's Ch 16 tiers: ≤$105 (best value $82–105) → 25 · $106–135 (good) → 19 · $136–175 (market) → 12 · over $175 (premium) → 5. Uses the same $/sqft as §6 (source value, else price ÷ sqft rounded) |
+| Price band | 15 | $250,000–$275,000 (the honest band at the 28% rule on $100K income) → 15 · $275,001–$300,000 → 9 (still under the $301K 28% ceiling) |
+| Tax | 20 | Area total rate (§6): ≤2.29% (the Book's watch-area totals run 1.73–2.29%) → 20 · 2.30–2.99% → 12 · 3.00–3.49% → 6 · ≥3.50% → 2. No per-listing rate exists in the source, so the area total is used and the note says so — no rate is invented |
+
+**Bands:** 80–100 "Strong Book match" · 60–79 "Good" · 40–59 "Partial" ·
+under 40 "Off-Book". The score is rounded to a whole number.
+
+**Missing size:** a listing with no sqft in the source also has no $/sqft,
+so Size and Value drop out; the remaining components (Price + Tax, 35
+points) are pro-rated to 100 and `bookMatch.estimated` is true. Two
+listings in the Nov 18, 2026 set are in this state (both Rosenberg).
+
+**Size flags** (from sqft alone, independent of the score):
+**Small** = under 1,600 sqft (below even the Book's new-build floor);
+**Large** = 2,800 sqft and up (Book-size). Shown as a badge on the card and
+in the table view ("S" / "L" beside the Book score).
+
+**Point-wise note:** `bookMatch.notes` carries one generated bullet per
+criterion — size, value, price, tax — each stating the listing's actual
+figure, whether it matches / partially matches / differs from the Book,
+and the Book figure it is measured against. The size bullet names the
+Small / Large flag when one applies. The detail view renders the bullets
+in a collapsed "Book match" section (click to open). Notes are factual
+and number-led; no sales language. They regenerate with the score on
+every run — never hand-edit them in the JSON.
+
+**First distribution (Nov 18, 2026, 139 listings):** Strong Book match 3 ·
+Good 36 · Partial 98 · Off-Book 2. Small flags 40, Large flags 2 — the
+board is dominated by small new construction, which is the finding the
+metric exists to surface. Top by Book Match: 7326 Audubon Russet Dr,
+Richmond ($290,000, 3,028 sqft, $96/sqft) at 94.

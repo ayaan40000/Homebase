@@ -52,6 +52,32 @@ fn get_f(v: &Value, key: &str) -> Option<f64> {
     v.get(key).and_then(|x| x.as_f64())
 }
 
+/// 2813 -> "2,813" (for note text).
+fn fmt_int(x: f64) -> String {
+    let s = format!("{}", x.round() as i64);
+    let (neg, digits) = match s.strip_prefix('-') {
+        Some(rest) => (true, rest.to_string()),
+        None => (false, s),
+    };
+    let mut out = String::new();
+    for (i, c) in digits.chars().enumerate() {
+        if i > 0 && (digits.len() - i) % 3 == 0 {
+            out.push(',');
+        }
+        out.push(c);
+    }
+    if neg {
+        format!("-{out}")
+    } else {
+        out
+    }
+}
+
+/// 259900 -> "$259,900" (for note text).
+fn fmt_money(x: f64) -> String {
+    format!("${}", fmt_int(x))
+}
+
 fn momentum(flags: &[String], dom: Option<f64>) -> f64 {
     let cut = flags.iter().any(|f| f == "price-cut");
     let stale = flags.iter().any(|f| f == "stale");
@@ -242,6 +268,172 @@ fn main() -> ExitCode {
         let front_end = piti / (w.income_usd / 12.0) * 100.0;
         let rent = cfg.median_rent_usd_mo;
 
+        // Book Match (owner-ordered 2026-11-18) — how closely this listing
+        // matches The Houston Book Edition 2's recommended buy. Four
+        // components, 100 points: size fit 40, $/sqft value tier (Ch 16) 25,
+        // price band 15, tax 20. Full definition: docs/SCORING.md §10 and
+        // the goal's GOAL.md. A missing size also removes $/sqft (it is
+        // derived from size); the remaining components are then pro-rated
+        // to 100 and the result is flagged estimated. Tax uses the area
+        // total rate from weights.json — no per-listing rate exists in the
+        // source, and none is invented.
+        let size_pts: Option<f64> = sqft.map(|s| {
+            if s > 3700.0 {
+                32.0
+            } else if s >= 2800.0 {
+                40.0
+            } else if s >= 2350.0 {
+                28.0
+            } else if s >= 1600.0 {
+                16.0
+            } else {
+                6.0
+            }
+        });
+        let value_pts: Option<f64> = ppsf.map(|p| {
+            if p <= 105.0 {
+                25.0
+            } else if p <= 135.0 {
+                19.0
+            } else if p <= 175.0 {
+                12.0
+            } else {
+                5.0
+            }
+        });
+        let price_pts: f64 = if price <= 275_000.0 { 15.0 } else { 9.0 };
+        let tax_rate = cfg.total_tax_rate_pct;
+        let tax_pts: f64 = if tax_rate <= 2.29 {
+            20.0
+        } else if tax_rate < 3.00 {
+            12.0
+        } else if tax_rate < 3.50 {
+            6.0
+        } else {
+            2.0
+        };
+        let mut bm_earned = price_pts + tax_pts;
+        let mut bm_possible = 35.0;
+        if let Some(sp) = size_pts {
+            bm_earned += sp;
+            bm_possible += 40.0;
+        }
+        if let Some(vp) = value_pts {
+            bm_earned += vp;
+            bm_possible += 25.0;
+        }
+        let book_estimated = size_pts.is_none() || value_pts.is_none();
+        let book_score = (bm_earned / bm_possible * 100.0).round();
+        let book_band = if book_score >= 80.0 {
+            "Strong Book match"
+        } else if book_score >= 60.0 {
+            "Good"
+        } else if book_score >= 40.0 {
+            "Partial"
+        } else {
+            "Off-Book"
+        };
+        let size_flag: Option<&str> = sqft.and_then(|s| {
+            if s < 1600.0 {
+                Some("small")
+            } else if s >= 2800.0 {
+                Some("large")
+            } else {
+                None
+            }
+        });
+
+        // Point-wise note: one bullet per criterion, generated from this
+        // listing's own numbers. Factual and number-led; no sales language.
+        let size_note = match sqft {
+            None => "Size: not listed — cannot be scored against the Book's ranges; \
+                     Book Match is estimated from the other criteria."
+                .to_string(),
+            Some(s) if s > 3700.0 => format!(
+                "Size: {} sq ft — differs. Above the Book's recommended range \
+                 (2,800–3,700 sq ft); maintenance scales with size. Flagged Large.",
+                fmt_int(s)
+            ),
+            Some(s) if s >= 2800.0 => format!(
+                "Size: {} sq ft — matches. Inside the Book's recommended range \
+                 (2,800–3,700 sq ft). Flagged Large (Book-size).",
+                fmt_int(s)
+            ),
+            Some(s) if s >= 2350.0 => format!(
+                "Size: {} sq ft — partial. Below the Book's recommended range \
+                 (2,800–3,700 sq ft), above its new-build range (1,600–2,350 sq ft).",
+                fmt_int(s)
+            ),
+            Some(s) if s >= 1600.0 => format!(
+                "Size: {} sq ft — differs. Book recommends 2,800–3,700 sq ft; \
+                 this is in its new-build range (1,600–2,350 sq ft).",
+                fmt_int(s)
+            ),
+            Some(s) => format!(
+                "Size: {} sq ft — differs. Below even the Book's new-build range \
+                 (1,600–2,350 sq ft); flagged Small.",
+                fmt_int(s)
+            ),
+        };
+        let value_note = match ppsf {
+            None => "Value: $/sqft not available (no size in the source) — \
+                     cannot be scored."
+                .to_string(),
+            Some(p) if p <= 105.0 => format!(
+                "Value: ${}/sqft — matches. The Book's best-value tier ($82–105/sqft).",
+                fmt_int(p)
+            ),
+            Some(p) if p <= 135.0 => format!(
+                "Value: ${}/sqft — partial. The Book's 'good value' tier \
+                 ($106–135/sqft); best value is $82–105.",
+                fmt_int(p)
+            ),
+            Some(p) if p <= 175.0 => format!(
+                "Value: ${}/sqft — partial. The Book's 'market' tier \
+                 ($136–175/sqft); best value is $82–105.",
+                fmt_int(p)
+            ),
+            Some(p) => format!(
+                "Value: ${}/sqft — differs. The Book's 'premium' tier \
+                 ($176–226/sqft); best value is $82–105.",
+                fmt_int(p)
+            ),
+        };
+        let price_note = if price <= 275_000.0 {
+            format!(
+                "Price: {} — matches. Inside the Book's honest band \
+                 ($250,000–$275,000 at the 28% rule on $100K income).",
+                fmt_money(price)
+            )
+        } else {
+            format!(
+                "Price: {} — partial. Above the Book's honest band \
+                 ($250,000–$275,000) but under its 28% ceiling ($301,000).",
+                fmt_money(price)
+            )
+        };
+        let tax_note = if tax_rate <= 2.29 {
+            format!(
+                "Tax: {tax_rate:.2}% total (area rate) — matches. Inside the \
+                 Book's watch-area range (1.73–2.29%)."
+            )
+        } else if tax_rate < 3.00 {
+            format!(
+                "Tax: {tax_rate:.2}% total (area rate) — partial. Above the \
+                 Book's watch-area range (1.73–2.29%); new-MUD communities run 2.2–3.7%."
+            )
+        } else if tax_rate < 3.50 {
+            format!(
+                "Tax: {tax_rate:.2}% total (area rate) — differs. Above the \
+                 Book's watch-area range (1.73–2.29%)."
+            )
+        } else {
+            format!(
+                "Tax: {tax_rate:.2}% total (area rate) — differs. Well above \
+                 the Book's watch-area range (1.73–2.29%)."
+            )
+        };
+
         let mut obj: Map<String, Value> = match listing.as_object() {
             Some(m) => m.clone(),
             None => {
@@ -252,6 +444,22 @@ fn main() -> ExitCode {
         if let Some(p) = ppsf {
             obj.insert("ppsf".into(), json!(p));
         }
+        obj.insert(
+            "bookMatch".into(),
+            json!({
+                "score": book_score,
+                "band": book_band,
+                "estimated": book_estimated,
+                "sizeFlag": size_flag,
+                "components": {
+                    "size_fit": size_pts,
+                    "value": value_pts,
+                    "price_band": price_pts,
+                    "tax": tax_pts
+                },
+                "notes": [size_note, value_note, price_note, tax_note]
+            }),
+        );
         obj.insert(
             "scores".into(),
             json!({
@@ -367,6 +575,7 @@ fn main() -> ExitCode {
                 "version": "HomeBase Scoring v1 (2026-10-25)",
                 "composite_formula": "Composite = 0.60*DealScore + 0.15*(SchoolAccess_0_10*10) + 0.15*HighwayAccess + 0.10*GrocerAccess",
                 "deal_formula": "Deal = 0.25*Value + 0.25*CarryingCost + 0.20*FloodWind + 0.10*Momentum + 0.10*Schools + 0.10*Liquidity; all components 0-100, clamped",
+                "book_match": "Book Match (2026-11-18): size fit 40 + $/sqft value tier 25 + price band 15 + tax 20 = 100, per The Houston Book Edition 2; bands 80+ Strong Book match, 60+ Good, 40+ Partial, under 40 Off-Book; size flags Small under 1,600 sqft, Large 2,800+ sqft; see docs/SCORING.md §10",
                 "anchor_price_usd": w.anchor_price_usd,
                 "down_payment_usd": w.down_payment_usd,
                 "income_usd": w.income_usd,

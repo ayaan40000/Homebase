@@ -1,5 +1,34 @@
 # Changelog
 
+## 2026-11-18 — Book Match rating, size flags, per-listing Book notes
+
+Owner-ordered: every listing now carries a rating of how well it matches
+*The Houston Book, Edition 2*, an indication for abnormally small or large
+homes, and a point-wise note on how it matches and differs from the Book.
+
+- **Scorer (`scorer/src/main.rs`):** new per-listing `bookMatch` object,
+  computed on every run — score 0–100 from Size fit 40 (Book's recommended
+  2,800–3,700 sqft) + Value 25 (Ch 16 $/sqft tiers) + Price band 15
+  (honest band $250K–$275K) + Tax 20 (area total vs the Book's 1.73–2.29%
+  watch-area range). Bands: 80+ "Strong Book match", 60–79 "Good",
+  40–59 "Partial", under 40 "Off-Book". A listing with no size in the
+  source is pro-rated on the remaining components and flagged estimated
+  (2 listings). **Size flags** from sqft alone: Small under 1,600, Large
+  at 2,800+. **Notes:** four generated bullets per listing (size, value,
+  price, tax), each with the listing's figure, a matches / partial /
+  differs verdict and the Book figure — stored in the record, regenerated
+  every run, never hand-edited. Definition: `docs/SCORING.md` §10.
+- **App:** Book Match caption under the deal ring on every card (asterisk
+  when estimated), Small / Large badge on the card, a "Book" column in
+  table view, a collapsed-by-default "Book match" section in the detail
+  view (component points + the four note bullets), and a "Book Match:
+  highest first" sort in Explore.
+- **First distribution (139 listings):** Strong 3 · Good 36 · Partial 98 ·
+  Off-Book 2; 40 Small flags, 2 Large. Top by Book Match: 7326 Audubon
+  Russet Dr, Richmond — 94 ($290,000, 3,028 sqft, $96/sqft).
+- **`CLAUDE.md`** added at the repo root: the project handoff brief for
+  Claude (also filed in the goal workspace).
+
 ## 2026-11-18 — Watch expands to eleven ZIPs (owner's decision)
 
 Acting on the coverage audit below, the owner added four ZIPs to the home
