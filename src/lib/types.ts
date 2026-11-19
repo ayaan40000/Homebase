@@ -161,21 +161,43 @@ export interface TopPick {
   status_caution?: string
 }
 
-export const AREAS = ['Stafford', 'Richmond', 'Katy', 'Cypress'] as const
+export const AREAS = [
+  'Stafford',
+  'Richmond',
+  'Katy',
+  'Cypress',
+  'Rosenberg',
+  'Missouri City',
+  'Fresno',
+  'Needville',
+] as const
 
 export const AREA_COLORS: Record<string, string> = {
   Stafford: '#C9A86A',
   Richmond: '#3EC6B8',
   Katy: '#6EA8E1',
   Cypress: '#A78BDB',
+  Rosenberg: '#E39A5F',
+  'Missouri City': '#64B98A',
+  Fresno: '#C97B9A',
+  Needville: '#9AA86B',
 }
 
-/** Area-level book scores (Edition 2, Ch 20B) — also used as AreaBattle filters. */
+/**
+ * Area-level book scores (Edition 2, Ch 20B) — also used as AreaBattle filters.
+ * Rosenberg uses the Book's Richmond figure (the Book groups them). Missouri
+ * City, Fresno and Needville are extension estimates (scoring model §10,
+ * 2026-11-18) — the Book does not score those areas separately.
+ */
 export const AREA_BOOK_SCORES: Record<string, number> = {
   Stafford: 75.6,
   Richmond: 68.3,
   Katy: 67.1,
   Cypress: 64.1,
+  Rosenberg: 68.3,
+  'Missouri City': 73.0,
+  Fresno: 70.0,
+  Needville: 60.0,
 }
 
 export const AREA_SCHOOL_ACCESS: Record<string, number> = {
@@ -183,6 +205,10 @@ export const AREA_SCHOOL_ACCESS: Record<string, number> = {
   Katy: 8.25,
   Cypress: 8.25,
   Richmond: 5.75,
+  Rosenberg: 5.75,
+  'Missouri City': 8.5,
+  Fresno: 8.5,
+  Needville: 5.0,
 }
 
 export function bandFor(score: number | null): { label: string; color: string } {

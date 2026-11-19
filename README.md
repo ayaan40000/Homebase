@@ -35,14 +35,16 @@ counterpart.
   `data/delta-history.json`). These are the same numbers the Wednesday and
   Sunday run reports lead with — one delta, three readers.
 - **Beyond the watch (Coverage)** — a static coverage-audit view (audited
-  Nov 18, 2026): a schematic map of the seven watched ZIPs plus the 13
+  Nov 18, 2026): a schematic map of the watched ZIPs plus the 13
   adjacent ZIPs checked for the same in-band new construction the footprint
   misses — prompted by Lennar's Cobb plan at Monarch Landing, Needville
-  77461, which sits outside the scanned ZIPs. Each adjacent area is
+  77461, which sat outside the scanned ZIPs. Each adjacent area is
   colour-coded by verdict (real miss / marginal / correctly out) with its
   district, total tax rate, notable communities and starting prices.
-  Informational only — it carries no listing data and changes no watch
-  scope.
+  Informational only — it carries no listing data. **Update (Nov 18, 2026,
+  owner's decision):** Rosenberg 77471, Fresno 77545, Missouri City 77459
+  and Needville 77461 were added to the watch — the view now shows them as
+  watched, and the watch scans eleven ZIPs.
 - **Charter school access** — the Edition 2 rule ("Plan on the zoned campus. A
   charter seat is lottery upside, never the plan"), enrolment deadlines with
   live countdowns, the Harmony and KIPP campuses in the model, and the zoned

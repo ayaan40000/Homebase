@@ -5,9 +5,15 @@
  *
  * Why this exists: a TikTok flyer for a $235K "Richmond" home turned out to
  * be Lennar's Cobb plan at Monarch Landing, Needville 77461 — outside the
- * watch's seven ZIPs (77477, 77489, 77450, 77429, 77406, 77407, 77469).
- * This view maps the adjacent ring the watch does not scan, so a coverage
- * gap is a visible finding, not a silent one.
+ * watch's original seven ZIPs (77477, 77489, 77450, 77429, 77406, 77407,
+ * 77469). This view maps the adjacent ring the watch did not scan, so a
+ * coverage gap is a visible finding, not a silent one.
+ *
+ * Update 2026-11-18 (owner's decision): 77471 Rosenberg, 77545 Fresno,
+ * 77459 Missouri City and 77461 Needville were added to the watch the same
+ * day the audit published. They render below as "Added to the watch" and
+ * as watched ground on the map; the remaining cards are the areas still
+ * outside the eleven-ZIP footprint.
  *
  * Distances are straight-line from Stafford 77477 (ZIP/post-office
  * centroids). Drive times are estimates and are labelled unverified.
@@ -15,7 +21,7 @@
  * unless a line says "district-only".
  */
 
-type Verdict = 'miss' | 'marginal' | 'out'
+type Verdict = 'miss' | 'marginal' | 'out' | 'added'
 
 interface AdjacentArea {
   zip: string
@@ -38,8 +44,8 @@ const ADJACENT: AdjacentArea[] = [
   {
     zip: '77471',
     town: 'Rosenberg',
-    verdict: 'miss',
-    verdictLabel: 'Real miss',
+    verdict: 'added',
+    verdictLabel: 'Added to the watch · Nov 18, 2026',
     direction: 'West',
     miles: 14.9,
     drive: '~26 min',
@@ -49,7 +55,7 @@ const ADJACENT: AdjacentArea[] = [
       { name: 'Holly Ridge', builder: 'D.R. Horton', price: 'from $239,990' },
       { name: 'Milo Farms', builder: 'D.R. Horton', price: 'from $239,990' },
     ],
-    note: 'The closest real miss. Both communities start below the band floor with move-in-ready homes inside $250K–$300K. (Some "Rosenberg" communities carry 77469 addresses the watch already sees; 77471 proper is not scanned.)',
+    note: 'The closest real miss. Both communities start below the band floor with move-in-ready homes inside $250K–$300K. (Some "Rosenberg" communities carry 77469 addresses the watch already saw; 77471 proper was not scanned until it was added on Nov 18, 2026.)',
     lat: 29.557,
     lon: -95.808,
     labelSide: 'end',
@@ -57,8 +63,8 @@ const ADJACENT: AdjacentArea[] = [
   {
     zip: '77545',
     town: 'Fresno',
-    verdict: 'miss',
-    verdictLabel: 'Real miss',
+    verdict: 'added',
+    verdictLabel: 'Added to the watch · Nov 18, 2026',
     direction: 'Southeast',
     miles: 8.5,
     drive: '~20–25 min',
@@ -76,8 +82,8 @@ const ADJACENT: AdjacentArea[] = [
   {
     zip: '77459',
     town: 'Missouri City',
-    verdict: 'miss',
-    verdictLabel: 'Real miss',
+    verdict: 'added',
+    verdictLabel: 'Added to the watch · Nov 18, 2026',
     direction: 'Southeast · next door',
     miles: 6.3,
     drive: '~15–20 min',
@@ -87,7 +93,7 @@ const ADJACENT: AdjacentArea[] = [
       { name: 'Parkway Commons', builder: 'Meritage Homes', price: 'from $249,990' },
       { name: 'Sienna', builder: 'multiple', price: 'from ~$328,000 — above band' },
     ],
-    note: 'Sienna alone would be correctly out — its floor is ~$328K. Parkway Commons, in northern 77459 near the Fort Bend Parkway, is real in-band new construction the watch never sees.',
+    note: 'Sienna alone would be correctly out — its floor is ~$328K. Parkway Commons, in northern 77459 near the Fort Bend Parkway, is real in-band new construction the watch never saw — 77459 was added on Nov 18, 2026.',
     lat: 29.53,
     lon: -95.5,
     labelSide: 'start',
@@ -95,8 +101,8 @@ const ADJACENT: AdjacentArea[] = [
   {
     zip: '77461',
     town: 'Needville',
-    verdict: 'miss',
-    verdictLabel: 'Real miss',
+    verdict: 'added',
+    verdictLabel: 'Added to the watch · Nov 18, 2026',
     direction: 'South',
     miles: 22.6,
     drive: '~35–45 min',
@@ -282,7 +288,7 @@ const ADJACENT: AdjacentArea[] = [
   },
 ]
 
-/** The seven watched ZIPs — shown as covered ground on the map. */
+/** The eleven watched ZIPs — shown as covered ground on the map. */
 const WATCHED: Array<{ zip: string; town: string; lat: number; lon: number; labelSide: 'start' | 'end' }> = [
   { zip: '77489', town: 'Missouri City', lat: 29.648, lon: -95.506, labelSide: 'start' },
   { zip: '77450', town: 'Katy', lat: 29.786, lon: -95.803, labelSide: 'end' },
@@ -290,6 +296,10 @@ const WATCHED: Array<{ zip: string; town: string; lat: number; lon: number; labe
   { zip: '77406', town: 'Richmond', lat: 29.6, lon: -95.75, labelSide: 'end' },
   { zip: '77407', town: 'Richmond', lat: 29.53, lon: -95.78, labelSide: 'end' },
   { zip: '77469', town: 'Richmond', lat: 29.52, lon: -95.65, labelSide: 'start' },
+  { zip: '77471', town: 'Rosenberg', lat: 29.557, lon: -95.808, labelSide: 'end' },
+  { zip: '77459', town: 'Missouri City', lat: 29.53, lon: -95.5, labelSide: 'start' },
+  { zip: '77545', town: 'Fresno', lat: 29.545, lon: -95.44, labelSide: 'start' },
+  { zip: '77461', town: 'Needville', lat: 29.39, lon: -95.85, labelSide: 'end' },
 ]
 
 const STAFFORD = { lat: 29.616, lon: -95.558 }
@@ -300,11 +310,13 @@ const VERDICT_FILL: Record<Verdict, string> = {
   miss: '#E8C87E',
   marginal: '#6EA8E1',
   out: '#0A0E13',
+  added: '#3EC6B8',
 }
 const VERDICT_STROKE: Record<Verdict, string> = {
   miss: '#E8C87E',
   marginal: '#6EA8E1',
   out: '#718094',
+  added: '#3EC6B8',
 }
 
 function project(lat: number, lon: number): [number, number] {
@@ -369,8 +381,8 @@ function CoverageMap() {
         )
       })}
 
-      {/* Adjacent audited areas */}
-      {ADJACENT.map((a) => {
+      {/* Adjacent audited areas still outside the watch */}
+      {ADJACENT.filter((a) => a.verdict !== 'added').map((a) => {
         const [x, y] = project(a.lat, a.lon)
         const anchor = a.labelSide
         const tx = anchor === 'start' ? x + 13 : x - 13
@@ -492,6 +504,7 @@ function AreaCard({ area }: { area: AdjacentArea }) {
 }
 
 export default function CoverageView() {
+  const added = ADJACENT.filter((a) => a.verdict === 'added')
   const misses = ADJACENT.filter((a) => a.verdict === 'miss')
   const marginal = ADJACENT.filter((a) => a.verdict === 'marginal')
   const out = ADJACENT.filter((a) => a.verdict === 'out')
@@ -499,12 +512,14 @@ export default function CoverageView() {
     <div className="coverage-view-inner">
       <header className="view-header">
         <h2 className="view-title">Beyond the watch</h2>
-        <span className="view-header-meta mono">Coverage audit · Nov 18, 2026</span>
+        <span className="view-header-meta mono">Coverage audit · Nov 18, 2026 · updated Nov 18, 2026 — four ZIPs added to the watch</span>
       </header>
       <p className="areas-intro">
-        The watch scans seven ZIPs. A “Richmond” flyer for Lennar’s Cobb plan turned out to sit in
-        Needville — real in-band homes the scans never see. This is the audit of the ring around
-        the footprint: 13 adjacent ZIPs checked for the same pattern.
+        The watch scanned seven ZIPs when this audit ran. A “Richmond” flyer for Lennar’s Cobb
+        plan turned out to sit in Needville — real in-band homes the scans never saw. This is
+        the audit of the ring around the footprint: 13 adjacent ZIPs checked for the same
+        pattern. Four of them joined the watch on Nov 18, 2026 (owner’s decision); the watch
+        now scans eleven ZIPs.
       </p>
 
       <div className="cov-map-wrap">
@@ -523,7 +538,12 @@ export default function CoverageView() {
         different figure: Fort Bend ISD is 0.9869% on its own.
       </p>
 
-      <h3 className="cov-section-title">Real misses — in-band new construction outside the footprint</h3>
+      <h3 className="cov-section-title">Added to the watch — Nov 18, 2026 (owner’s decision)</h3>
+      {added.map((a) => (
+        <AreaCard key={a.zip} area={a} />
+      ))}
+
+      <h3 className="cov-section-title">Real misses — in-band new construction still outside the footprint</h3>
       {misses.map((a) => (
         <AreaCard key={a.zip} area={a} />
       ))}
@@ -539,9 +559,11 @@ export default function CoverageView() {
       ))}
 
       <p className="cov-footer mono">
-        Coverage audit · audited Nov 18, 2026 · Community-level evidence from builder pages, HAR
-        listings and district/county sources. Starting prices move with inventory and incentives.
-        Nothing here changes the watch — adding a ZIP is an owner decision.
+        Coverage audit · audited Nov 18, 2026 · updated Nov 18, 2026 · Community-level evidence
+        from builder pages, HAR listings and district/county sources. Starting prices move with
+        inventory and incentives. Rosenberg 77471, Fresno 77545, Missouri City 77459 and
+        Needville 77461 were added to the watch on Nov 18, 2026 by owner decision; the other
+        areas on this page remain outside it.
       </p>
     </div>
   )

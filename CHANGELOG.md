@@ -1,5 +1,29 @@
 # Changelog
 
+## 2026-11-18 — Watch expands to eleven ZIPs (owner's decision)
+
+Acting on the coverage audit below, the owner added four ZIPs to the home
+watch the same day: **77471 Rosenberg, 77545 Fresno, 77459 Missouri City,
+77461 Needville**. The watch now scans eleven ZIPs.
+
+- **Coverage view:** the four ZIPs no longer render as "beyond the watch" —
+  they appear as watched ground on the map and in a new "Added to the
+  watch — Nov 18, 2026" card section; the audit stamp line records the
+  update. The remaining nine audited ZIPs stay outside the footprint.
+- **Scorer:** `scorer/weights.json` gains the four areas (parameters in the
+  scoring model §10, goal workspace): Rosenberg (Lamar CISD, Book school
+  access 5.75, total tax 2.75%), Missouri City (Fort Bend ISD, Book school
+  access 8.5, total tax 2.60% est), Fresno (Fort Bend ISD, school access
+  8.5 est, total tax 3.00%), Needville (Needville ISD 1.2869% — Fort Bend
+  CAD 2025 — total tax 3.55% at Monarch Landing, which clamps its
+  carrying-cost component to 0 by design).
+- **App area tables** (`src/lib/types.ts`): AREAS, colours, book scores and
+  school access now include Rosenberg, Missouri City, Fresno and Needville,
+  so the new areas filter, colour and battle like the original four.
+- The watch's governing records (GOAL.md scope section, shortlist scan
+  rules, both scan crons) were updated in the goal workspace in the same
+  change; all other watch rules are unchanged.
+
 ## 2026-11-18 — Coverage audit view: "Beyond the watch"
 
 Owner-requested after a TikTok flyer for a "Richmond" home turned out to
