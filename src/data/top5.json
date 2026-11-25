@@ -1,9 +1,53 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-25",
  "method": "Ranked by Composite Home Score desc; tie-break lower price, then lower DOM (null DOM last); 'flip'-flagged listings excluded (none in current data).",
  "top5": [
   {
    "rank": 1,
+   "address": "3322 Aegean Dr, Missouri City 77459",
+   "area": "Missouri City",
+   "subdivision": "Olympia Estates Ph 1 Sec 3",
+   "price": 299000,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 2301,
+   "year": 2010,
+   "dom": null,
+   "ppsf": 130,
+   "url": "https://www.har.com/homedetail/3322-aegean-dr-missouri-city-tx-77459/8533169",
+   "composite_home_score": 73.4,
+   "deal_score": 63.5,
+   "est_monthly_piti_usd": 2271.42,
+   "front_end_ratio_pct": 27.26,
+   "flags": [
+    "new"
+   ],
+   "reason": "Composite 73.4 (Deal 63.5): $130/sqft; built 2010."
+  },
+  {
+   "rank": 2,
+   "address": "1531 Noble Park Dr, Missouri City 77459",
+   "area": "Missouri City",
+   "subdivision": "Sienna Sec 44",
+   "price": 299900,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 2198,
+   "year": 2024,
+   "dom": null,
+   "ppsf": 136,
+   "url": "https://www.har.com/homedetail/1531-noble-park-dr-missouri-city-tx-77459/16567608",
+   "composite_home_score": 71.7,
+   "deal_score": 60.8,
+   "est_monthly_piti_usd": 2279.55,
+   "front_end_ratio_pct": 27.35,
+   "flags": [
+    "new"
+   ],
+   "reason": "Composite 71.7 (Deal 60.8): $136/sqft; built 2024."
+  },
+  {
+   "rank": 3,
    "address": "16919 Midnight Dawn Dr, Richmond, TX 77407",
    "area": "Richmond",
    "subdivision": "Withers Ridge",
@@ -23,10 +67,10 @@
     "new",
     "price-cut"
    ],
-   "reason": "Composite 70.3 (Deal 74.4): $123/sqft; new, price-cut flag; DOM 18; built 2006."
+   "reason": "Composite 70.3 (Deal 74.4): $123/sqft; price-cut flag; DOM 18; built 2006."
   },
   {
-   "rank": 2,
+   "rank": 4,
    "address": "5219 Santa Cruz Bay, Richmond 77469",
    "area": "Richmond",
    "subdivision": "Esperanza, Needville Area",
@@ -46,10 +90,10 @@
     "new",
     "price-cut"
    ],
-   "reason": "Composite 70.3 (Deal 74.4): $120/sqft; new, price-cut flag; DOM 24; built 2026."
+   "reason": "Composite 70.3 (Deal 74.4): $120/sqft; price-cut flag; DOM 24; built 2026."
   },
   {
-   "rank": 3,
+   "rank": 5,
    "address": "3802 Cloudbluff Ln, Richmond, TX 77469",
    "area": "Richmond",
    "subdivision": "Sunrise Meadow Sec 1",
@@ -69,53 +113,7 @@
     "price-cut",
     "incomplete"
    ],
-   "reason": "Composite 69.4 (Deal 73.0): $124/sqft; price-cut, incomplete flag; DOM 49; built 2006."
-  },
-  {
-   "rank": 4,
-   "address": "5506 Dovish Brook Ln, Richmond, TX 77469",
-   "area": "Richmond",
-   "subdivision": "Still Creek Ranch",
-   "price": 275990,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1970,
-   "year": 2026,
-   "dom": 31,
-   "ppsf": 140,
-   "url": "https://www.har.com/homedetail/5506-dovish-brook-ln-richmond-tx-77469/17684984",
-   "composite_home_score": 67.5,
-   "deal_score": 69.9,
-   "est_monthly_piti_usd": 1973.54,
-   "front_end_ratio_pct": 23.68,
-   "flags": [
-    "new",
-    "price-cut"
-   ],
-   "reason": "Composite 67.5 (Deal 69.9): $140/sqft; new, price-cut flag; DOM 31; built 2026."
-  },
-  {
-   "rank": 5,
-   "address": "5215 Santa Cruz Bay, Richmond 77469",
-   "area": "Richmond",
-   "subdivision": "Esperanza, Needville Area",
-   "price": 268990,
-   "beds": 5,
-   "baths": 3.0,
-   "sqft": 2637,
-   "year": 2026,
-   "dom": null,
-   "ppsf": 102,
-   "url": "https://www.zillow.com/homedetails/5215-Santa-Cruz-Bay-Richmond-TX-77469/465489225_zpid/",
-   "composite_home_score": 67.3,
-   "deal_score": 69.4,
-   "est_monthly_piti_usd": 1912.09,
-   "front_end_ratio_pct": 22.95,
-   "flags": [
-    "price-cut"
-   ],
-   "reason": "Composite 67.3 (Deal 69.4): $102/sqft; price-cut flag; built 2026.",
-   "status_caution": "Under Contract \u2014 verify status (source highlight)"
+   "reason": "Composite 69.4 (Deal 73.0): $124/sqft; price-cut flag; DOM 49; built 2006."
   }
  ]
 }

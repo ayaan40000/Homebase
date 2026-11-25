@@ -1,12 +1,12 @@
 {
- "runDate": "2026-11-18",
+ "runDate": "2026-11-25",
  "sources": {
-  "HAR": "first scan of the four ZIPs added 2026-11-18 (77471, 77545, 77459, 77461): 64 in-band listings examined across HAR, Redfin and MLS-mirror pages via text fetch; 23 added, 26 excluded (5 pending, 9 below floor, 7 above band, 3 pre-2006, 2 off-market/unconfirmed, 1 plan-only group)",
-  "Zillow": "direct fetch denied by PerimeterX \u2014 Zillow facts taken from search-index snippets (crawls Oct\u2013Nov 2026), cross-checked against HAR/Redfin/MLS mirrors where available",
-  "Redfin": "detail pages used for status checks in the new ZIPs \u2014 4914 Little Metalmark Dr (77461) excluded as pending on Redfin's Nov 16 update, overriding HAR's Nov 12 For Sale crawl"
+  "HAR": "Mid-week light refresh: full sweep of all 11 ZIPs in the $250K-$300K SFH band, list-date desc, list view — 560 cards read (77469: 102, 77406: 44, 77407: 42, 77477: 13, 77489: 49, 77450: 48, 77429: 53, 77471: 70, 77459: 54, 77545: 30, 77461: 55), no bot block or captcha. Detail pages opened for 10 listings absent from the sweep: 5 confirmed sold, 1 cut below band, 1 not for sale, 2 still for sale. No new discovery this run — 315 sweep rows not on the board held for Sunday screening.",
+  "Zillow": "Best-effort / detail-only this run. Detail check for 7918 Elk Grove Ln (Richmond 77469) was sign-in-gated (listing masked, no price/status shown); listing retained, last verified stays 2026-11-07.",
+  "Redfin": "Detail checks for the 2 Redfin-sourced listings absent from the HAR sweep: 3330 Brushy Marsh Dr (Richmond 77406) still for sale $299,000, FSBO, DOM 149; 6734 Papillon Ln (Needville 77461) still for sale $285,990, DOM 8."
  },
- "listings": 139,
- "domFilled": 102,
- "floodFilled": 2,
- "summary": "New-ZIP first scan (77471/77545/77459/77461) \u00b7 HAR + Redfin + MLS mirrors \u00b7 Zillow snippets only \u00b7 DOM 102/139 \u00b7 Flood 2/139"
+ "listings": 252,
+ "domFilled": 98,
+ "floodFilled": 3,
+ "summary": "Mid-week refresh Nov 25, 2026 · HAR sweep 560 cards, all 11 ZIPs, no block · 10 detail checks (5 sold, 1 below band, 1 off-market, 2 verified active, 1 Zillow-gated) · 252 listings · DOM 98/252 · Flood 3/252"
 }

@@ -1,125 +1,848 @@
 {
- "generated": "2026-11-18",
- "previousCount": 116,
- "currentCount": 139,
+ "generated": "2026-11-25",
+ "previousCount": 139,
+ "currentCount": 252,
  "added": [
   {
-   "address": "4826 Little Metalmark Dr, Needville 77461",
-   "url": "https://www.lennar.com/new-homes/texas/houston/needville/monarch-landing6/majors-collection#home-4826-little-metalmark-dr",
-   "price": 266990
+   "address": "7805 S Country Space Loop, Richmond 77469",
+   "url": "https://www.har.com/homedetail/7805-s-country-space-loop-richmond-tx-77469/14933370",
+   "price": 255000
   },
   {
-   "address": "4926 Little Metalmark Dr, Needville 77461",
-   "url": "https://www.lennar.com/new-homes/texas/houston/needville/monarch-landing6/majors-collection#home-4926-little-metalmark-dr",
-   "price": 272990
+   "address": "4811 Evening Place Ln, Richmond 77469",
+   "url": "https://www.har.com/homedetail/4811-evening-place-ln-richmond-tx-77469/12360537",
+   "price": 260000
   },
   {
-   "address": "4822 Little Metalmark Dr, Needville 77461",
-   "url": "https://www.redfin.com/TX/Needville/4822-Little-Metalmark-Dr-77461/home/204869383",
-   "price": 288990
+   "address": "8414 Hidalgo Dr, Rosenberg 77469",
+   "url": "https://www.har.com/homedetail/8414-hidalgo-dr-rosenberg-tx-77469/10514951",
+   "price": 299900
   },
   {
-   "address": "6518 Little Yellow Ct, Needville 77461",
-   "url": "https://www.zillow.com/homedetails/6518-Little-Yellow-Ct-Needville-TX-77461/465320213_zpid/",
-   "price": 252990
+   "address": "7518 Keys Creek Ct, Richmond 77469",
+   "url": "https://www.har.com/homedetail/7518-keys-creek-ct-richmond-tx-77469/14931434",
+   "price": 299500
   },
   {
-   "address": "6906 Papillon Ln, Needville 77461",
-   "url": "https://www.zillow.com/homedetails/6906-Papillon-Ln-Needville-TX-77461/465240284_zpid/",
-   "price": 257990
+   "address": "4826 Hickory Deer Ln, Richmond 77406",
+   "url": "https://www.har.com/homedetail/4826-hickory-deer-ln-richmond-tx-77406/16079936",
+   "price": 299900
   },
   {
-   "address": "6902 Papillon Ln, Needville 77461",
-   "url": "https://www.zillow.com/homedetails/6902-Papillon-Ln-Needville-TX-77461/465240282_zpid/",
+   "address": "7819 Laurel Elm Ct, Richmond 77407",
+   "url": "https://www.har.com/homedetail/7819-laurel-elm-ct-richmond-tx-77407/14450904",
+   "price": 299990
+  },
+  {
+   "address": "5422 Marble Ravine Dr, Richmond 77407",
+   "url": "https://www.har.com/homedetail/5422-marble-ravine-dr-richmond-tx-77407/2434677",
+   "price": 299900
+  },
+  {
+   "address": "19139 Mission Manor Ln, Richmond 77407",
+   "url": "https://www.har.com/homedetail/19139-mission-manor-ln-richmond-tx-77407/2439092",
+   "price": 299900
+  },
+  {
+   "address": "18231 Sorrell Oaks Ln, Richmond 77407",
+   "url": "https://www.har.com/homedetail/18231-sorrell-oaks-ln-richmond-tx-77407/2510066",
+   "price": 299000
+  },
+  {
+   "address": "8911 Butterstone Ridge Ln, Richmond 77407",
+   "url": "https://www.har.com/homedetail/8911-butterstone-ridge-ln-richmond-tx-77407/8024868",
+   "price": 265000
+  },
+  {
+   "address": "6646 Elks Trce, Richmond 77406",
+   "url": "https://www.har.com/homedetail/6646-elks-trce-richmond-tx-77406/16079905",
+   "price": 299000
+  },
+  {
+   "address": "6734 Papillon Ln, Needville 77461",
+   "url": "https://www.redfin.com/TX/Needville/6734-Papillon-Ln-77461/home/204869880",
+   "price": 285990
+  },
+  {
+   "address": "1107 Desert Springs Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/1107-desert-springs-ln-rosenberg-tx-77471/11317949",
+   "price": 270000
+  },
+  {
+   "address": "3031 Tandem Ct, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/3031-tandem-ct-rosenberg-tx-77471/13716302",
+   "price": 265000
+  },
+  {
+   "address": "2518 Cedar Ridge Dr, Needville 77471",
+   "url": "https://www.har.com/homedetail/2518-cedar-ridge-dr-needville-tx-77471/17731267",
    "price": 267990
   },
   {
-   "address": "6819 Papillon Ln, Needville 77461",
-   "url": "https://www.zillow.com/homedetails/6819-Papillon-Ln-Needville-TX-77461/461684845_zpid/",
-   "price": 257990
+   "address": "1613 Jean Meadow Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/1613-jean-meadow-dr-rosenberg-tx-77471/17426499",
+   "price": 291900
   },
   {
-   "address": "2618 Starry Sky Ln, Rosenberg 77471",
-   "url": "https://www.newhomeprograms.com/homes/2618-Starry-Sky-Lane/Rosenberg/TX/77471/181544240/",
-   "price": 254990
-  },
-  {
-   "address": "6739 Canyon Breeze Dr, Rosenberg 77471",
-   "url": "https://www.newhomeprograms.com/homes/6739-Canyon-Breeze-Drive/Rosenberg/TX/77471/181305305/",
+   "address": "2626 Sunset Bluff Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2626-sunset-bluff-ln-rosenberg-tx-77471/17731240",
    "price": 259990
   },
   {
-   "address": "6855 Canyon Breeze Dr, Rosenberg 77471",
-   "url": "https://www.zillow.com/homedetails/6855-Canyon-Breeze-Dr-Rosenberg-TX-77471/465519249_zpid/",
+   "address": "1118 Millers Pass, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/1118-millers-pass-rosenberg-tx-77471/16228416",
+   "price": 259000
+  },
+  {
+   "address": "6226 Mason Way, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6226-mason-rosenberg-tx-77471/14436131",
+   "price": 300000
+  },
+  {
+   "address": "3410 Spanish Oak Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/3410-spanish-oak-ln-rosenberg-tx-77471/17058944",
+   "price": 289000
+  },
+  {
+   "address": "1627 Branley Trl, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/1627-branley-trl-rosenberg-tx-77471/17426483",
+   "price": 297900
+  },
+  {
+   "address": "2643 Sunset Bluff Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2643-sunset-bluff-ln-rosenberg-tx-77471/17688814",
+   "price": 299990
+  },
+  {
+   "address": "4614 Coopers Hill Trl, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/4614-coopers-hill-trl-rosenberg-tx-77471/13716319",
+   "price": 263000
+  },
+  {
+   "address": "3227 Fairhaven Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/3227-fairhaven-ln-rosenberg-tx-77471/15467114",
+   "price": 299900
+  },
+  {
+   "address": "2114 Bishop Hollow Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2114-bishop-hollow-ln-rosenberg-tx-77471/2427940",
+   "price": 269900
+  },
+  {
+   "address": "2538 Cedar Ridge Dr, Needville 77471",
+   "url": "https://www.har.com/homedetail/2538-cedar-ridge-dr-needville-tx-77471/17685822",
+   "price": 264990
+  },
+  {
+   "address": "2510 Cedar Ridge Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2510-cedar-ridge-dr-needville-tx-77471/17685124",
+   "price": 260990
+  },
+  {
+   "address": "2526 Cedar Ridge Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2526-cedar-ridge-dr-needville-tx-77471/17685125",
+   "price": 264990
+  },
+  {
+   "address": "2606 Starry Sky Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2606-starry-sky-ln-rosenberg-tx-77471/17682978",
+   "price": 288990
+  },
+  {
+   "address": "1335 Kane Ct, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/1335-kane-ct-rosenberg-tx-77471/10817358",
+   "price": 250000
+  },
+  {
+   "address": "6851 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6851-canyon-breeze-dr-rosenberg-tx-77471/17682959",
+   "price": 254990
+  },
+  {
+   "address": "2610 Starry Sky Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2610-starry-sky-ln-rosenberg-tx-77471/17667485",
+   "price": 299990
+  },
+  {
+   "address": "2622 Starry Sky Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2622-starry-sky-ln-rosenberg-tx-77471/17667524",
+   "price": 289990
+  },
+  {
+   "address": "6843 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6843-canyon-breeze-dr-rosenberg-tx-77471/17666706",
+   "price": 287990
+  },
+  {
+   "address": "6803 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6803-canyon-breeze-dr-rosenberg-tx-77471/17664487",
+   "price": 259990
+  },
+  {
+   "address": "6723 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6723-canyon-breeze-dr-rosenberg-tx-77471/17664511",
    "price": 279990
+  },
+  {
+   "address": "6811 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6811-canyon-breeze-dr-rosenberg-tx-77471/17664518",
+   "price": 292990
+  },
+  {
+   "address": "6807 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6807-canyon-breeze-dr-rosenberg-tx-77471/17664568",
+   "price": 299990
+  },
+  {
+   "address": "6827 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6827-canyon-breeze-dr-rosenberg-tx-77471/17664533",
+   "price": 282990
+  },
+  {
+   "address": "6839 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6839-canyon-breeze-dr-rosenberg-tx-77471/17664569",
+   "price": 294990
+  },
+  {
+   "address": "6819 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6819-canyon-breeze-dr-rosenberg-tx-77471/17664496",
+   "price": 289990
+  },
+  {
+   "address": "6743 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6743-canyon-breeze-dr-rosenberg-tx-77471/17664535",
+   "price": 279990
+  },
+  {
+   "address": "6823 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6823-canyon-breeze-dr-rosenberg-tx-77471/17663024",
+   "price": 254990
+  },
+  {
+   "address": "2630 Starry Sky Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2630-starry-sky-ln-rosenberg-tx-77471/17663038",
+   "price": 294990
+  },
+  {
+   "address": "6719 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6719-canyon-breeze-dr-rosenberg-tx-77471/17663009",
+   "price": 289990
+  },
+  {
+   "address": "2630 Sunset Bluff Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2630-sunset-bluff-ln-rosenberg-tx-77471/17663034",
+   "price": 264990
+  },
+  {
+   "address": "1312 Barton Creek Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/1312-barton-creek-ln-rosenberg-tx-77471/13161987",
+   "price": 279999
+  },
+  {
+   "address": "6714 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6714-canyon-breeze-dr-rosenberg-tx-77471/17659433",
+   "price": 259990
+  },
+  {
+   "address": "6711 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6711-canyon-breeze-dr-rosenberg-tx-77471/17659428",
+   "price": 269990
+  },
+  {
+   "address": "6802 Spur Creek Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6802-spur-creek-dr-rosenberg-tx-77471/17659423",
+   "price": 279990
+  },
+  {
+   "address": "2603 Magnolia Meadow Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2603-magnolia-meadow-ln-rosenberg-tx-77471/17657854",
+   "price": 259990
+  },
+  {
+   "address": "2014 Foxgate Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2014-foxgate-dr-rosenberg-tx-77471/2452603",
+   "price": 293500
+  },
+  {
+   "address": "6014 Watford Bnd, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6014-watford-bnd-rosenberg-tx-77471/9364474",
+   "price": 289000
+  },
+  {
+   "address": "4518 Antero Ct, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/4518-antero-ct-rosenberg-tx-77471/14433815",
+   "price": 279298
+  },
+  {
+   "address": "3414 Eden Valley Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/3414-eden-valley-ln-rosenberg-tx-77471/17059020",
+   "price": 299000
+  },
+  {
+   "address": "1134 Millers Pass, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/1134-millers-pass-rosenberg-tx-77471/16277626",
+   "price": 269000
+  },
+  {
+   "address": "2639 Magnolia Meadow Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2639-magnolia-meadow-ln-rosenberg-tx-77471/17642920",
+   "price": 274990
+  },
+  {
+   "address": "6726 Canyon Breeze Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6726-canyon-breeze-dr-rosenberg-tx-77471/17643111",
+   "price": 269990
+  },
+  {
+   "address": "4307 Greeley Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/4307-greeley-ln-rosenberg-tx-77471/14433851",
+   "price": 299000
+  },
+  {
+   "address": "2650 Starry Sky Ln, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2650-starry-sky-ln-rosenberg-tx-77471/17640225",
+   "price": 284990
+  },
+  {
+   "address": "6210 Mason Way, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/6210-mason-rosenberg-tx-77471/14436127",
+   "price": 259900
+  },
+  {
+   "address": "3327 Trail View Dr, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/3327-trail-view-dr-rosenberg-tx-77471/17058940",
+   "price": 299500
+  },
+  {
+   "address": "2102 Indian Clearing Trl, Rosenberg 77471",
+   "url": "https://www.har.com/homedetail/2102-indian-clearing-trl-rosenberg-tx-77471/2427328",
+   "price": 264900
+  },
+  {
+   "address": "3322 Aegean Dr, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/3322-aegean-dr-missouri-city-tx-77459/8533169",
+   "price": 299000
+  },
+  {
+   "address": "2106 Damasi Ln, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/2106-damasi-ln-missouri-city-tx-77459/16221646",
+   "price": 289900
+  },
+  {
+   "address": "3239 Aegean Dr, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/3239-aegean-dr-missouri-city-tx-77459/2472086",
+   "price": 277000
+  },
+  {
+   "address": "1718 Revolution Way, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/1718-revolution-way-missouri-city-tx-77459/17427595",
+   "price": 299990
+  },
+  {
+   "address": "1734 Revolution Way, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/1734-revolution-way-missouri-city-tx-77459/17427599",
+   "price": 299990
+  },
+  {
+   "address": "1702 Revolution Way, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/1702-revolution-way-missouri-city-tx-77459/17427591",
+   "price": 289990
+  },
+  {
+   "address": "1710 Revolution Way, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/1710-revolution-way-missouri-city-tx-77459/17427593",
+   "price": 294990
+  },
+  {
+   "address": "1706 Revolution Way, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/1706-revolution-way-missouri-city-tx-77459/17427592",
+   "price": 294990
+  },
+  {
+   "address": "1003 Cedar Place Ln, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/1003-cedar-place-ln-missouri-city-tx-77459/17647575",
+   "price": 289990
+  },
+  {
+   "address": "1034 Cedar Place Ln, Houston 77459",
+   "url": "https://www.har.com/homedetail/1034-cedar-place-ln-houston-tx-77459/17636886",
+   "price": 279690
+  },
+  {
+   "address": "1027 Cedar Place Ln, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/1027-cedar-place-ln-missouri-city-tx-77459/17630256",
+   "price": 294790
+  },
+  {
+   "address": "1531 Noble Park Dr, Missouri City 77459",
+   "url": "https://www.har.com/homedetail/1531-noble-park-dr-missouri-city-tx-77459/16567608",
+   "price": 299900
+  },
+  {
+   "address": "1719 Manchester Crossing Dr, Fresno 77545",
+   "url": "https://www.har.com/homedetail/1719-manchester-crossing-dr-fresno-tx-77545/2404777",
+   "price": 275000
+  },
+  {
+   "address": "4611 Monarch Blue Ln, Fresno 77545",
+   "url": "https://www.har.com/homedetail/4611-monarch-blue-ln-fresno-tx-77545/2390934",
+   "price": 299800
+  },
+  {
+   "address": "2414 Leadville Ct, Fresno 77545",
+   "url": "https://www.har.com/homedetail/2414-leadville-ct-fresno-tx-77545/2528727",
+   "price": 275000
+  },
+  {
+   "address": "5002 Natchez Trce, Arcola 77545",
+   "url": "https://www.har.com/homedetail/5002-natchez-trce-fresno-tx-77545/16085845",
+   "price": 280000
+  },
+  {
+   "address": "1006 Cove Crest Trl, Fresno 77545",
+   "url": "https://www.har.com/homedetail/1006-cove-crest-trl-fresno-tx-77545/10650954",
+   "price": 260000
+  },
+  {
+   "address": "3430 Danbury Chase Trl, Fresno 77545",
+   "url": "https://www.har.com/homedetail/3430-danbury-chase-trl-fresno-tx-77545/10434254",
+   "price": 295000
+  },
+  {
+   "address": "1722 Livadero Ln, Fresno 77545",
+   "url": "https://www.har.com/homedetail/1722-livadero-ln-fresno-tx-77545/17659237",
+   "price": 254995
+  },
+  {
+   "address": "1035 Vista Pointe Dr, Fresno 77545",
+   "url": "https://www.har.com/homedetail/1035-vista-pointe-dr-fresno-tx-77545/16727398",
+   "price": 299999
+  },
+  {
+   "address": "1947 Seville Mnr, Fresno 77545",
+   "url": "https://www.har.com/homedetail/1947-seville-mnr-fresno-tx-77545/13535715",
+   "price": 272900
+  },
+  {
+   "address": "1502 Chandler Park Ln, Fresno 77545",
+   "url": "https://www.har.com/homedetail/1502-chandler-park-ln-fresno-tx-77545/17648477",
+   "price": 254900
+  },
+  {
+   "address": "2703 Fawn Mountain Dr, Fresno 77545",
+   "url": "https://www.har.com/homedetail/2703-fawn-mountain-dr-fresno-tx-77545/14443430",
+   "price": 267500
+  },
+  {
+   "address": "4035 E Teal Estates Cir, Fresno 77545",
+   "url": "https://www.har.com/homedetail/4035-e-teal-estates-cir-fresno-tx-77545/2426691",
+   "price": 279000
+  },
+  {
+   "address": "3007 Cronus Way, Fresno 77545",
+   "url": "https://www.har.com/homedetail/3007-cronus-way-fresno-tx-77545/17567645",
+   "price": 279995
+  },
+  {
+   "address": "2211 Bright Sunrise Trl, Fresno 77545",
+   "url": "https://www.har.com/homedetail/2211-bright-sunrise-trl-fresno-tx-77545/15732225",
+   "price": 299900
+  },
+  {
+   "address": "4802 Little Metalmark Dr, Needville 77461",
+   "url": "https://www.har.com/homedetail/4802-little-metalmark-dr-needville-tx-77461/17752069",
+   "price": 298990
+  },
+  {
+   "address": "6723 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6723-sleepy-orange-ct-needville-tx-77461/17733219",
+   "price": 298990
+  },
+  {
+   "address": "4914 Little Metalmark Dr, Needville 77461",
+   "url": "https://www.har.com/homedetail/4914-little-metalmark-dr-needville-tx-77461/17731281",
+   "price": 252990
+  },
+  {
+   "address": "6914 Papillon Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/6914-papillon-ln-needville-tx-77461/17674602",
+   "price": 272990
+  },
+  {
+   "address": "8035 George Crest Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/8035-four-corners-rd-needville-tx-77461/17729902",
+   "price": 264990
+  },
+  {
+   "address": "8039 George Crest Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/8039-four-corners-rd-needville-tx-77461/17729936",
+   "price": 272990
+  },
+  {
+   "address": "8031 George Crest Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/8031-four-corners-rd-needville-tx-77461/17729915",
+   "price": 254990
+  },
+  {
+   "address": "8043 George Crest Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/8043-four-corners-rd-needville-tx-77461/17729926",
+   "price": 266990
+  },
+  {
+   "address": "12703 Sunny Fields Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/12703-sunny-fields-ln-needville-tx-77461/17426777",
+   "price": 297990
+  },
+  {
+   "address": "6926 Papillon Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/6926-papillon-ln-needville-tx-77461/17674608",
+   "price": 260990
+  },
+  {
+   "address": "6706 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6706-sleepy-orange-ct-needville-tx-77461/17690593",
+   "price": 267990
+  },
+  {
+   "address": "6919 Papillon Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/6919-papillon-ln-needville-tx-77461/17674605",
+   "price": 257900
+  },
+  {
+   "address": "6807 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6807-sleepy-orange-ct-needville-tx-77461/17690170",
+   "price": 253990
+  },
+  {
+   "address": "6915 Papillon Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/6915-papillon-ln-needville-tx-77461/17674603",
+   "price": 273990
+  },
+  {
+   "address": "6715 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6715-sleepy-orange-ct-needville-tx-77461/17690169",
+   "price": 258990
+  },
+  {
+   "address": "6711 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6711-sleepy-orange-ct-needville-tx-77461/17688003",
+   "price": 284990
+  },
+  {
+   "address": "8023 George Crest Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/8023-four-corners-rd-needville-tx-77461/17685585",
+   "price": 269990
+  },
+  {
+   "address": "6918 Papillon Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/6918-papillon-ln-needville-tx-77461/17674604",
+   "price": 259990
+  },
+  {
+   "address": "6703 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6703-sleepy-orange-ct-needville-tx-77461/17667130",
+   "price": 268990
+  },
+  {
+   "address": "6707 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6707-sleepy-orange-ct-needville-tx-77461/17667131",
+   "price": 263990
+  },
+  {
+   "address": "3635 Needville Ave, Needville 77461",
+   "url": "https://www.har.com/homedetail/3635-needville-ave-needville-tx-77461/9995165",
+   "price": 299000
+  },
+  {
+   "address": "6502 Little Yellow Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6502-little-yellow-ct-needville-tx-77461/17666344",
+   "price": 291990
+  },
+  {
+   "address": "11131 Caddo Maple Way, Needville 77461",
+   "url": "https://www.har.com/homedetail/11131-caddo-maple-way-needville-tx-77461/17666322",
+   "price": 294990
+  },
+  {
+   "address": "8059 George Crest Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/8059-four-corners-rd-needville-tx-77461/17664075",
+   "price": 259990
+  },
+  {
+   "address": "8055 George Crest Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/8055-four-corners-rd-needville-tx-77461/17664057",
+   "price": 270990
+  },
+  {
+   "address": "8047 George Crest Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/8047-four-corners-rd-needville-tx-77461/17664118",
+   "price": 257990
+  },
+  {
+   "address": "6619 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6619-sleepy-orange-ct-needville-tx-77461/17658033",
+   "price": 292990
+  },
+  {
+   "address": "6710 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6710-sleepy-orange-ct-needville-tx-77461/17658133",
+   "price": 272990
+  },
+  {
+   "address": "11127 Caddo Maple Way, Needville 77461",
+   "url": "https://www.har.com/homedetail/11127-caddo-maple-way-needville-tx-77461/17655953",
+   "price": 274990
+  },
+  {
+   "address": "11111 August Sunset Dr, Needville 77461",
+   "url": "https://www.har.com/homedetail/11111-four-corners-rd-needville-tx-77461/17655479",
+   "price": 294990
+  },
+  {
+   "address": "11119 August Sunset Dr, Needville 77461",
+   "url": "https://www.har.com/homedetail/11119-four-corners-rd-needville-tx-77461/17655612",
+   "price": 289990
+  },
+  {
+   "address": "12839 Sunny Fields Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/12839-sunny-fields-ln-needville-tx-77461/17426792",
+   "price": 296957
+  },
+  {
+   "address": "6627 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6627-sleepy-orange-ct-needville-tx-77461/17644872",
+   "price": 293990
+  },
+  {
+   "address": "6623 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6623-sleepy-orange-ct-needville-tx-77461/17643442",
+   "price": 274990
+  },
+  {
+   "address": "6615 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6615-sleepy-orange-ct-needville-tx-77461/17634395",
+   "price": 257990
+  },
+  {
+   "address": "14206 Golden Wheat Ln, Needville 77461",
+   "url": "https://www.har.com/homedetail/14206-golden-wheat-ln-needville-tx-77461/17426813",
+   "price": 279990
+  },
+  {
+   "address": "6618 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6618-sleepy-orange-ct-needville-tx-77461/17626644",
+   "price": 278490
+  },
+  {
+   "address": "6515 Little Yellow Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6515-little-yellow-ct-needville-tx-77461/17626067",
+   "price": 297990
+  },
+  {
+   "address": "6614 Sleepy Orange Ct, Needville 77461",
+   "url": "https://www.har.com/homedetail/6614-sleepy-orange-ct-needville-tx-77461/17613786",
+   "price": 263990
+  },
+  {
+   "address": "14225 W Richmond St, Needville 77461",
+   "url": "https://www.har.com/homedetail/14225-w-richmond-st-needville-tx-77461/16954437",
+   "price": 260000
+  }
+ ],
+ "removed": [
+  {
+   "address": "912 Sweet Pine Dr, Katy 77450",
+   "url": "https://www.zillow.com/homedetails/912-Sweet-Pine-Dr-Katy-TX-77450/118405126_zpid/",
+   "price": 285000
+  },
+  {
+   "address": "20123 Larkspur Lndg, Richmond 77407",
+   "url": "https://www.zillow.com/homedetails/20123-Larkspur-Lndg-Richmond-TX-77407/72062652_zpid/",
+   "price": 259000
+  },
+  {
+   "address": "8143 Vacek Meadows Loop, Richmond 77469",
+   "url": "https://www.har.com/homedetail/8143-vacek-meadows-loop-richmond-tx-77469/16088213",
+   "price": 259900
+  },
+  {
+   "address": "5303 Rivers Edge Dr, Richmond 77469",
+   "url": "https://www.zillow.com/homedetails/5303-Rivers-Edge-Dr-Richmond-TX-77469/305289761_zpid/",
+   "price": 260000
+  },
+  {
+   "address": "5527 Twilight Thicket Ln, Richmond 77469",
+   "url": "https://www.har.com/homedetail/5527-twilight-thicket-ln-richmond-tx-77469/17658225",
+   "price": 259990
+  },
+  {
+   "address": "12210 La Strada St, Richmond 77406",
+   "url": "https://www.har.com/homedetail/12210-la-strada-st-richmond-tx-77406/13540565",
+   "price": 278000
+  },
+  {
+   "address": "2014 Richmond Dr, Richmond 77406",
+   "url": "https://www.zillow.com/homedetails/2014-Richmond-Dr-Richmond-TX-77406/27586246_zpid/",
+   "price": 278000
+  },
+  {
+   "address": "5843 Madison Trail Drive, Richmond 77469",
+   "url": "https://www.har.com/homedetail/5843-madison-trail-dr-richmond-tx-77469/17547672",
+   "price": 287370
+  },
+  {
+   "address": "5831 Banyan Oak Ct, Richmond 77407",
+   "url": "https://www.zillow.com/homedetails/5831-Banyan-Oak-Ct-Richmond-TX-77407/120834266_zpid/",
+   "price": 289900
+  },
+  {
+   "address": "1316 Mercantile St, Richmond 77406",
+   "url": "https://www.har.com/homedetail/1316-mercantile-st-richmond-tx-77406/17058187",
+   "price": 296000
+  },
+  {
+   "address": "6719 Waterbuck Trce, Richmond 77406",
+   "url": "https://www.har.com/homedetail/6719-waterbuck-trce-richmond-tx-77406/16080059",
+   "price": 299000
+  },
+  {
+   "address": "2314 Barton River Ct, Richmond 77469",
+   "url": "https://www.zillow.com/homedetails/2314-Barton-River-Ct-Richmond-TX-77469/82731799_zpid/",
+   "price": 299000
+  },
+  {
+   "address": "12150 La Strada St, Richmond 77406",
+   "url": "https://www.har.com/homedetail/12150-la-strada-st-richmond-tx-77406/13540568",
+   "price": 299999
+  },
+  {
+   "address": "6738 Laguna Trace St, Richmond 77407",
+   "url": "https://www.zillow.com/homedetails/6738-Laguna-Trace-St-Richmond-TX-77407/82724495_zpid/",
+   "price": 300000
+  },
+  {
+   "address": "8627 Vacek Crossing Way, Richmond 77469",
+   "url": "https://www.har.com/homedetail/8627-vacek-crossing-way-richmond-tx-77469/17061236",
+   "price": 255000
+  },
+  {
+   "address": "5519 Dovish Brook Ln, Richmond 77469",
+   "url": "https://www.zillow.com/homedetails/5519-Dovish-Brook-Ln-Richmond-TX-77469/466257101_zpid/",
+   "price": 289990
+  }
+ ],
+ "priceChanged": [
+  {
+   "address": "11138 Overland Trail Dr, Richmond 77406",
+   "url": "https://www.har.com/homedetail/11138-overland-trail-dr-richmond-tx-77406/2408561",
+   "from": 294000,
+   "to": 289000,
+   "change": -5000,
+   "pct": -1.7
+  },
+  {
+   "address": "7818 Mica Valley Ln, Richmond 77406",
+   "url": "https://www.har.com/homedetail/7818-mica-valley-ln-richmond-tx-77406/17582395",
+   "from": 299995,
+   "to": 297995,
+   "change": -2000,
+   "pct": -0.67
   },
   {
    "address": "2647 Sunset Bluff Ln, Rosenberg 77471",
    "url": "https://www.zillow.com/homedetails/2647-Sunset-Bluff-Ln-Rosenberg-TX-77471/466049563_zpid/",
-   "price": 284990
-  },
-  {
-   "address": "2635 Sunset Bluff Ln, Rosenberg 77471",
-   "url": "https://www.zillow.com/homedetails/2635-Sunset-Bluff-Ln-Rosenberg-TX-77471/466049533_zpid/",
-   "price": 286990
-  },
-  {
-   "address": "5412 Kindred St, Rosenberg 77471",
-   "url": "http://har.com/homedetail/5412-kindred-st-rosenberg-tx-77471/17582412",
-   "price": 294995
-  },
-  {
-   "address": "3011 Tandem Ct, Rosenberg 77471",
-   "url": "https://www.har.com/homedetail/3011-tandem-ct-rosenberg-tx-77471/13716307",
-   "price": 299900
-  },
-  {
-   "address": "2534 Cedar Ridge Dr, Rosenberg 77471",
-   "url": "https://www.newhomeprograms.com/homes/2534-Cedar-Ridge-Drive/Rosenberg/TX/77471/181920079/",
-   "price": 252990
+   "from": 284990,
+   "to": 269990,
+   "change": -15000,
+   "pct": -5.26
   },
   {
    "address": "3222 Owl Hollow Dr, Rosenberg 77471",
    "url": "https://www.zillow.com/homedetails/3222-Owl-Hollow-Dr-Rosenberg-TX-77471/2075647180_zpid/",
-   "price": 269900
-  },
-  {
-   "address": "2643 Cottage Step Trl, Fresno 77545",
-   "url": "https://www.har.com/homedetail/2643-cottage-step-trl-fresno-tx-77545/13530811",
-   "price": 284900
-  },
-  {
-   "address": "1623 Solana Dr, Fresno 77545",
-   "url": "https://www.har.com/homedetail/1623-solana-dr-fresno-tx-77545/16566224",
-   "price": 299000
-  },
-  {
-   "address": "2507 Sunlit Meadow Trl, Fresno 77545",
-   "url": "https://www.har.com/homedetail/2507-sunlit-meadow-trl-fresno-tx-77545/15732239",
-   "price": 299900
-  },
-  {
-   "address": "18510 Athena Flower Dr, Fresno 77545",
-   "url": "https://www.har.com/web/oscarmorales/homedetail/17603725",
-   "price": 271990
+   "from": 269900,
+   "to": 264900,
+   "change": -5000,
+   "pct": -1.85
   },
   {
    "address": "1015 Cedar Place Ln, Missouri City 77459",
    "url": "https://www.har.com/homedetail/1015-cedar-place-ln-missouri-city-tx-77459/17641394",
-   "price": 284690
+   "from": 284690,
+   "to": 294690,
+   "change": 10000,
+   "pct": 3.51
   },
   {
    "address": "1018 Cedar Place Ln, Missouri City 77459",
    "url": "https://www.har.com/homedetail/1018-cedar-place-ln-missouri-city-tx-77459/17647928",
-   "price": 267840
+   "from": 267840,
+   "to": 272840,
+   "change": 5000,
+   "pct": 1.87
   },
   {
    "address": "1022 Cedar Place Ln, Missouri City 77459",
    "url": "https://www.zillow.com/homedetails/1022-Cedar-Place-Ln-Missouri-City-TX-77459/461933117_zpid/",
-   "price": 259990
+   "from": 259990,
+   "to": 264990,
+   "change": 5000,
+   "pct": 1.92
   }
  ],
- "removed": [],
- "priceChanged": [],
- "statusChanged": []
+ "statusChanged": [
+  {
+   "address": "5039 Green Gate Trl, Richmond 77469",
+   "url": "https://www.har.com/homedetail/5039-green-gate-trl-richmond-tx-77469/14446645",
+   "from": "active",
+   "to": "under-contract"
+  },
+  {
+   "address": "5650 Pleasant Falls Dr, Richmond, TX 77407",
+   "url": "https://www.har.com/homedetail/5650-pleasant-falls-dr-richmond-tx-77407/14779485",
+   "from": "active",
+   "to": "under-contract"
+  },
+  {
+   "address": "7502 Monarch Forest Ln, Richmond 77469",
+   "url": "https://www.har.com/homedetail/7502-monarch-forest-ln-rosenberg-tx-77469/15548566",
+   "from": "active",
+   "to": "under-contract"
+  },
+  {
+   "address": "4826 Little Metalmark Dr, Needville 77461",
+   "url": "https://www.lennar.com/new-homes/texas/houston/needville/monarch-landing6/majors-collection#home-4826-little-metalmark-dr",
+   "from": "unknown",
+   "to": "active"
+  },
+  {
+   "address": "4926 Little Metalmark Dr, Needville 77461",
+   "url": "https://www.lennar.com/new-homes/texas/houston/needville/monarch-landing6/majors-collection#home-4926-little-metalmark-dr",
+   "from": "unknown",
+   "to": "active"
+  },
+  {
+   "address": "6518 Little Yellow Ct, Needville 77461",
+   "url": "https://www.zillow.com/homedetails/6518-Little-Yellow-Ct-Needville-TX-77461/465320213_zpid/",
+   "from": "active",
+   "to": "under-contract"
+  },
+  {
+   "address": "6906 Papillon Ln, Needville 77461",
+   "url": "https://www.zillow.com/homedetails/6906-Papillon-Ln-Needville-TX-77461/465240284_zpid/",
+   "from": "active",
+   "to": "under-contract"
+  },
+  {
+   "address": "6902 Papillon Ln, Needville 77461",
+   "url": "https://www.zillow.com/homedetails/6902-Papillon-Ln-Needville-TX-77461/465240282_zpid/",
+   "from": "active",
+   "to": "under-contract"
+  },
+  {
+   "address": "6819 Papillon Ln, Needville 77461",
+   "url": "https://www.zillow.com/homedetails/6819-Papillon-Ln-Needville-TX-77461/461684845_zpid/",
+   "from": "active",
+   "to": "under-contract"
+  }
+ ]
 }

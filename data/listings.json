@@ -1,41 +1,7 @@
 {
  "disclaimer": "Online screen only. Tax \u22642.30%, full flood protocol, campus verification, and inspection still required before touring. DOM mixes Redfin/HAR days-on-market with Zillow days-on-Zillow. Inspector: Liju Varghese, Calv's Inspection Services LLC, TREC #27107-PI, 832-812-9675.",
- "generated": "2026-11-18",
+ "generated": "2026-11-25",
  "listings": [
-  {
-   "url": "https://www.zillow.com/homedetails/912-Sweet-Pine-Dr-Katy-TX-77450/118405126_zpid/",
-   "address": "912 Sweet Pine Dr, Katy 77450",
-   "area": "Katy",
-   "areaRank": 2,
-   "subdivision": "\u2014",
-   "price": 285000,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1318,
-   "year": 2011,
-   "dom": 5,
-   "hoa": "\u2014",
-   "schools": "Katy ISD",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "Cut $5,000 (9/22)"
-   ],
-   "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 216,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-08",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 285000
-    }
-   ]
-  },
   {
    "url": "https://www.zillow.com/homedetails/1027-Sweet-Pine-Dr-Katy-TX-77450/121105281_zpid/",
    "address": "1027 Sweet Pine Dr, Katy 77450",
@@ -58,7 +24,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -88,7 +54,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -120,71 +86,11 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 255000
-    }
-   ]
-  },
-  {
-   "url": "https://www.zillow.com/homedetails/20123-Larkspur-Lndg-Richmond-TX-77407/72062652_zpid/",
-   "address": "20123 Larkspur Lndg, Richmond 77407",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "\u2014",
-   "price": 259000,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1504,
-   "year": null,
-   "dom": null,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [],
-   "highlights": [],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 172,
-   "builder": null,
-   "status": "unknown",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 259000
-    }
-   ]
-  },
-  {
-   "url": "https://www.har.com/homedetail/8143-vacek-meadows-loop-richmond-tx-77469/16088213",
-   "address": "8143 Vacek Meadows Loop, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Vacek Country Meadows Sec 2",
-   "price": 259900,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1536,
-   "year": 2022,
-   "dom": 59,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [],
-   "highlights": [],
-   "inspector": "Thin record \u2014 verify details before touring.",
-   "ppsf": 169,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 259900
     }
    ]
   },
@@ -215,41 +121,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 260000
-    }
-   ]
-  },
-  {
-   "url": "https://www.zillow.com/homedetails/5303-Rivers-Edge-Dr-Richmond-TX-77469/305289761_zpid/",
-   "address": "5303 Rivers Edge Dr, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Riverwood Village Sec 4",
-   "price": 260000,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1958,
-   "year": 2019,
-   "dom": null,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "Cut $10,000 (9/10)"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 133,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -284,7 +156,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -318,9 +190,9 @@
    "inspector": "Standard protocol when serious.",
    "ppsf": 156,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -354,7 +226,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -386,7 +258,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -421,7 +293,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -462,7 +334,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -502,7 +374,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -511,41 +383,6 @@
     {
      "date": "2026-11-11",
      "price": 254370
-    }
-   ]
-  },
-  {
-   "url": "https://www.har.com/homedetail/5527-twilight-thicket-ln-richmond-tx-77469/17658225",
-   "address": "5527 Twilight Thicket Ln, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Still Creek Ranch",
-   "price": 259990,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1627,
-   "year": 2026,
-   "dom": 66,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "Price reduction per HAR",
-    "New construction"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 160,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 259990
     }
    ]
   },
@@ -577,7 +414,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -618,75 +455,6 @@
    ]
   },
   {
-   "url": "https://www.har.com/homedetail/12210-la-strada-st-richmond-tx-77406/13540565",
-   "address": "12210 La Strada St, Richmond 77406",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Lakes of Bella Terra",
-   "price": 278000,
-   "beds": 3,
-   "baths": 2.5,
-   "sqft": 1762,
-   "year": 2016,
-   "dom": 34,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "Price reduction per HAR"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 158,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 278000
-    }
-   ]
-  },
-  {
-   "url": "https://www.zillow.com/homedetails/2014-Richmond-Dr-Richmond-TX-77406/27586246_zpid/",
-   "address": "2014 Richmond Dr, Richmond 77406",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "\u2014",
-   "price": 278000,
-   "beds": 4,
-   "baths": 2.0,
-   "sqft": 2000,
-   "year": null,
-   "dom": null,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "Cut $7,700 (9/11)",
-    "For sale by owner"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 139,
-   "builder": null,
-   "status": "unknown",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 278000
-    }
-   ]
-  },
-  {
    "url": "https://www.redfin.com/TX/Richmond/19711-Heron-Shadow-Ct-77407/home/32661443",
    "address": "19711 Heron Shadow Ct, Richmond, TX 77407",
    "area": "Richmond",
@@ -719,7 +487,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-27",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -759,7 +527,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -796,7 +564,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -830,7 +598,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -852,7 +620,7 @@
    "beds": 3,
    "baths": 2.0,
    "sqft": 1597,
-   "year": null,
+   "year": 2020,
    "dom": 121,
    "hoa": "\u2014",
    "schools": "\u2014",
@@ -864,7 +632,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -896,7 +664,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -930,7 +698,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -965,7 +733,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1004,7 +772,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1036,49 +804,11 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 285000
-    }
-   ]
-  },
-  {
-   "url": "https://www.har.com/homedetail/5843-madison-trail-dr-richmond-tx-77469/17547672",
-   "address": "5843 Madison Trail Drive, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Brentwood Farms",
-   "price": 287370,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1506,
-   "year": 2026,
-   "dom": 94,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "Price reduction per HAR",
-    "New construction",
-    "Seller may contribute",
-    "Price increased to $287,370 (was $285,370) on 2026-10-18 scan",
-    "Under Contract \u2014 verify status"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 191,
-   "builder": null,
-   "status": "under-contract",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 287370
     }
    ]
   },
@@ -1110,7 +840,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1150,7 +880,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1184,39 +914,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 289900
-    }
-   ]
-  },
-  {
-   "url": "https://www.zillow.com/homedetails/5831-Banyan-Oak-Ct-Richmond-TX-77407/120834266_zpid/",
-   "address": "5831 Banyan Oak Ct, Richmond 77407",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "\u2014",
-   "price": 289900,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1547,
-   "year": null,
-   "dom": 40,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [],
-   "highlights": [
-    "Under Contract \u2014 verify status"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 187,
-   "builder": null,
-   "status": "under-contract",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1246,7 +944,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1279,7 +977,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1312,7 +1010,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1350,7 +1048,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1386,7 +1084,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1422,7 +1120,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1457,7 +1155,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1491,7 +1189,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1529,7 +1227,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1538,43 +1236,6 @@
     {
      "date": "2026-11-07",
      "price": 265990
-    }
-   ]
-  },
-  {
-   "url": "https://www.har.com/homedetail/1316-mercantile-st-richmond-tx-77406/17058187",
-   "address": "1316 Mercantile St, Richmond 77406",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Indigo",
-   "price": 296000,
-   "beds": 2,
-   "baths": 2.0,
-   "sqft": 1231,
-   "year": 2025,
-   "dom": 14,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [],
-   "highlights": [
-    "New construction",
-    "Relisted at $296,000 \u2014 raised from $256,000 (HAR, Nov 7)"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 240,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 256000
-    },
-    {
-     "date": "2026-11-07",
-     "price": 296000
     }
    ]
   },
@@ -1605,7 +1266,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1640,43 +1301,11 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 289500
-    }
-   ]
-  },
-  {
-   "url": "https://www.har.com/homedetail/6719-waterbuck-trce-richmond-tx-77406/16080059",
-   "address": "6719 Waterbuck Trce, Richmond 77406",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Deer Run Meadows",
-   "price": 299000,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1924,
-   "year": 2022,
-   "dom": 259,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 155,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 299000
     }
    ]
   },
@@ -1707,45 +1336,11 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 295000
-    }
-   ]
-  },
-  {
-   "url": "https://www.zillow.com/homedetails/2314-Barton-River-Ct-Richmond-TX-77469/82731799_zpid/",
-   "address": "2314 Barton River Ct, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "\u2014",
-   "price": 299000,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 2095,
-   "year": null,
-   "dom": null,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "price-cut"
-   ],
-   "highlights": [
-    "Cut $13,000 (9/22)"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 143,
-   "builder": null,
-   "status": "unknown",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 299000
     }
    ]
   },
@@ -1773,7 +1368,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1791,7 +1386,7 @@
    "beds": 3,
    "baths": 2.0,
    "sqft": 2110,
-   "year": null,
+   "year": 2007,
    "dom": null,
    "hoa": "\u2014",
    "schools": "\u2014",
@@ -1808,7 +1403,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1842,7 +1437,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1878,7 +1473,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1892,7 +1487,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Westheimer Lakes",
-   "price": 294000,
+   "price": 289000,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1710,
@@ -1909,11 +1504,11 @@
     "Cut $5,990 (11/12) \u2014 now $294,000"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 172,
+   "ppsf": 169,
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -1922,6 +1517,10 @@
     {
      "date": "2026-11-15",
      "price": 294000
+    },
+    {
+     "date": "2026-11-22",
+     "price": 289000
     }
    ]
   },
@@ -1951,41 +1550,11 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 289990
-    }
-   ]
-  },
-  {
-   "url": "https://www.har.com/homedetail/12150-la-strada-st-richmond-tx-77406/13540568",
-   "address": "12150 La Strada St, Richmond 77406",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Lakes of Bella Terra",
-   "price": 299999,
-   "beds": 3,
-   "baths": 2.5,
-   "sqft": 1972,
-   "year": 2016,
-   "dom": 34,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [],
-   "highlights": [],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 152,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 299999
     }
    ]
   },
@@ -1999,7 +1568,7 @@
    "beds": 4,
    "baths": 2.5,
    "sqft": 2162,
-   "year": null,
+   "year": 2020,
    "dom": 144,
    "hoa": "\u2014",
    "schools": "\u2014",
@@ -2016,41 +1585,11 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 280000
-    }
-   ]
-  },
-  {
-   "url": "https://www.zillow.com/homedetails/6738-Laguna-Trace-St-Richmond-TX-77407/82724495_zpid/",
-   "address": "6738 Laguna Trace St, Richmond 77407",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "\u2014",
-   "price": 300000,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1858,
-   "year": null,
-   "dom": 23,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [],
-   "highlights": [],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 161,
-   "builder": null,
-   "status": "unknown",
-   "firstSeen": "2026-09-28",
-   "lastVerified": "2026-11-07",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 300000
     }
    ]
   },
@@ -2065,7 +1604,7 @@
    "baths": null,
    "sqft": 1500,
    "year": null,
-   "dom": 141,
+   "dom": 149,
    "hoa": "\u2014",
    "schools": "\u2014",
    "flood": 10,
@@ -2082,7 +1621,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2118,7 +1657,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2154,7 +1693,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2184,14 +1723,15 @@
    "highlights": [
     "Price reduction per HAR",
     "Open house",
-    "Built 2019; builder not shown"
+    "Built 2019; builder not shown",
+    "Under Contract \u2014 verify status"
    ],
    "inspector": "Thin record \u2014 verify details before touring.",
    "ppsf": 183,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2230,7 +1770,7 @@
    "builder": "Lennar",
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2277,7 +1817,7 @@
    "builder": "Lennar",
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2319,7 +1859,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2360,7 +1900,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2393,7 +1933,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2430,7 +1970,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2466,7 +2006,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2503,7 +2043,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2521,15 +2061,14 @@
    "beds": null,
    "baths": 2.5,
    "sqft": 1982,
-   "year": null,
+   "year": 2020,
    "dom": 89,
    "hoa": "\u2014",
    "schools": "Lamar CISD / Fort Bend ISD / Needville ISD (verify by subdivision)",
    "flood": null,
    "flags": [
     "new",
-    "price-cut",
-    "incomplete"
+    "price-cut"
    ],
    "highlights": [
     "Price reduction per HAR",
@@ -2540,7 +2079,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2578,7 +2117,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-10-18",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2616,7 +2155,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2650,7 +2189,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2685,7 +2224,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2723,7 +2262,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2755,7 +2294,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2787,7 +2326,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2822,7 +2361,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2858,7 +2397,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2895,7 +2434,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2932,7 +2471,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -2968,7 +2507,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3007,7 +2546,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3050,7 +2589,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3063,42 +2602,6 @@
     {
      "date": "2026-11-11",
      "price": 284990
-    }
-   ]
-  },
-  {
-   "url": "https://www.har.com/homedetail/8627-vacek-crossing-way-richmond-tx-77469/17061236",
-   "address": "8627 Vacek Crossing Way, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Vacek Pointe",
-   "price": 255000,
-   "beds": 3,
-   "baths": 2.5,
-   "sqft": 1615,
-   "year": 2025,
-   "dom": 17,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "new",
-    "price-cut"
-   ],
-   "highlights": [
-    "New construction",
-    "Cut $10,000 (Nov 1)"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 158,
-   "builder": null,
-   "status": "active",
-   "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 255000
     }
    ]
   },
@@ -3129,7 +2632,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3163,7 +2666,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3195,7 +2698,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3231,7 +2734,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3273,7 +2776,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3316,7 +2819,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3346,7 +2849,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3370,13 +2873,15 @@
    "schools": "\u2014",
    "flood": null,
    "flags": [],
-   "highlights": [],
+   "highlights": [
+    "Under Contract \u2014 verify status"
+   ],
    "inspector": "Standard protocol when serious.",
    "ppsf": 142,
    "builder": null,
-   "status": "active",
+   "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3412,7 +2917,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3448,7 +2953,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3485,7 +2990,7 @@
    "builder": null,
    "status": "under-contract",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3524,7 +3029,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3558,7 +3063,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
@@ -3576,7 +3081,7 @@
    "beds": 4,
    "baths": 2.0,
    "sqft": 1922,
-   "year": null,
+   "year": 2026,
    "dom": null,
    "hoa": "\u2014",
    "schools": "\u2014",
@@ -3593,46 +3098,11 @@
    "builder": "Lennar",
    "status": "active",
    "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-07",
      "price": 292990
-    }
-   ]
-  },
-  {
-   "url": "https://www.zillow.com/homedetails/5519-Dovish-Brook-Ln-Richmond-TX-77469/466257101_zpid/",
-   "address": "5519 Dovish Brook Ln, Richmond 77469",
-   "area": "Richmond",
-   "areaRank": 4,
-   "subdivision": "Still Creek Ranch",
-   "price": 289990,
-   "beds": 3,
-   "baths": 2.0,
-   "sqft": 1970,
-   "year": null,
-   "dom": null,
-   "hoa": "\u2014",
-   "schools": "\u2014",
-   "flood": null,
-   "flags": [
-    "new"
-   ],
-   "highlights": [
-    "New construction",
-    "Built by Lennar (year not shown)"
-   ],
-   "inspector": "Standard protocol when serious.",
-   "ppsf": 147,
-   "builder": "Lennar",
-   "status": "active",
-   "firstSeen": "2026-11-07",
-   "lastVerified": "2026-11-15",
-   "priceHistory": [
-    {
-     "date": "2026-11-07",
-     "price": 289990
     }
    ]
   },
@@ -3663,7 +3133,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -3697,7 +3167,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -3733,7 +3203,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -3770,7 +3240,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -3807,7 +3277,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -3843,7 +3313,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -3879,7 +3349,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -3914,7 +3384,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -3950,7 +3420,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -3985,7 +3455,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -4021,7 +3491,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -4035,7 +3505,7 @@
    "area": "Richmond",
    "areaRank": 4,
    "subdivision": "Briscoe Falls",
-   "price": 299995,
+   "price": 297995,
    "beds": 3,
    "baths": 2.0,
    "sqft": 1675,
@@ -4055,15 +3525,19 @@
     "Tax rate 2.263"
    ],
    "inspector": "Standard protocol when serious.",
-   "ppsf": 179,
+   "ppsf": 178,
    "builder": "KB Home",
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
      "price": 299995
+    },
+    {
+     "date": "2026-11-22",
+     "price": 297995
     }
    ]
   },
@@ -4096,7 +3570,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -4132,7 +3606,7 @@
    "builder": null,
    "status": "active",
    "firstSeen": "2026-11-15",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "priceHistory": [
     {
      "date": "2026-11-15",
@@ -4150,8 +3624,7 @@
    "dom": null,
    "firstSeen": "2026-11-18",
    "flags": [
-    "new",
-    "incomplete"
+    "new"
    ],
    "flood": null,
    "highlights": [
@@ -4161,7 +3634,7 @@
    ],
    "hoa": "$183/mo",
    "inspector": "Thin record \u2014 verify details before touring.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 118,
    "price": 266990,
    "priceHistory": [
@@ -4172,10 +3645,10 @@
    ],
    "schools": "Needville ISD",
    "sqft": 2258,
-   "status": "unknown",
+   "status": "active",
    "subdivision": "Monarch Landing",
    "url": "https://www.lennar.com/new-homes/texas/houston/needville/monarch-landing6/majors-collection#home-4826-little-metalmark-dr",
-   "year": null
+   "year": 2027
   },
   {
    "address": "4926 Little Metalmark Dr, Needville 77461",
@@ -4187,8 +3660,7 @@
    "dom": null,
    "firstSeen": "2026-11-18",
    "flags": [
-    "new",
-    "incomplete"
+    "new"
    ],
    "flood": null,
    "highlights": [
@@ -4198,7 +3670,7 @@
    ],
    "hoa": "$183/mo",
    "inspector": "Thin record \u2014 verify details before touring.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 121,
    "price": 272990,
    "priceHistory": [
@@ -4209,10 +3681,10 @@
    ],
    "schools": "Needville ISD",
    "sqft": 2258,
-   "status": "unknown",
+   "status": "active",
    "subdivision": "Monarch Landing",
    "url": "https://www.lennar.com/new-homes/texas/houston/needville/monarch-landing6/majors-collection#home-4926-little-metalmark-dr",
-   "year": null
+   "year": 2027
   },
   {
    "address": "4822 Little Metalmark Dr, Needville 77461",
@@ -4234,7 +3706,7 @@
    ],
    "hoa": "$183/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 103,
    "price": 288990,
    "priceHistory": [
@@ -4269,7 +3741,7 @@
    ],
    "hoa": "$183/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 112,
    "price": 252990,
    "priceHistory": [
@@ -4280,7 +3752,7 @@
    ],
    "schools": "Needville ISD",
    "sqft": 2258,
-   "status": "active",
+   "status": "under-contract",
    "subdivision": "Monarch Landing",
    "url": "https://www.zillow.com/homedetails/6518-Little-Yellow-Ct-Needville-TX-77461/465320213_zpid/",
    "year": 2026
@@ -4306,7 +3778,7 @@
    ],
    "hoa": "$183/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 116,
    "price": 257990,
    "priceHistory": [
@@ -4317,7 +3789,7 @@
    ],
    "schools": "Needville ISD",
    "sqft": 2233,
-   "status": "active",
+   "status": "under-contract",
    "subdivision": "Monarch Landing",
    "url": "https://www.zillow.com/homedetails/6906-Papillon-Ln-Needville-TX-77461/465240284_zpid/",
    "year": 2026
@@ -4343,7 +3815,7 @@
    ],
    "hoa": "$183/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 112,
    "price": 267990,
    "priceHistory": [
@@ -4354,7 +3826,7 @@
    ],
    "schools": "Needville ISD",
    "sqft": 2393,
-   "status": "active",
+   "status": "under-contract",
    "subdivision": "Monarch Landing",
    "url": "https://www.zillow.com/homedetails/6902-Papillon-Ln-Needville-TX-77461/465240282_zpid/",
    "year": 2026
@@ -4380,7 +3852,7 @@
    ],
    "hoa": "$183/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 108,
    "price": 257990,
    "priceHistory": [
@@ -4391,7 +3863,7 @@
    ],
    "schools": "Needville ISD",
    "sqft": 2393,
-   "status": "active",
+   "status": "under-contract",
    "subdivision": "Monarch Landing",
    "url": "https://www.zillow.com/homedetails/6819-Papillon-Ln-Needville-TX-77461/461684845_zpid/",
    "year": 2026
@@ -4416,7 +3888,7 @@
    ],
    "hoa": "$71/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 163,
    "price": 254990,
    "priceHistory": [
@@ -4452,7 +3924,7 @@
    ],
    "hoa": "$71/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 141,
    "price": 259990,
    "priceHistory": [
@@ -4489,7 +3961,7 @@
    ],
    "hoa": "$71/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 151,
    "price": 279990,
    "priceHistory": [
@@ -4515,8 +3987,7 @@
    "dom": null,
    "firstSeen": "2026-11-18",
    "flags": [
-    "new",
-    "incomplete"
+    "new"
    ],
    "flood": null,
    "highlights": [
@@ -4526,17 +3997,21 @@
    ],
    "hoa": "$71/mo",
    "inspector": "Thin record \u2014 verify details before touring.",
-   "lastVerified": "2026-11-18",
-   "ppsf": null,
-   "price": 284990,
+   "lastVerified": "2026-11-25",
+   "ppsf": 151,
+   "price": 269990,
    "priceHistory": [
     {
      "date": "2026-11-18",
      "price": 284990
+    },
+    {
+     "date": "2026-11-22",
+     "price": 269990
     }
    ],
    "schools": "Lamar CISD",
-   "sqft": null,
+   "sqft": 1788,
    "status": "active",
    "subdivision": "Holly Ridge",
    "url": "https://www.zillow.com/homedetails/2647-Sunset-Bluff-Ln-Rosenberg-TX-77471/466049563_zpid/",
@@ -4552,8 +4027,7 @@
    "dom": null,
    "firstSeen": "2026-11-18",
    "flags": [
-    "new",
-    "incomplete"
+    "new"
    ],
    "flood": null,
    "highlights": [
@@ -4563,8 +4037,8 @@
    ],
    "hoa": "$71/mo",
    "inspector": "Thin record \u2014 verify details before touring.",
-   "lastVerified": "2026-11-18",
-   "ppsf": null,
+   "lastVerified": "2026-11-25",
+   "ppsf": 161,
    "price": 286990,
    "priceHistory": [
     {
@@ -4573,7 +4047,7 @@
     }
    ],
    "schools": "Lamar CISD",
-   "sqft": null,
+   "sqft": 1788,
    "status": "active",
    "subdivision": "Holly Ridge",
    "url": "https://www.zillow.com/homedetails/2635-Sunset-Bluff-Ln-Rosenberg-TX-77471/466049533_zpid/",
@@ -4600,7 +4074,7 @@
    ],
    "hoa": "$60/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 143,
    "price": 294995,
    "priceHistory": [
@@ -4638,7 +4112,7 @@
    ],
    "hoa": "$65/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 113,
    "price": 299900,
    "priceHistory": [
@@ -4674,7 +4148,7 @@
    ],
    "hoa": "$96/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 198,
    "price": 252990,
    "priceHistory": [
@@ -4700,8 +4174,7 @@
    "dom": null,
    "firstSeen": "2026-11-18",
    "flags": [
-    "new",
-    "incomplete"
+    "new"
    ],
    "flood": null,
    "highlights": [
@@ -4711,13 +4184,17 @@
    ],
    "hoa": "\u2014",
    "inspector": "Thin record \u2014 verify details before touring.",
-   "lastVerified": "2026-11-18",
-   "ppsf": 155,
-   "price": 269900,
+   "lastVerified": "2026-11-25",
+   "ppsf": 152,
+   "price": 264900,
    "priceHistory": [
     {
      "date": "2026-11-18",
      "price": 269900
+    },
+    {
+     "date": "2026-11-22",
+     "price": 264900
     }
    ],
    "schools": "Lamar CISD",
@@ -4725,7 +4202,7 @@
    "status": "active",
    "subdivision": "\u2014",
    "url": "https://www.zillow.com/homedetails/3222-Owl-Hollow-Dr-Rosenberg-TX-77471/2075647180_zpid/",
-   "year": null
+   "year": 2021
   },
   {
    "address": "2643 Cottage Step Trl, Fresno 77545",
@@ -4746,7 +4223,7 @@
    ],
    "hoa": "$45/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 119,
    "price": 284900,
    "priceHistory": [
@@ -4782,7 +4259,7 @@
    ],
    "hoa": "$54/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 168,
    "price": 299000,
    "priceHistory": [
@@ -4818,7 +4295,7 @@
    ],
    "hoa": "$43/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 141,
    "price": 299900,
    "priceHistory": [
@@ -4854,7 +4331,7 @@
    ],
    "hoa": "$54/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
+   "lastVerified": "2026-11-25",
    "ppsf": 188,
    "price": 271990,
    "priceHistory": [
@@ -4891,13 +4368,17 @@
    ],
    "hoa": "$92/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
-   "ppsf": 167,
-   "price": 284690,
+   "lastVerified": "2026-11-25",
+   "ppsf": 173,
+   "price": 294690,
    "priceHistory": [
     {
      "date": "2026-11-18",
      "price": 284690
+    },
+    {
+     "date": "2026-11-22",
+     "price": 294690
     }
    ],
    "schools": "Fort Bend ISD",
@@ -4928,13 +4409,17 @@
    ],
    "hoa": "$92/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
-   "ppsf": 155,
-   "price": 267840,
+   "lastVerified": "2026-11-25",
+   "ppsf": 158,
+   "price": 272840,
    "priceHistory": [
     {
      "date": "2026-11-18",
      "price": 267840
+    },
+    {
+     "date": "2026-11-22",
+     "price": 272840
     }
    ],
    "schools": "Fort Bend ISD",
@@ -4965,13 +4450,17 @@
    ],
    "hoa": "$92/mo",
    "inspector": "Standard protocol when serious.",
-   "lastVerified": "2026-11-18",
-   "ppsf": 162,
-   "price": 259990,
+   "lastVerified": "2026-11-25",
+   "ppsf": 165,
+   "price": 264990,
    "priceHistory": [
     {
      "date": "2026-11-18",
      "price": 259990
+    },
+    {
+     "date": "2026-11-22",
+     "price": 264990
     }
    ],
    "schools": "Fort Bend ISD",
@@ -4980,9 +4469,4370 @@
    "subdivision": "Parkway Commons",
    "url": "https://www.zillow.com/homedetails/1022-Cedar-Place-Ln-Missouri-City-TX-77459/461933117_zpid/",
    "year": 2026
+  },
+  {
+   "url": "https://www.har.com/homedetail/7805-s-country-space-loop-richmond-tx-77469/14933370",
+   "address": "7805 S Country Space Loop, Richmond 77469",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Vacek Country Meadows Sec 1",
+   "price": 255000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1591,
+   "year": 2020,
+   "dom": 5,
+   "hoa": "$500/yr",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "highlights": [
+    "Cut $3,000 (Nov 18 $258,000 \u2192 $255,000)",
+    "Tax rate 1.9453",
+    "HOA $500/yr"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "status": "active",
+   "ppsf": 160,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 255000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/4811-evening-place-ln-richmond-tx-77469/12360537",
+   "address": "4811 Evening Place Ln, Richmond 77469",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Sunrise Meadow Sec 8",
+   "price": 260000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1591,
+   "year": 2014,
+   "dom": null,
+   "hoa": "$380/yr",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "Coming soon \u2014 expected active 11/30/2026",
+    "Tax rate 2.6689",
+    "HOA $380/yr"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "status": "unknown",
+   "ppsf": 163,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 260000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/8414-hidalgo-dr-rosenberg-tx-77469/10514951",
+   "address": "8414 Hidalgo Dr, Rosenberg 77469",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "River Run At The Brazos Sec 2",
+   "price": 299900,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2640,
+   "year": 2011,
+   "dom": 86,
+   "hoa": "$550/yr",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "stale"
+   ],
+   "highlights": [
+    "86 DOM",
+    "Tax rate 2.4989",
+    "HOA $550/yr"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "status": "active",
+   "ppsf": 114,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/7518-keys-creek-ct-richmond-tx-77469/14931434",
+   "address": "7518 Keys Creek Ct, Richmond 77469",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Still Creek Ranch Sec 1",
+   "price": 299500,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2265,
+   "year": 2020,
+   "dom": 340,
+   "hoa": "$495/yr",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "price-cut",
+    "stale"
+   ],
+   "highlights": [
+    "340 DOM",
+    "Price reduction",
+    "Tax rate 2.7889",
+    "Water view/pond"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "status": "active",
+   "ppsf": 132,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299500
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/4826-hickory-deer-ln-richmond-tx-77406/16079936",
+   "address": "4826 Hickory Deer Ln, Richmond 77406",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Deer Run Meadows Sec 2",
+   "price": 299900,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 2035,
+   "year": 2021,
+   "dom": 6,
+   "hoa": "$700/yr",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "Seller may contribute",
+    "Owned solar panels",
+    "Tax rate 2.6955"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "status": "active",
+   "ppsf": 147,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/7819-laurel-elm-ct-richmond-tx-77407/14450904",
+   "address": "7819 Laurel Elm Ct, Richmond 77407",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Grand Vista Sec 26",
+   "price": 299990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1623,
+   "year": 2019,
+   "dom": 45,
+   "hoa": "$1,050/yr",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "highlights": [
+    "Cut $10,010 (11/16)",
+    "Solar panel system",
+    "Tax rate 1.9889"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "status": "active",
+   "ppsf": 185,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/5422-marble-ravine-dr-richmond-tx-77407/2434677",
+   "address": "5422 Marble Ravine Dr, Richmond 77407",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Fieldstone Sec 4",
+   "price": 299900,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1528,
+   "year": 2008,
+   "dom": 81,
+   "hoa": "$715/yr",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "price-cut",
+    "stale"
+   ],
+   "highlights": [
+    "81 DOM",
+    "Price reduction",
+    "Tax rate 2.5189"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "status": "active",
+   "ppsf": 196,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/19139-mission-manor-ln-richmond-tx-77407/2439092",
+   "address": "19139 Mission Manor Ln, Richmond 77407",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Grand Mission Sec 10",
+   "price": 299900,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1864,
+   "year": 2006,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "status": "active",
+   "ppsf": 161,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/18231-sorrell-oaks-ln-richmond-tx-77407/2510066",
+   "address": "18231 Sorrell Oaks Ln, Richmond 77407",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Twin Oaks Village Sec 14",
+   "price": 299000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1619,
+   "year": 2006,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "status": "active",
+   "ppsf": 185,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/8911-butterstone-ridge-ln-richmond-tx-77407/8024868",
+   "address": "8911 Butterstone Ridge Ln, Richmond 77407",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Mission Sierra Sec 2",
+   "price": 265000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1538,
+   "year": 2007,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "status": "active",
+   "ppsf": 172,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 265000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6646-elks-trce-richmond-tx-77406/16079905",
+   "address": "6646 Elks Trce, Richmond 77406",
+   "area": "Richmond",
+   "areaRank": 4,
+   "subdivision": "Deer Run Meadows Sec 1",
+   "price": 299000,
+   "beds": 5,
+   "baths": 3.5,
+   "sqft": 2913,
+   "year": 2021,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "\u2014",
+   "flood": null,
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "highlights": [
+    "Short sale per Redfin",
+    "Cut $26,000 (11/20)"
+   ],
+   "inspector": "Short sale \u2014 verify financeability and title.",
+   "status": "active",
+   "ppsf": 103,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299000
+    }
+   ]
+  },
+  {
+   "url": "https://www.redfin.com/TX/Needville/6734-Papillon-Ln-77461/home/204869880",
+   "address": "6734 Papillon Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 285990,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2637,
+   "year": 2026,
+   "dom": 8,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": 3,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026",
+    "Flood Factor 3/10",
+    "4 days on Redfin"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "status": "active",
+   "ppsf": 108,
+   "builder": null,
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 285990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1107-desert-springs-ln-rosenberg-tx-77471/11317949",
+   "address": "1107 Desert Springs Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Cottonwood Sec 2",
+   "price": 270000,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 2236,
+   "year": 2008,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 121,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 270000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/3031-tandem-ct-rosenberg-tx-77471/13716302",
+   "address": "3031 Tandem Ct, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Briarwood Crossing Sec 8",
+   "price": 265000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1780,
+   "year": 2018,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 149,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 265000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2518-cedar-ridge-dr-needville-tx-77471/17731267",
+   "address": "2518 Cedar Ridge Dr, Needville 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Milo Farms",
+   "price": 267990,
+   "beds": 5,
+   "baths": 2.5,
+   "sqft": 1892,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026",
+    "Milo Farms \u2014 Needville ISD per MLS (same as 2534 Cedar Ridge Dr)"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 142,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 267990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1613-jean-meadow-dr-rosenberg-tx-77471/17426499",
+   "address": "1613 Jean Meadow Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Hallimore Ranch",
+   "price": 291900,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1366,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 214,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 291900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2626-sunset-bluff-ln-rosenberg-tx-77471/17731240",
+   "address": "2626 Sunset Bluff Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 259990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1566,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 166,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 259990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1118-millers-pass-rosenberg-tx-77471/16228416",
+   "address": "1118 Millers Pass, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Millers Pass",
+   "price": 259000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1470,
+   "year": 2023,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 176,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 259000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6226-mason-rosenberg-tx-77471/14436131",
+   "address": "6226 Mason Way, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Kingdom Heights Sec 4",
+   "price": 300000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 2209,
+   "year": 2019,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 136,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 300000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/3410-spanish-oak-ln-rosenberg-tx-77471/17058944",
+   "address": "3410 Spanish Oak Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Millers Pond Sec 1",
+   "price": 289000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1589,
+   "year": 2024,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 182,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 289000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1627-branley-trl-rosenberg-tx-77471/17426483",
+   "address": "1627 Branley Trl, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Hallimore Ranch",
+   "price": 297900,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1366,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026",
+    "Under Contract \u2014 verify status"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 218,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 297900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2643-sunset-bluff-ln-rosenberg-tx-77471/17688814",
+   "address": "2643 Sunset Bluff Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 299990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 2024,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 148,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/4614-coopers-hill-trl-rosenberg-tx-77471/13716319",
+   "address": "4614 Coopers Hill Trl, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Briarwood Crossing Sec 8",
+   "price": 263000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1774,
+   "year": 2018,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 148,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 263000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/3227-fairhaven-ln-rosenberg-tx-77471/15467114",
+   "address": "3227 Fairhaven Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Fairpark Village",
+   "price": 299900,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 2008,
+   "year": 2019,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 149,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2114-bishop-hollow-ln-rosenberg-tx-77471/2427940",
+   "address": "2114 Bishop Hollow Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Fairpark Village",
+   "price": 269900,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2401,
+   "year": 2011,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 112,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 269900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2538-cedar-ridge-dr-needville-tx-77471/17685822",
+   "address": "2538 Cedar Ridge Dr, Needville 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Milo Farms",
+   "price": 264990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1515,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026",
+    "Milo Farms \u2014 Needville ISD per MLS (same as 2534 Cedar Ridge Dr)"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 175,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 264990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2510-cedar-ridge-dr-needville-tx-77471/17685124",
+   "address": "2510 Cedar Ridge Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Milo Farms",
+   "price": 260990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1572,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026",
+    "Milo Farms \u2014 Needville ISD per MLS (same as 2534 Cedar Ridge Dr)"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 166,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 260990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2526-cedar-ridge-dr-needville-tx-77471/17685125",
+   "address": "2526 Cedar Ridge Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Milo Farms",
+   "price": 264990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1572,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026",
+    "Milo Farms \u2014 Needville ISD per MLS (same as 2534 Cedar Ridge Dr)"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 169,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 264990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2606-starry-sky-ln-rosenberg-tx-77471/17682978",
+   "address": "2606 Starry Sky Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 288990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1788,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 162,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 288990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1335-kane-ct-rosenberg-tx-77471/10817358",
+   "address": "1335 Kane Ct, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Cottonwood Sec 4-A",
+   "price": 250000,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2089,
+   "year": 2010,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 120,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 250000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6851-canyon-breeze-dr-rosenberg-tx-77471/17682959",
+   "address": "6851 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 254990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1612,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 158,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 254990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2610-starry-sky-ln-rosenberg-tx-77471/17667485",
+   "address": "2610 Starry Sky Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 299990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 2024,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 148,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2622-starry-sky-ln-rosenberg-tx-77471/17667524",
+   "address": "2622 Starry Sky Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 289990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 2034,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 143,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 289990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6843-canyon-breeze-dr-rosenberg-tx-77471/17666706",
+   "address": "6843 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 287990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2207,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 130,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 287990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6803-canyon-breeze-dr-rosenberg-tx-77471/17664487",
+   "address": "6803 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 259990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1612,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 161,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 259990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6723-canyon-breeze-dr-rosenberg-tx-77471/17664511",
+   "address": "6723 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 279990,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1850,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 151,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 279990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6811-canyon-breeze-dr-rosenberg-tx-77471/17664518",
+   "address": "6811 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 292990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2207,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 133,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 292990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6807-canyon-breeze-dr-rosenberg-tx-77471/17664568",
+   "address": "6807 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 299990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2317,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 129,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6827-canyon-breeze-dr-rosenberg-tx-77471/17664533",
+   "address": "6827 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 282990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2207,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 128,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 282990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6839-canyon-breeze-dr-rosenberg-tx-77471/17664569",
+   "address": "6839 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 294990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2317,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 127,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 294990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6819-canyon-breeze-dr-rosenberg-tx-77471/17664496",
+   "address": "6819 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 289990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2317,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026",
+    "Under Contract \u2014 verify status"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 125,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 289990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6743-canyon-breeze-dr-rosenberg-tx-77471/17664535",
+   "address": "6743 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 279990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2207,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 127,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 279990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6823-canyon-breeze-dr-rosenberg-tx-77471/17663024",
+   "address": "6823 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 254990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1612,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 158,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 254990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2630-starry-sky-ln-rosenberg-tx-77471/17663038",
+   "address": "2630 Starry Sky Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 294990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 2024,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026",
+    "Up $15,000 (Nov 25)"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 146,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 279990
+    },
+    {
+     "date": "2026-11-25",
+     "price": 294990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6719-canyon-breeze-dr-rosenberg-tx-77471/17663009",
+   "address": "6719 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 289990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2317,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 125,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 289990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2630-sunset-bluff-ln-rosenberg-tx-77471/17663034",
+   "address": "2630 Sunset Bluff Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 264990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1788,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 148,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 264990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1312-barton-creek-ln-rosenberg-tx-77471/13161987",
+   "address": "1312 Barton Creek Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Cottonwood Sec 3-B",
+   "price": 279999,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 2516,
+   "year": 2015,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 111,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 279999
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6714-canyon-breeze-dr-rosenberg-tx-77471/17659433",
+   "address": "6714 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 259990,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1850,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 141,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 259990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6711-canyon-breeze-dr-rosenberg-tx-77471/17659428",
+   "address": "6711 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 269990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2207,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 122,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 269990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6802-spur-creek-dr-rosenberg-tx-77471/17659423",
+   "address": "6802 Spur Creek Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 279990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2207,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 127,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 279990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2603-magnolia-meadow-ln-rosenberg-tx-77471/17657854",
+   "address": "2603 Magnolia Meadow Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 259990,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1850,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 141,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 259990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2014-foxgate-dr-rosenberg-tx-77471/2452603",
+   "address": "2014 Foxgate Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Kingdom Heights",
+   "price": 293500,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 2142,
+   "year": 2009,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 137,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 293500
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6014-watford-bnd-rosenberg-tx-77471/9364474",
+   "address": "6014 Watford Bnd, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Kingdom Heights",
+   "price": 289000,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2516,
+   "year": 2011,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 115,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 289000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/4518-antero-ct-rosenberg-tx-77471/14433815",
+   "address": "4518 Antero Ct, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Briarwood Crossing Sec 9",
+   "price": 279298,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 2200,
+   "year": 2019,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 127,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 279298
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/3414-eden-valley-ln-rosenberg-tx-77471/17059020",
+   "address": "3414 Eden Valley Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Millers Pond Sec 3",
+   "price": 299000,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1925,
+   "year": 2024,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 155,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1134-millers-pass-rosenberg-tx-77471/16277626",
+   "address": "1134 Millers Pass, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Millers Pass",
+   "price": 269000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1470,
+   "year": 2023,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 183,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 269000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2639-magnolia-meadow-ln-rosenberg-tx-77471/17642920",
+   "address": "2639 Magnolia Meadow Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 274990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2317,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 119,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 274990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6726-canyon-breeze-dr-rosenberg-tx-77471/17643111",
+   "address": "6726 Canyon Breeze Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 269990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2207,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 122,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 269990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/4307-greeley-ln-rosenberg-tx-77471/14433851",
+   "address": "4307 Greeley Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Briarwood Crossing Sec 9",
+   "price": 299000,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2792,
+   "year": 2019,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 107,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2650-starry-sky-ln-rosenberg-tx-77471/17640225",
+   "address": "2650 Starry Sky Ln, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Holly Ridge",
+   "price": 284990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 2024,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 141,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 284990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6210-mason-rosenberg-tx-77471/14436127",
+   "address": "6210 Mason Way, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Kingdom Heights Sec 4",
+   "price": 259900,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1872,
+   "year": 2019,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 139,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 259900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/3327-trail-view-dr-rosenberg-tx-77471/17058940",
+   "address": "3327 Trail View Dr, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Millers Pond Sec 1",
+   "price": 299500,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2387,
+   "year": 2024,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 125,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299500
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2102-indian-clearing-trl-rosenberg-tx-77471/2427328",
+   "address": "2102 Indian Clearing Trl, Rosenberg 77471",
+   "area": "Rosenberg",
+   "areaRank": 5,
+   "subdivision": "Fairpark Village",
+   "price": 264900,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1736,
+   "year": 2016,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Lamar CISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 153,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 264900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/3322-aegean-dr-missouri-city-tx-77459/8533169",
+   "address": "3322 Aegean Dr, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Olympia Estates Ph 1 Sec 3",
+   "price": 299000,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 2301,
+   "year": 2010,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 130,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2106-damasi-ln-missouri-city-tx-77459/16221646",
+   "address": "2106 Damasi Ln, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Olympia Falls",
+   "price": 289900,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1977,
+   "year": 2023,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 147,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 289900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/3239-aegean-dr-missouri-city-tx-77459/2472086",
+   "address": "3239 Aegean Dr, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Olympia Estates Ph 1 Sec 3",
+   "price": 277000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1698,
+   "year": 2012,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 163,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 277000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1718-revolution-way-missouri-city-tx-77459/17427595",
+   "address": "1718 Revolution Way, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Lexington Village",
+   "price": 299990,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1372,
+   "year": 2025,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 219,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1734-revolution-way-missouri-city-tx-77459/17427599",
+   "address": "1734 Revolution Way, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Lexington Village",
+   "price": 299990,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1372,
+   "year": 2025,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 219,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1702-revolution-way-missouri-city-tx-77459/17427591",
+   "address": "1702 Revolution Way, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Lexington Village",
+   "price": 289990,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1372,
+   "year": 2025,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 211,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 289990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1710-revolution-way-missouri-city-tx-77459/17427593",
+   "address": "1710 Revolution Way, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Lexington Village",
+   "price": 294990,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1431,
+   "year": 2025,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 206,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 294990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1706-revolution-way-missouri-city-tx-77459/17427592",
+   "address": "1706 Revolution Way, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Lexington Village",
+   "price": 294990,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1431,
+   "year": 2025,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 206,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 294990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1003-cedar-place-ln-missouri-city-tx-77459/17647575",
+   "address": "1003 Cedar Place Ln, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Parkway Commons",
+   "price": 289990,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1604,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 181,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 289990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1034-cedar-place-ln-houston-tx-77459/17636886",
+   "address": "1034 Cedar Place Ln, Houston 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Parkway Commons",
+   "price": 279690,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1438,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 194,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 279690
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1027-cedar-place-ln-missouri-city-tx-77459/17630256",
+   "address": "1027 Cedar Place Ln, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Parkway Commons",
+   "price": 294790,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1704,
+   "year": 2025,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 173,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 294790
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1531-noble-park-dr-missouri-city-tx-77459/16567608",
+   "address": "1531 Noble Park Dr, Missouri City 77459",
+   "area": "Missouri City",
+   "areaRank": 6,
+   "subdivision": "Sienna Sec 44",
+   "price": 299900,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 2198,
+   "year": 2024,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 136,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1719-manchester-crossing-dr-fresno-tx-77545/2404777",
+   "address": "1719 Manchester Crossing Dr, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Cambridge Falls",
+   "price": 275000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 2092,
+   "year": 2009,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 131,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 275000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/4611-monarch-blue-ln-fresno-tx-77545/2390934",
+   "address": "4611 Monarch Blue Ln, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Andover Farms Sec 5",
+   "price": 299800,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2504,
+   "year": 2008,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 120,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299800
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2414-leadville-ct-fresno-tx-77545/2528727",
+   "address": "2414 Leadville Ct, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Winfield Lakes Sec 16",
+   "price": 275000,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 3167,
+   "year": 2014,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "Under Contract \u2014 verify status"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 87,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 275000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/5002-natchez-trce-fresno-tx-77545/16085845",
+   "address": "5002 Natchez Trce, Arcola 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Post Oak Pointe Sec 1",
+   "price": 280000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1659,
+   "year": 2022,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 169,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 280000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1006-cove-crest-trl-fresno-tx-77545/10650954",
+   "address": "1006 Cove Crest Trl, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Andover Farms",
+   "price": 260000,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 2110,
+   "year": 2007,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 123,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 260000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/3430-danbury-chase-trl-fresno-tx-77545/10434254",
+   "address": "3430 Danbury Chase Trl, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Cambridge Falls Sec 1",
+   "price": 295000,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 2622,
+   "year": 2006,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 113,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 295000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1722-livadero-ln-fresno-tx-77545/17659237",
+   "address": "1722 Livadero Ln, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Olympia Falls",
+   "price": 254995,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1360,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 187,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 254995
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1035-vista-pointe-dr-fresno-tx-77545/16727398",
+   "address": "1035 Vista Pointe Dr, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Post Oak Pointe Sec 5",
+   "price": 299999,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1812,
+   "year": 2024,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 166,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299999
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1947-seville-mnr-fresno-tx-77545/13535715",
+   "address": "1947 Seville Mnr, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Cambridge Falls Sec 6",
+   "price": 272900,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2253,
+   "year": 2016,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 121,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 272900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/1502-chandler-park-ln-fresno-tx-77545/17648477",
+   "address": "1502 Chandler Park Ln, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Andover Farms Sec 3",
+   "price": 254900,
+   "beds": 3,
+   "baths": 2.5,
+   "sqft": 1944,
+   "year": 2006,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 131,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 254900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2703-fawn-mountain-dr-fresno-tx-77545/14443430",
+   "address": "2703 Fawn Mountain Dr, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Winfield Lakes North Sec 4",
+   "price": 267500,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1729,
+   "year": 2019,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 155,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 267500
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/4035-e-teal-estates-cir-fresno-tx-77545/2426691",
+   "address": "4035 E Teal Estates Cir, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Estates of Teal Run Sec 5",
+   "price": 279000,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2359,
+   "year": 2006,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 118,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 279000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/3007-cronus-way-fresno-tx-77545/17567645",
+   "address": "3007 Cronus Way, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Olympia Falls",
+   "price": 279995,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1631,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 172,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 279995
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/2211-bright-sunrise-trl-fresno-tx-77545/15732225",
+   "address": "2211 Bright Sunrise Trl, Fresno 77545",
+   "area": "Fresno",
+   "areaRank": 7,
+   "subdivision": "Winfield Lakes North Sec 6",
+   "price": 299900,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 1913,
+   "year": 2022,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Fort Bend ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 157,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/4802-little-metalmark-dr-needville-tx-77461/17752069",
+   "address": "4802 Little Metalmark Dr, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 298990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1949,
+   "year": 2027,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2027"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 153,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 298990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6723-sleepy-orange-ct-needville-tx-77461/17733219",
+   "address": "6723 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 298990,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2649,
+   "year": 2027,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2027"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 113,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 298990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/4914-little-metalmark-dr-needville-tx-77461/17731281",
+   "address": "4914 Little Metalmark Dr, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 252990,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2258,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 112,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 252990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6914-papillon-ln-needville-tx-77461/17674602",
+   "address": "6914 Papillon Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 272990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 2393,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 114,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 272990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/8035-four-corners-rd-needville-tx-77461/17729902",
+   "address": "8035 George Crest Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 264990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1535,
+   "year": null,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "highlights": [
+    "Year built not shown on HAR card \u2014 kept per watch rule for unknown year"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 173,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 264990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/8039-four-corners-rd-needville-tx-77461/17729936",
+   "address": "8039 George Crest Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 272990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1617,
+   "year": null,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "highlights": [
+    "Year built not shown on HAR card \u2014 kept per watch rule for unknown year"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 169,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 272990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/8031-four-corners-rd-needville-tx-77461/17729915",
+   "address": "8031 George Crest Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 254990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1288,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 198,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 254990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/8043-four-corners-rd-needville-tx-77461/17729926",
+   "address": "8043 George Crest Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 266990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1541,
+   "year": null,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "highlights": [
+    "Year built not shown on HAR card \u2014 kept per watch rule for unknown year"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 173,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 266990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/12703-sunny-fields-ln-needville-tx-77461/17426777",
+   "address": "12703 Sunny Fields Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Harvest Pointe",
+   "price": 297990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1796,
+   "year": 2027,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2027"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 166,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 297990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6926-papillon-ln-needville-tx-77461/17674608",
+   "address": "6926 Papillon Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 260990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 1868,
+   "year": 2027,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2027"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 140,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 260990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6706-sleepy-orange-ct-needville-tx-77461/17690593",
+   "address": "6706 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 267990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1974,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 136,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 267990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6919-papillon-ln-needville-tx-77461/17674605",
+   "address": "6919 Papillon Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 257900,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 2233,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 115,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 257900
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6807-sleepy-orange-ct-needville-tx-77461/17690170",
+   "address": "6807 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 253990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1968,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 129,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 253990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6915-papillon-ln-needville-tx-77461/17674603",
+   "address": "6915 Papillon Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 273990,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2637,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 104,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 273990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6715-sleepy-orange-ct-needville-tx-77461/17690169",
+   "address": "6715 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 258990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1717,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 151,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 258990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6711-sleepy-orange-ct-needville-tx-77461/17688003",
+   "address": "6711 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 284990,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2649,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 108,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 284990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/8023-four-corners-rd-needville-tx-77461/17685585",
+   "address": "8023 George Crest Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 269990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1617,
+   "year": null,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "highlights": [
+    "Year built not shown on HAR card \u2014 kept per watch rule for unknown year"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 167,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 269990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6918-papillon-ln-needville-tx-77461/17674604",
+   "address": "6918 Papillon Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 259990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 1875,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 139,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 259990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6703-sleepy-orange-ct-needville-tx-77461/17667130",
+   "address": "6703 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 268990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 2098,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 128,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 268990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6707-sleepy-orange-ct-needville-tx-77461/17667131",
+   "address": "6707 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 263990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 1984,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 133,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 263990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/3635-needville-ave-needville-tx-77461/9995165",
+   "address": "3635 Needville Ave, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Skrabanek Meadows",
+   "price": 299000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1678,
+   "year": 2023,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 178,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299000
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6502-little-yellow-ct-needville-tx-77461/17666344",
+   "address": "6502 Little Yellow Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 291990,
+   "beds": 5,
+   "baths": 4.0,
+   "sqft": 2813,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 104,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 291990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/11131-caddo-maple-way-needville-tx-77461/17666322",
+   "address": "11131 Caddo Maple Way, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 294990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 2042,
+   "year": null,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "incomplete",
+    "price-cut"
+   ],
+   "highlights": [
+    "Year built not shown on HAR card \u2014 kept per watch rule for unknown year",
+    "Cut $5,000 (Nov 25)"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 144,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299990
+    },
+    {
+     "date": "2026-11-25",
+     "price": 294990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/8059-four-corners-rd-needville-tx-77461/17664075",
+   "address": "8059 George Crest Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 259990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1541,
+   "year": null,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "highlights": [
+    "Year built not shown on HAR card \u2014 kept per watch rule for unknown year"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 169,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 259990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/8055-four-corners-rd-needville-tx-77461/17664057",
+   "address": "8055 George Crest Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 270990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1617,
+   "year": null,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "highlights": [
+    "Year built not shown on HAR card \u2014 kept per watch rule for unknown year"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 168,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 270990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/8047-four-corners-rd-needville-tx-77461/17664118",
+   "address": "8047 George Crest Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 257990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1535,
+   "year": null,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "highlights": [
+    "Year built not shown on HAR card \u2014 kept per watch rule for unknown year"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 168,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 257990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6619-sleepy-orange-ct-needville-tx-77461/17658033",
+   "address": "6619 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 292990,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2943,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 100,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 292990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6710-sleepy-orange-ct-needville-tx-77461/17658133",
+   "address": "6710 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 272990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 2290,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 119,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 272990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/11127-caddo-maple-way-needville-tx-77461/17655953",
+   "address": "11127 Caddo Maple Way, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 274990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 2031,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "price-cut"
+   ],
+   "highlights": [
+    "New construction, built 2026",
+    "Cut $8,000 (Nov 25)"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 135,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 282990
+    },
+    {
+     "date": "2026-11-25",
+     "price": 274990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/11111-four-corners-rd-needville-tx-77461/17655479",
+   "address": "11111 August Sunset Dr, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 294990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2322,
+   "year": null,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "incomplete",
+    "price-cut"
+   ],
+   "highlights": [
+    "Year built not shown on HAR card \u2014 kept per watch rule for unknown year",
+    "Cut $5,000 (Nov 25)"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 127,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 299990
+    },
+    {
+     "date": "2026-11-25",
+     "price": 294990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/11119-four-corners-rd-needville-tx-77461/17655612",
+   "address": "11119 August Sunset Dr, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "August Trails",
+   "price": 289990,
+   "beds": 4,
+   "baths": 2.5,
+   "sqft": 2042,
+   "year": null,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new",
+    "incomplete"
+   ],
+   "highlights": [
+    "Year built not shown on HAR card \u2014 kept per watch rule for unknown year"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 142,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 289990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/12839-sunny-fields-ln-needville-tx-77461/17426792",
+   "address": "12839 Sunny Fields Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Harvest Pointe",
+   "price": 296957,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1800,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 165,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 296957
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6627-sleepy-orange-ct-needville-tx-77461/17644872",
+   "address": "6627 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 293990,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2943,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 100,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 293990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6623-sleepy-orange-ct-needville-tx-77461/17643442",
+   "address": "6623 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 274990,
+   "beds": 5,
+   "baths": 3.0,
+   "sqft": 2649,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 104,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 274990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6615-sleepy-orange-ct-needville-tx-77461/17634395",
+   "address": "6615 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 257990,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1974,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 131,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 257990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/14206-golden-wheat-ln-needville-tx-77461/17426813",
+   "address": "14206 Golden Wheat Ln, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Harvest Pointe",
+   "price": 279990,
+   "beds": 4,
+   "baths": 2.0,
+   "sqft": 1796,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 156,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 279990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6618-sleepy-orange-ct-needville-tx-77461/17626644",
+   "address": "6618 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 278490,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 1984,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 140,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 278490
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6515-little-yellow-ct-needville-tx-77461/17626067",
+   "address": "6515 Little Yellow Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 297990,
+   "beds": 5,
+   "baths": 4.0,
+   "sqft": 2813,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 106,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 297990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/6614-sleepy-orange-ct-needville-tx-77461/17613786",
+   "address": "6614 Sleepy Orange Ct, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Monarch Landing",
+   "price": 263990,
+   "beds": 4,
+   "baths": 3.0,
+   "sqft": 2098,
+   "year": 2026,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [
+    "New construction, built 2026"
+   ],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 126,
+   "builder": null,
+   "status": "under-contract",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 263990
+    }
+   ]
+  },
+  {
+   "url": "https://www.har.com/homedetail/14225-w-richmond-st-needville-tx-77461/16954437",
+   "address": "14225 W Richmond St, Needville 77461",
+   "area": "Needville",
+   "areaRank": 8,
+   "subdivision": "Valka Bros Add",
+   "price": 260000,
+   "beds": 3,
+   "baths": 2.0,
+   "sqft": 1214,
+   "year": 2023,
+   "dom": null,
+   "hoa": "\u2014",
+   "schools": "Needville ISD",
+   "flood": null,
+   "flags": [
+    "new"
+   ],
+   "highlights": [],
+   "inspector": "Standard protocol when serious.",
+   "ppsf": 214,
+   "builder": null,
+   "status": "active",
+   "firstSeen": "2026-11-22",
+   "lastVerified": "2026-11-25",
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 260000
+    }
+   ]
   }
  ],
- "source_note": "Mid-week light refresh 2026-11-18: known listings re-checked \u2014 HAR complete in-band sweeps all 7 ZIPs via Pi browser (371 unique cards: 77469:111, 77406:44, 77407:39, 77477:20, 77489:52, 77450:46, 77429:59) + Pi-browser detail pages for 27 sweep-absent listings (16 read: 14 HAR + 2 Redfin; 11 Zillow detail pages denied by PerimeterX, retained on lastVerified). Zillow page-1 sweep denied (77469). 8 removed (2 sold, 1 pending above band, 1 not for sale, 2 above band + under contract, 2 below band), 3 price changes, 7 status changes (6 to under-contract, 1 back to active), 0 new matches (light refresh \u2014 no discovery; 14 new HAR URLs logged for Sunday). DOMs updated only from fresh detail-page evidence (7 listings); all others carried forward. First scan of the four ZIPs added 2026-11-18 (77471 Rosenberg, 77545 Fresno, 77459 Missouri City, 77461 Needville; owner decision): 64 listings examined via HAR/Redfin/MLS-mirror text fetch (Zillow snippet-only, PerimeterX), 23 added, 26 excluded (5 pending, 9 below floor, 7 above band, 3 pre-2006, 2 off-market/unconfirmed, 1 plan-only group). 4914 Little Metalmark Dr ($252,990) excluded as pending per Redfin (Nov 16). Two Monarch Landing Cobbs (4826/4926 Little Metalmark Dr) verified on Lennar's builder site only \u2014 flagged incomplete, status unknown.",
+ "source_note": "Mid-week light refresh 2026-11-25: HAR complete in-band sweeps all 11 ZIPs (560 cards: 77469:102, 77406:44, 77407:42, 77477:13, 77489:49, 77450:48, 77429:53, 77471:70, 77459:54, 77545:30, 77461:55), no bot block. 249 canonical listings re-verified today. Price changes (4): 11111 August Sunset Dr, Needville 77461 $299990->$294990; 11127 Caddo Maple Way, Needville 77461 $282990->$274990; 11131 Caddo Maple Way, Needville 77461 $299990->$294990; 2630 Starry Sky Ln, Rosenberg 77471 $279990->$294990. Status changes (8): 1627 Branley Trl, Rosenberg 77471 active->under-contract; 2414 Leadville Ct, Fresno 77545 active->under-contract; 2630 Starry Sky Ln, Rosenberg 77471 under-contract->active; 3430 Danbury Chase Trl, Fresno 77545 under-contract->active; 5650 Pleasant Falls Dr, Richmond, TX 77407 active->under-contract; 6710 Sleepy Orange Ct, Needville 77461 under-contract->active; 6819 Canyon Breeze Dr, Rosenberg 77471 active->under-contract; 7502 Monarch Forest Ln, Richmond 77469 active->under-contract. Removals (7): 11115 August Sunset Dr, Needville 77461 ($254990) \u2014 cut to $249,990, below the $250K band (HAR detail, DOM 68); 3039 Cronus Way, Fresno 77545 ($269995) \u2014 sold Nov 19, 2026 (HAR detail); 5843 Madison Trail Drive, Richmond 77469 ($287370) \u2014 sold Nov 20, 2026 (HAR detail); 6519 Little Yellow Ct, Needville 77461 ($257990) \u2014 sold Nov 20, 2026 (HAR detail); 6718 Prairie Sky Dr, Rosenberg 77471 ($264990) \u2014 sold Nov 18, 2026 (HAR detail); 6719 Waterbuck Trce, Richmond 77406 ($299000) \u2014 currently not for sale (HAR detail); 8067 George Crest Ln, Needville 77461 ($264990) \u2014 sold Nov 20, 2026 (HAR detail). Detail checks: 11115 August Sunset Dr, Needville 77461: cut to $249,990, below the $250K band (HAR detail, DOM 68); 3039 Cronus Way, Fresno 77545: sold Nov 19, 2026 (HAR detail); 3330 Brushy Marsh Dr, Richmond 77406: still for sale $299,000, FSBO (Redfin detail), DOM 149; 5843 Madison Trail Drive, Richmond 77469: sold Nov 20, 2026 (HAR detail); 6519 Little Yellow Ct, Needville 77461: sold Nov 20, 2026 (HAR detail); 6718 Prairie Sky Dr, Rosenberg 77471: sold Nov 18, 2026 (HAR detail); 6719 Waterbuck Trce, Richmond 77406: currently not for sale (HAR detail); 6734 Papillon Ln, Needville 77461: still for sale $285,990 (Redfin detail), DOM 8; 8067 George Crest Ln, Needville 77461: sold Nov 20, 2026 (HAR detail). HAR cards show no DOM; DOM carried forward. Sqft card mismatches (1710 Revolution Way, 1022 Cedar Place Ln) left for Sunday detail check. New sweep URLs (315 rows not in canonical) logged to scan-2026-11-25/new-urls.txt for Sunday screening \u2014 no new matches added this run.",
  "removed_over_20_years": [
   {
    "address": "12230 Meadowdale Dr, Meadows Place, TX 77477",
@@ -6039,6 +9889,462 @@
    "year": 1957,
    "price": 295000,
    "reason": "Built before 2006 \u2014 over 20 years old (first scan of new ZIPs, 2026-11-18)"
+  },
+  {
+   "address": "21338 Park Run Dr, Katy, TX 77450",
+   "year": 1979,
+   "price": 300000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "21435 Park Run Dr, Katy, TX 77450",
+   "year": 1980,
+   "price": 280000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "906 Crossfield Dr, Katy, TX 77450",
+   "year": 1978,
+   "price": 299000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "22115 Woodrose Dr, Katy, TX 77450",
+   "year": 1973,
+   "price": 299990,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "22946 Provincial Blvd, Katy, TX 77450",
+   "year": 1981,
+   "price": 299900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "12315 Mill Ridge Dr, Cypress, TX 77429",
+   "year": 1984,
+   "price": 299000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "18223 Jills Way Ln, Cypress, TX 77429",
+   "year": 2004,
+   "price": 250000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "16623 Spring Barker Dr, Cypress, TX 77429",
+   "year": 2001,
+   "price": 300000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1212 Celaya Ct, Rosenberg, TX 77471",
+   "year": 2001,
+   "price": 265000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2701 Mazen Rd, Rosenberg, TX 77471",
+   "year": 1970,
+   "price": 299900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1210 Cambay Dr, Rosenberg, TX 77471",
+   "year": 1999,
+   "price": 272000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2605 B F Terry Blvd, Rosenberg, TX 77471",
+   "year": 1970,
+   "price": 295000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1908 Chelsea Ct, Rosenberg, TX 77471",
+   "year": 1983,
+   "price": 265000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "826 Walger Ave, Rosenberg, TX 77471",
+   "year": 1965,
+   "price": 269000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "5125 Cotter Ln, Rosenberg, TX 77471",
+   "year": 1995,
+   "price": 264900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1733 Brumbelow St, Rosenberg, TX 77471",
+   "year": 1974,
+   "price": 250000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "611 Hawthorne Pasture Rd, Rosenberg, TX 77471",
+   "year": 2005,
+   "price": 268900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1300 7th St, Rosenberg, TX 77471",
+   "year": 1926,
+   "price": 250000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "820 6th St, Rosenberg, TX 77471",
+   "year": 1935,
+   "price": 275000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3714 Quail Meadow Dr, Missouri City, TX 77459",
+   "year": 1977,
+   "price": 275000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1823 Hilton Head Dr, Missouri City, TX 77459",
+   "year": 1977,
+   "price": 299000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3543 Lanesborough Dr, Missouri City, TX 77459",
+   "year": 2004,
+   "price": 275000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3610 Palm Grove Dr, Missouri City, TX 77459",
+   "year": 1980,
+   "price": 264900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2119 Fall Meadow Dr, Missouri City, TX 77459",
+   "year": 1976,
+   "price": 254900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "5839 Kenwood, Missouri City, TX 77459",
+   "year": 2005,
+   "price": 285000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3522 Samuel Adams Ln, Missouri City, TX 77459",
+   "year": 2003,
+   "price": 299000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3023 John Locke Ln, Missouri City, TX 77459",
+   "year": 2004,
+   "price": 279000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3514 Corbett Ct, Missouri City, TX 77459",
+   "year": 1989,
+   "price": 300000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3007 Founders Ct, Missouri City, TX 77459",
+   "year": 2005,
+   "price": 288000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3035 Meadowview Dr, Missouri City, TX 77459",
+   "year": 1976,
+   "price": 279000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3107 Cherry Creek Dr, Missouri City, TX 77459",
+   "year": 1978,
+   "price": 269999,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "10422 Antelope Aly, Missouri City, TX 77459",
+   "year": 2004,
+   "price": 300000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2110 Mustang Springs Dr, Missouri City, TX 77459",
+   "year": 1976,
+   "price": 259990,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3114 Mission Valley Dr, Missouri City, TX 77459",
+   "year": 1976,
+   "price": 259900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3103 Meadowview Dr, Missouri City, TX 77459",
+   "year": 1976,
+   "price": 259000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1842 Indian Wells Dr, Missouri City, TX 77459",
+   "year": 1977,
+   "price": 279900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "10735 Cobblecreek Way, Missouri City, TX 77459",
+   "year": 2004,
+   "price": 299000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3303 Hilton Head Ct, Missouri City, TX 77459",
+   "year": 1977,
+   "price": 295000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2915 Cherry Springs Dr, Missouri City, TX 77459",
+   "year": 1977,
+   "price": 274500,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3311 Carmel Valley Dr, Missouri City, TX 77459",
+   "year": 1979,
+   "price": 299000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1826 Hilton Head Dr, Missouri City, TX 77459",
+   "year": 1976,
+   "price": 279000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "10106 Antelope Aly, Missouri City, TX 77459",
+   "year": 2003,
+   "price": 300000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "4327 Hoatzin Ct, Missouri City, TX 77459",
+   "year": 2000,
+   "price": 280000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2619 Bermuda Dunes Dr, Missouri City, TX 77459",
+   "year": 1975,
+   "price": 299000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3918 Federal Ln, Missouri City, TX 77459",
+   "year": 2004,
+   "price": 279900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2414 Hilton Head Dr, Missouri City, TX 77459",
+   "year": 1974,
+   "price": 285000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2715 Eros Ln, Missouri City, TX 77459",
+   "year": 2005,
+   "price": 269900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3111 Apple Dr, Missouri City, TX 77459",
+   "year": 1977,
+   "price": 260000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2006 Crestmont Cir, Missouri City, TX 77459",
+   "year": 1976,
+   "price": 275000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3310 Cumberland Dr, Missouri City, TX 77459",
+   "year": 1990,
+   "price": 290000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2038 Fall Meadow Dr, Missouri City, TX 77459",
+   "year": 1976,
+   "price": 259938,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3406 Duncaster Ct, Missouri City, TX 77459",
+   "year": 1980,
+   "price": 264777,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3415 Point Clear Dr, Missouri City, TX 77459",
+   "year": 1976,
+   "price": 275000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3715 Mission Valley Dr, Missouri City, TX 77459",
+   "year": 1994,
+   "price": 295000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "10727 Cobblecreek Way, Missouri City, TX 77459",
+   "year": 2004,
+   "price": 279000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1703 Regal Blue Ct, Fresno, TX 77545",
+   "year": 1986,
+   "price": 270000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1730 Carriage Run Ct, Fresno, TX 77545",
+   "year": 2001,
+   "price": 298990,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2711 Darby Brook Dr, Fresno, TX 77545",
+   "year": 2005,
+   "price": 260000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1403 Hunter Green Ln, Fresno, TX 77545",
+   "year": 1997,
+   "price": 260000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "122 E Houston St, Fresno, TX 77545",
+   "year": 1957,
+   "price": 290000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1615 Glacier Blue Dr, Fresno, TX 77545",
+   "year": 1993,
+   "price": 274990,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "4514 Green Fawn Ln, Fresno, TX 77545",
+   "year": 1995,
+   "price": 275000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1903 Tall Gum Dr, Fresno, TX 77545",
+   "year": 1993,
+   "price": 300000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "4007 Teal Run Meadows Dr, Fresno, TX 77545",
+   "year": 2002,
+   "price": 290000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "1619 Bonnie Lea Ln, Fresno, TX 77545",
+   "year": 1994,
+   "price": 250000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3103 Pennsylvania Rd, Fresno, TX 77545",
+   "year": 1978,
+   "price": 257600,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "2202 Chelsea Vale Dr, Fresno, TX 77545",
+   "year": 2003,
+   "price": 284999,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3803 Doveswood Cir, Needville, TX 77461",
+   "year": 2002,
+   "price": 299000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "13911 W Richmond St, Needville, TX 77461",
+   "year": 1972,
+   "price": 280000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "8903 Main St, Needville, TX 77461",
+   "year": 1950,
+   "price": 275000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3311 Schroeder Ave, Needville, TX 77461",
+   "year": 1977,
+   "price": 275000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "9615 Union St, Needville, TX 77461",
+   "year": 1970,
+   "price": 299900,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "3419 Beasley Ave, Needville, TX 77461",
+   "year": 1978,
+   "price": 280000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "10107 Harry Dr, Needville, TX 77461",
+   "year": 2001,
+   "price": 289000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "17002A Pleasant Rd, Needville, TX 77461",
+   "year": 2002,
+   "price": 250000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
+  },
+  {
+   "address": "6622 Rockergate Dr, Missouri City, TX 77489",
+   "year": 1978,
+   "price": 280000,
+   "reason": "Built before 2006 \u2014 over 20 years old (removed per user request 2026-09-28)"
   }
  ],
  "removed_55plus": [
@@ -6137,6 +10443,12 @@
    "subdivision": "Del Webb Sweetgrass",
    "price": 264000,
    "reason": "Del Webb Sweetgrass 55+ age-qualified community \u2014 ineligible (HAR detail, Nov 15; Subdivision field reads Del Webb Sweetgrass; legal plat Del Webb Richmond Sec 11; page says 55+ community)"
+  },
+  {
+   "address": "3323 Golden Eagle Way, Richmond 77469",
+   "subdivision": "Del Webb Sweetgrass",
+   "price": 299000,
+   "reason": "Del Webb 55+ age-qualified community \u2014 ineligible: Del Webb requires at least one resident 55+ and no permanent resident under 19 (verified 2026-10-18); household is 36/31/3.5 (removed 2026-11-22)"
   }
  ]
 }
