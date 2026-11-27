@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-11-26 — Deploy retry step (fix for run #38 failure)
+
+The 2026-11-25 mid-week refresh (252 listings) built successfully but the
+final "Deploy to Pages" step failed on a Pages artifact metadata error, so
+the new data never reached the live site. The stored token cannot re-run a
+failed workflow (Actions write is outside its scope), so the fix ships in
+the workflow itself: a second deploy step that runs only when the first
+deploy step fails, retrying the same artifact in the same run.
+
 ## 2026-11-18 — Book Match rating, size flags, per-listing Book notes
 
 Owner-ordered: every listing now carries a rating of how well it matches
