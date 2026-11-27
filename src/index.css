@@ -93,6 +93,7 @@ a { color: var(--teal); }
 .home-header-left { display: flex; align-items: baseline; gap: 10px; min-width: 0; }
 .wordmark { font-family: "Space Grotesk", sans-serif; font-weight: 700; font-size: 1.375rem; color: var(--cream); margin: 0; letter-spacing: 0.08em; }
 .wordmark-sm { font-size: 1.0625rem; }
+.brand-mark { align-self: center; flex: none; display: block; }
 .run-stamp-inline {
   font-family: "JetBrains Mono", monospace; font-size: 0.75rem; color: var(--text-3);
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;

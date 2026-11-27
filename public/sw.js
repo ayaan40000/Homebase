@@ -1,6 +1,6 @@
 // HomeBase service worker — network-first so a fresh board always wins when
 // online; the cache is only an offline fallback. Bump CACHE when the shell changes.
-const CACHE = 'homebase-v1';
+const CACHE = 'homebase-v2';
 
 self.addEventListener('install', () => {
   self.skipWaiting();

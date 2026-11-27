@@ -52,6 +52,13 @@ export default function PulseHeader({
     <>
       <header className="home-header">
         <div className="home-header-left">
+          <img
+            className="brand-mark"
+            src={`${import.meta.env.BASE_URL}icons/mark.svg`}
+            alt=""
+            width={22}
+            height={22}
+          />
           <p className="wordmark wordmark-sm">HOMEBASE</p>
           <span className="run-stamp-inline">
             {formatRunDate(generated)} run · {kpis.count} homes

@@ -161,6 +161,9 @@ scorer/                              Rust crate: listings.json -> scored.json
 tools/sync_data.py                   canonical JSON -> data/listings.json + privacy scan + delta
 tools/make_delta.py                  standalone two-payload differ -> data/delta.json + history
 tools/check_consistency.py           pre-push publish guard (must pass)
+tools/make-icons.mjs                 prebuild: draws the Meridian Dial PNG icons
+public/icons/                        logo SVGs (app icon, maskable, favicon, header mark)
+docs/brand/                          logo masters + usage notes (Meridian Dial)
 .github/workflows/deploy.yml         scorer -> build -> Pages deploy
 docs/                                design, scoring, platform and build docs
 ```

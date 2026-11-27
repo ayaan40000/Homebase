@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-11-27 — New logo: the Meridian Dial
+
+The app has a new mark, the **"Meridian Dial"**. It's a brass instrument ring whose
+needle is a roof pointing north, with a teal hub and a teal north tick, on the
+Meridian Dark blue-black. It replaces the brass house/H icon.
+
+- `public/icons/icon.svg`, `icon-maskable.svg`, the new `favicon.svg` (a simplified
+  cut for browser tabs) and `mark.svg` (shown beside the HOMEBASE wordmark in the
+  Home header).
+- `tools/make-icons.mjs` now draws the dial for the generated PNGs (192, 512 and
+  512 maskable), which are also listed in the manifest. They are still built at
+  `prebuild` and not committed.
+- Service worker cache bumped to `homebase-v2`. Logo masters and usage notes
+  are in `docs/brand/`.
+- No data, scoring or scope changes.
+
 ## 2026-11-18 — Book Match rating, size flags, per-listing Book notes
 
 Owner-ordered: every listing now carries a rating of how well it matches
